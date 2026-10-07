@@ -1,0 +1,157 @@
+profile:
+  university: University of Wisconsin–Madison
+  majors: [Economics, Data Science]
+  graduation_options: ["2028-05", "2028-12"]
+  availability: {start: "05-11", end: "08-31"}
+  status: F-1 international student in the United States
+
+preferred_roles:
+  - strategy
+  - business operations
+  - corporate strategy
+  - business development
+  - partnerships
+  - product
+  - product strategy
+  - marketing
+  - growth
+  - finance
+  - investment
+  - asset management
+  - consulting
+  - commercial
+  - supply chain
+  - revenue strategy
+  - sales strategy
+  - market research
+  - business analyst
+  - data analyst
+  - analytics
+  - business intelligence
+  - data science
+# These roles receive penalties, not automatic exclusion.
+excluded_roles:
+  - software engineer
+  - software engineering
+  - data engineer
+  - data engineering
+  - devops
+  - infrastructure
+  - backend engineer
+  - frontend engineer
+  - full stack engineer
+  - full-stack engineer
+  - cybersecurity
+  - machine learning engineer
+  - backend
+  - frontend
+  - full stack
+  - full-stack
+  - pure ml engineer
+  - qa engineer
+preferred_countries:
+  - Singapore
+  - Australia
+  - Canada
+  - United Arab Emirates
+  - Qatar
+  - Saudi Arabia
+  - South Korea
+internship_keywords: [intern, internship, internships, intern/co-op, co-op, co op, placement]
+student_keywords: [student, students, undergraduate, graduate program, graduate programme, new grad, new grads, new graduate, new graduates, early career, early careers, early-career, early-careers, campus, summer analyst, summer associate, penultimate year, final year student, recent graduate, recent graduates]
+summer_keywords: [summer]
+business_keywords: [business, economics, economic, strategy, strategic, revenue, market, marketing, financial, finance, investment, commercial, customer, product, operations, consulting]
+data_keywords: [data, analytics, analytical, analysis, statistics, intelligence]
+senior_keywords: [senior, sr., sr, staff, principal, manager, director, head of, vice president, vp, lead, executive, counsel, specialist, architect, experienced professional, experienced hire]
+permanent_keywords: [permanent, full-time, full time]
+scoring_weights:
+  role: 40
+  country: 20
+  internship: 15
+  business: 15
+  data: 5
+  sponsorship: 5
+penalties:
+  engineering: 25
+  senior: 30
+  experience: 25
+  uncertain_entry: 25
+  permanent: 20
+  non_intern: 10
+  outside_availability: 10
+ai_shortlist:
+  max_candidates: 200
+  preferred_roles:
+    - strategy
+    - business operations
+    - corporate strategy
+    - business development
+    - partnerships
+    - product strategy
+    - marketing
+    - growth
+    - finance
+    - investment
+    - asset management
+    - consulting
+    - commercial
+    - supply chain
+    - revenue strategy
+    - sales strategy
+    - market research
+    - business analyst
+    - data analyst
+    - analytics
+  excluded_roles: [software developer, developer, site reliability, sre, quality assurance, qa, security engineer, machine learning engineer, ml engineer]
+target_shortlist:
+  preferred_roles:
+    - strategy
+    - business operations
+    - corporate strategy
+    - business development
+    - partnerships
+    - product strategy
+    - marketing
+    - growth
+    - finance
+    - investment
+    - asset management
+    - consulting
+    - commercial
+    - supply chain
+    - revenue strategy
+    - sales strategy
+    - market research
+    - business analyst
+    - data analyst
+    - analytics
+    - operations
+  excluded_roles: [software developer, developer, site reliability, reliability engineer, integration engineer, systems engineer, platform engineer, sre, quality assurance, qa, security engineer, ml engineer]
+sources:
+  # Company boards use the same adapter loop; add another entry to expand coverage.
+  # Prioritize finance, commercial, consulting, travel and logistics employers.
+  - {type: greenhouse, company: Stripe, board: stripe}
+  - {type: greenhouse, company: Adyen, board: adyen}
+  - {type: greenhouse, company: Agoda, board: agoda}
+  - {type: greenhouse, company: Xendit, board: xendit}
+  - {type: greenhouse, company: Careem, board: careem}
+  - {type: greenhouse, company: Geotab, board: geotab}
+  - {type: greenhouse, company: AlphaSights, board: alphasights}
+  - {type: greenhouse, company: Guidepoint, board: guidepoint}
+  - {type: greenhouse, company: Capco, board: capco}
+  - {type: greenhouse, company: Point72, board: point72}
+  - {type: greenhouse, company: Schonfeld, board: schonfeld}
+  - {type: greenhouse, company: OKX, board: okx}
+  - {type: lever, company: Spotify, board: spotify}
+  - {type: lever, company: Binance, board: binance}
+  - {type: lever, company: Crypto.com, board: crypto}
+  - {type: lever, company: Lalamove, board: lalamove}
+  - {type: lever, company: Fresha, board: fresha}
+  - {type: lever, company: Ninja Van, board: ninjavan}
+  # Board names are case-sensitive on Ashby.
+  - {type: ashby, company: Wealthsimple, board: wealthsimple}
+  - {type: ashby, company: Airwallex, board: Airwallex}
+http:
+  timeout: 30
+  retries: 2
+  user_agent: GlobalInternshipHunter/0.1 (public-job-board-reader)
