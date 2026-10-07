@@ -757,6 +757,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Lalamove | [Driver Operations Associate (Fleet Onboarding \| 6-month contract)](https://jobs.lever.co/lalamove/95a0b972-186f-4bfe-838d-cb456b357997) |  | Penang | Lever:lalamove |
 | 0 | Lalamove | [Driver Operations Associate (Fleet Onboarding \| 6-month contract)](https://jobs.lever.co/lalamove/9b310ea4-eb43-43a3-aa29-728212b384bc) |  | Johor Bahru | Lever:lalamove |
 | 0 | Lalamove | [Driver Operations Associate, Fleet Onboarding (6-month contract)](https://jobs.lever.co/lalamove/5d24098b-55e5-43c2-a86e-ab9bf141ccfc) |  | Kuala Lumpur | Lever:lalamove |
+| 0 | Lalamove | [Sticker Operations Associate (3-month contract)](https://jobs.lever.co/lalamove/2b92a514-3dc6-48bd-b90b-6e4439a75cf3) |  | Kuala Lumpur | Lever:lalamove |
 | 0 | Lalamove | [Sticker Operations Associate (6-month contract)](https://jobs.lever.co/lalamove/27aabd91-8083-4dc4-8977-e2fa69fd7868) |  | Ipoh | Lever:lalamove |
 | 0 | OKX | [Administration Expert, Global Strategic & Digitalization COE](https://job-boards.greenhouse.io/okx/jobs/5949501003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
 | 0 | OKX | [Brand Supervisor (Global Markets)](https://job-boards.greenhouse.io/okx/jobs/7788203003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
