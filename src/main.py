@@ -13,6 +13,7 @@ from src.changes import track_target_changes
 from src.filters import keep_job
 from src.models import normalize
 from src.notifications import notify_new_jobs
+from src.run_log import record_run
 from src.ranker import rank_job
 from src.shortlist import build_shortlist, save_shortlist
 from src.target import build_target_jobs, save_target_jobs
@@ -103,7 +104,11 @@ def main():
         target_jobs, args.output, complete=succeeded == len(preferences["sources"]))
     logger.info("Target changes: %d current; %d new; %d closed",
                 len(target_jobs), len(new_target_jobs), len(closed_target_jobs))
-    notify_new_jobs(new_target_jobs)
+    new_alert_messages = notify_new_jobs(new_target_jobs)
+    record_run(args.output, fetched=len(jobs), retained=len(ranked),
+               sources_succeeded=succeeded, sources_total=len(preferences["sources"]),
+               targets=len(target_jobs), new=len(new_target_jobs), closed=len(closed_target_jobs),
+               new_alert_messages=new_alert_messages)
     logger.info("Target funnel: %d saved; %d target-country; %d early-career; %d role-qualified",
                 target_stats["saved"], target_stats["target_country"],
                 target_stats["early_career"], target_stats["final"])

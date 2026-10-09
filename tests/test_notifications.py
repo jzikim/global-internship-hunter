@@ -66,7 +66,8 @@ class NotificationTests(unittest.TestCase):
                  patch("src.main.collect", return_value=([job], 20)), \
                  self.assertLogs("src.notifications", level="WARNING") as logs:
                 self.assertEqual(main(), 0)
-            post.assert_called_once()
+            # Both the new-job alert and the run summary attempt delivery.
+            self.assertEqual(post.call_count, 2)
             self.assertNotIn("private-secret", " ".join(logs.output))
             self.assertEqual(len(json.loads((output / "new_target_jobs.json").read_text(encoding="utf-8"))), 1)
             self.assertTrue((output / "target_jobs_snapshot.json").exists())
