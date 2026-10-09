@@ -19,7 +19,7 @@ Results are generated from configured company boards; they are not a complete gl
 ## How it works
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Public job boards] --> B[Normalize and deduplicate]
     B --> C[Filter and score]
     C --> D[Target shortlist]
