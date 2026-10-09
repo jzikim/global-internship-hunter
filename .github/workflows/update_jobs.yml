@@ -2,8 +2,8 @@ name: Update internship jobs
 
 on:
   schedule:
-    # UTC: about 08:23 CDT or 07:23 CST.
-    - cron: '23 13 * * *'
+    # Twice daily in UTC: about 08:23/20:23 CDT or 07:23/19:23 CST.
+    - cron: '23 1,13 * * *'
   workflow_dispatch:
 
 permissions:

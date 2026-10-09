@@ -1,52 +1,116 @@
 # Global Internship Hunter
 
-Small Python collector for an Economics / Data Science undergraduate at UW–Madison (graduating May or December 2028). Prioritizes business internships, summer opportunities, and seven preferred countries. Technical roles are secondary. No frontend, database, LLM, or paid API.
+[![Update internship jobs](https://github.com/jzikim/global-internship-hunter/actions/workflows/update_jobs.yml/badge.svg)](https://github.com/jzikim/global-internship-hunter/actions/workflows/update_jobs.yml)
+[![Tests](https://github.com/jzikim/global-internship-hunter/actions/workflows/tests.yml/badge.svg)](https://github.com/jzikim/global-internship-hunter/actions/workflows/tests.yml)
 
-## Run (Python 3.11+)
+An automated internship tracker for an Economics & Data Science student at UW–Madison. It collects public job postings, prioritizes business and analytics opportunities, and sends new target matches to Discord.
 
-```bash
-cd global-internship-hunter
-python -m venv .venv
-# Windows PowerShell: .\.venv\Scripts\Activate.ps1
-# macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
-python -m src.main
-python -m unittest discover -s tests -v
+**Python · Greenhouse / Lever / Ashby · Rule-based ranking · GitHub Actions · Discord**
+
+## Browse the results
+
+- [Target matches](data/target_jobs.md) — preferred-country, early-career business roles.
+- [New target matches](data/new_target_jobs.md) — changes from the previous complete collection.
+- [All ranked postings](data/jobs.md) — broader results, including lower-priority roles.
+- [Latest run](data/latest_run.json) — timestamp, source coverage, counts, and Discord summary status.
+
+Results are generated from configured company boards; they are not a complete global vacancy search.
+
+## How it works
+
+```mermaid
+flowchart LR
+    A[Public job boards] --> B[Normalize and deduplicate]
+    B --> C[Filter and score]
+    C --> D[Target shortlist]
+    D --> E[Compare previous snapshot]
+    E --> F[Discord alerts and run summary]
+    E --> G[JSON / CSV / Markdown]
 ```
 
-Optional: `python -m src.main --config config/preferences.yaml --output data`
+The tracker uses transparent rules and configurable weights. It does not call an LLM or paid API. The `ai_candidates` files are a rule-based export for possible later review.
 
-## Structure and output
+## Countries and roles
 
-- `src/main.py`: collect, normalize, deduplicate, filter, rank, export.
-- `src/models.py`, `filters.py`, `ranker.py`, `dedupe.py`: plain deterministic logic.
-- `src/sources/`: reusable HTTP base plus Greenhouse, Lever and Ashby adapters.
-- `config/preferences.yaml`: roles, countries, keywords, scoring weights, penalties, boards, and HTTP settings.
-- `tests/test_ranker.py`: scoring, deduplication, and source failure checks.
-- `data/jobs.json`: all normalized fields for retained postings, including descriptions and score reasons.
-- `data/jobs.csv`: score, company, title, location, country, publication date, sponsorship text, source, URL.
-- `data/jobs.md`: ranked table with original posting links.
+**Preferred countries:** Singapore, Australia, Canada, United Arab Emirates, Qatar, Saudi Arabia, and South Korea.
 
-## Public sources
+**Role focus:** strategy, business operations, business development, partnerships, marketing, finance, investment, consulting, supply chain, and business/data analytics. Technical and experienced roles receive penalties or are excluded from stricter shortlists.
 
-20 configured company boards (12 Greenhouse, 6 Lever, 2 Ashby). Coverage includes Stripe, Adyen, Agoda, Xendit, Careem, Geotab, AlphaSights, Guidepoint, Capco, Point72, Schonfeld, OKX, Spotify, Binance, Crypto.com, Lalamove, Fresha, Ninja Van, Wealthsimple and Airwallex. These are company boards, not global search engines. Only currently published postings returned by these endpoints are collected; internship availability changes over time.
+Preferences, employer boards, and weights live in [`config/preferences.yaml`](config/preferences.yaml). The current configuration includes 20 boards: 12 Greenhouse, 6 Lever, and 2 Ashby.
 
-API references: [Greenhouse Job Board API](https://docs.greenhouse.io/job-board.html), [Lever Postings API](https://github.com/lever/postings-api), [Ashby Public Job Postings API](https://developers.ashbyhq.com/docs/public-job-posting-api).
+## Run locally
 
-To add another company on these platforms, add a `sources` entry with `type` (`greenhouse`, `lever`, or `ashby`), `company`, and its public `board` token. No Python edits are needed for another company. Board tokens are case-sensitive. For a new platform, subclass `JobSource` in a separate module, implement `fetch_jobs()` returning `Job` objects, and register it in `ADAPTERS` in `src/main.py`. The collector logs total and preferred-country counts before and after deduplication/filtering; multi-country jobs count once in each overall total.
+Requires Python 3.11 or newer.
 
-## Ranking and limits
+```bash
+git clone https://github.com/jzikim/global-internship-hunter.git
+cd global-internship-hunter
+python -m venv .venv
+```
 
-Score: role 40, country 20, internship/summer 15, business 15, data 5, explicit sponsorship support 5. Technical, senior, permanent, non-intern and clearly different-season roles receive penalties. Unknown dates and visa support do not exclude a posting. Senior titles and explicit minimum 3+ years requirements are filtered only when no internship/student title is present. Ambiguous and secondary technical jobs remain with lower scores.
+Activate the environment:
 
-Cities only help infer countries; no city has its own weight. Multi-country postings retain all inferred countries. Country inference and keyword matching are conservative heuristics. Visa sentences are copied as source evidence, with no legal or eligibility determination. Graduation requirements and exact internship dates need manual review; May 11–August 31 is a preference, not an automatic date exclusion. Missing publication dates stay blank (Greenhouse update timestamps are not publication dates).
+```powershell
+# Windows PowerShell
+.\.venv\Scripts\Activate.ps1
+```
 
-Each run replaces the three ranked output files. Filtered experienced roles are not exported; JSON contains the complete normalized records for retained jobs. Partial source failure is logged and other boards continue. All-source failure preserves previous files and exits with status 1; partial results may be incomplete. There is no historical tracking.
+```bash
+# macOS / Linux
+source .venv/bin/activate
+```
 
-## Automation and Discord
+Then install, test, and collect:
 
-Push the project, including `data/target_jobs_snapshot.json`, to your GitHub repository's default branch. `.github/workflows/update_jobs.yml` runs daily at 13:23 UTC (about 08:23 CDT or 07:23 CST), tests the code, and commits changed `data/` files using `GITHUB_TOKEN`; no PAT is needed. Keep `data/` tracked so each run loads the previous snapshot. Repository rules must permit the workflow's direct commits.
+```bash
+python -m pip install -r requirements.txt
+python -m unittest discover -s tests -v
+python -m src.main
+```
 
-Add your Discord webhook as **Settings → Secrets and variables → Actions → New repository secret → `DISCORD_WEBHOOK_URL`**. Only new target jobs trigger alerts; messages are split to Discord's limit. Missing webhook, zero new jobs, or delivery errors do not fail collection. The first run without a snapshot creates a quiet baseline. Manually run via **Actions → Update internship jobs → Run workflow**. Locally, `python -m src.main` works without a webhook; optionally set the same environment variable to enable alerts.
+Optional: `python -m src.main --config config/preferences.yaml --output data`.
 
-Every completed collection also sends a Discord run summary, even when there are zero new target jobs. `data/latest_run.json` records the execution time, counts, and summary delivery outcome, so every completed collection creates a data commit. Summary delivery failures are recorded and do not stop data commits. All-source failure still exits without replacing data or recording a completed run. New-job alerts remain separate and are not automatically retried after delivery failure.
+Local runs work without Discord. Set `DISCORD_WEBHOOK_URL` in the environment only when you want to send notifications.
+
+## Repository layout
+
+```text
+global-internship-hunter/
+├── .github/workflows/   # Twice-daily updater and test-only CI
+├── config/             # Countries, roles, weights, and source boards
+├── src/
+│   ├── sources/         # Greenhouse, Lever, and Ashby collectors
+│   ├── main.py          # Pipeline and command-line entry point
+│   ├── models.py        # Normalization and country inference
+│   ├── dedupe.py        # Job identity and duplicate handling
+│   ├── filters.py       # Eligibility signals and broad filtering
+│   ├── ranker.py        # Deterministic scoring
+│   ├── shortlist.py     # Candidate export for later review
+│   ├── target.py        # Strict country / career / role shortlist
+│   ├── changes.py       # New / absent job comparison and snapshot
+│   ├── notifications.py # New-job Discord alerts
+│   └── run_log.py       # Run summary and delivery outcome
+├── data/                # Generated results and persistent snapshot
+├── docs/                # Architecture, file roles, and operations
+├── tests/               # Collector, ranking, snapshot, and alert tests
+├── requirements.txt
+└── README.md
+```
+
+The existing module paths and `python -m src.main` entry point are retained so scheduled runs and imports remain compatible.
+
+## Automation
+
+The updater runs **twice daily at 01:23 and 13:23 UTC**: approximately 20:23 / 08:23 CDT or 19:23 / 07:23 CST in Madison. GitHub may delay scheduled jobs. Manual execution is also available under **Actions → Update internship jobs → Run workflow**.
+
+Add `DISCORD_WEBHOOK_URL` under **Settings → Secrets and variables → Actions**. New target jobs receive alerts; every completed collection also sends a run summary. Missing webhooks and delivery errors do not stop data commits.
+
+The workflow tests the code before collecting and commits changed `data/` files using `GITHUB_TOKEN`. Keep the snapshot tracked; the first complete run without one establishes a quiet baseline. Test-only CI validates pull requests without collecting jobs or sending Discord messages.
+
+## Details and limitations
+
+- [Architecture and scoring](docs/architecture.md)
+- [Data files and snapshot lifecycle](docs/data.md)
+- [Automation, Discord, and troubleshooting](docs/operations.md)
+
+Dates, country inference, and eligibility signals are heuristic. Verify graduation requirements, internship dates, and work authorization in the original posting. Partial source failures can produce incomplete results; all-source failure preserves previous output. A job absent from the target list is not proof that the employer closed it.
