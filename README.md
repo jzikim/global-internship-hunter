@@ -20,12 +20,12 @@ Results are generated from configured company boards; they are not a complete gl
 
 ```mermaid
 flowchart TD
-    A[Public job boards] --> B[Normalize and deduplicate]
-    B --> C[Filter and score]
-    C --> D[Target shortlist]
-    D --> E[Compare previous snapshot]
-    E --> F[Discord alerts and run summary]
-    E --> G[JSON / CSV / Markdown]
+    A[Job boards] --> B[Normalize]
+    B --> C[Filter + score]
+    C --> D[Target jobs]
+    D --> E[Snapshot diff]
+    E --> F[Discord]
+    E --> G[Exports]
 ```
 
 The tracker uses transparent rules and configurable weights. It does not call an LLM or paid API. The `ai_candidates` files are a rule-based export for possible later review.
