@@ -23,7 +23,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 72 | Agoda | [Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)](https://job-boards.greenhouse.io/agoda/jobs/8194692) |  | Bangkok | Greenhouse:agoda |
 | 72 | Agoda | [Product Operations Analyst](https://job-boards.greenhouse.io/agoda/jobs/6354870) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 72 | Lalamove | [Sales Operations & Analytics Intern](https://jobs.lever.co/lalamove/2aef288a-5dd8-4fe1-afcc-571dfdd1e735) |  | Istanbul | Lever:lalamove |
-| 72 | Ninja Van | [Intern, Finance](https://jobs.lever.co/ninjavan/fdd78653-942f-4b01-9cb2-a4a19e63cc15) |  | Subang Jaya, Selangor, Malaysia | Lever:ninjavan |
+| 72 | Ninja Van | [Intern, Finance](https://jobs.lever.co/ninjavan/93811788-1087-4100-964f-416dadf472e1) |  | Subang Jaya, Selangor, Malaysia | Lever:ninjavan |
 | 72 | Ninja Van | [Intern, Marketing (Ninja Mart - FMCG)](https://jobs.lever.co/ninjavan/9c423ad1-0d18-4eaf-a69a-712c660a10f3) |  | Subang Jaya, Selangor, Malaysia | Lever:ninjavan |
 | 72 | Point72 | [Investment Services Emerging Talent Network](https://boards.greenhouse.io/point72/jobs/6732930002?gh_jid=6732930002) | United States | Stamford, CT and New York, NY | Greenhouse:point72 |
 | 72 | Point72 | [Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – HK)](https://boards.greenhouse.io/point72/jobs/8572402002?gh_jid=8572402002) | Hong Kong | Hong Kong | Greenhouse:point72 |
@@ -104,9 +104,9 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 32 | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8716050002) | United States | Boston, Massachusetts, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8716174002) | United States | San Francisco, California, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | United States | New York, New York, United States | Greenhouse:guidepoint |
-| 32 | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715999002) | United States | Phoenix, Arizona, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8716082002) | United States | Boston, Massachusetts, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8716199002) | United States | San Francisco, California, United States | Greenhouse:guidepoint |
+| 32 | Guidepoint | [Client Service Associate (January Start)](https://job-boards.greenhouse.io/guidepoint/jobs/8715999002) | United States | Phoenix, Arizona, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Healthcare Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8645890002) | United States | Boston, Massachusetts, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | United States | New York, New York, United States | Greenhouse:guidepoint |
 | 32 | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8716130002) | United States | Boston, Massachusetts, United States | Greenhouse:guidepoint |
@@ -292,6 +292,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Schonfeld | [Product Controller](https://job-boards.greenhouse.io/schonfeld/jobs/8185693) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 25 | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | United States | Miami, Florida, United States; New York, New York, United States | Greenhouse:schonfeld |
 | 25 | Stripe | [Americas Field Marketing, AI](https://stripe.com/jobs/search?gh_jid=8222219) | United States | South San Francisco | Greenhouse:stripe |
+| 25 | Stripe | [Bridge Product Accountant](https://stripe.com/jobs/search?gh_jid=8262032) | India | Bengaluru | Greenhouse:stripe |
 | 25 | Stripe | [Commercial Operations Associate](https://stripe.com/jobs/search?gh_jid=8175653) |  | Mexico City | Greenhouse:stripe |
 | 25 | Stripe | [Crypto Product Accounting](https://stripe.com/jobs/search?gh_jid=7774312) | United States | San Francisco, Seattle, New York | Greenhouse:stripe |
 | 25 | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | United States | New York | Greenhouse:stripe |
@@ -356,7 +357,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 5 | Capco | [Unix/Linux Developer – Application Modernization](https://job-boards.greenhouse.io/capco/jobs/8258931) | Canada | Canada - Toronto | Greenhouse:capco |
 | 5 | Crypto.com | [Compliance - Market Surveillance Analyst](https://jobs.lever.co/crypto/ac03000c-445b-42a3-8da3-4a872116bd91) | United Arab Emirates | Dubai | Lever:crypto |
 | 5 | Geotab | [Quality Assurance Analyst - Dubai (Full Relocation offered)](https://job-boards.greenhouse.io/geotab/jobs/5446644008) | United Arab Emirates | Dubai - Dubai | Greenhouse:geotab |
-| 5 | Geotab | [Software Developer](https://job-boards.greenhouse.io/geotab/jobs/5107813008) | United Arab Emirates | Dubai - Dubai | Greenhouse:geotab |
 | 5 | Lalamove | [Delivery Operations Associate (Part-time)](https://jobs.lever.co/lalamove/ea2d2c41-4ec1-4374-9ace-6813fdf19b14) | Singapore | Singapore | Lever:lalamove |
 | 5 | Lalamove | [Driver Operations Coordinator/Associate (6 Months Contract)](https://jobs.lever.co/lalamove/06c50a2e-f6dc-4da3-8158-112240c09485) | Singapore | Singapore | Lever:lalamove |
 | 5 | Lalamove | [Operation Associate (Hourly Rated)](https://jobs.lever.co/lalamove/f8d617ce-dce0-4b94-8f6e-c4e1cdc0ff4f) | Singapore | Singapore | Lever:lalamove |
@@ -855,11 +855,11 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8249901) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Backend](https://stripe.com/jobs/search?gh_jid=8198280) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, High Availability and Disaster Recovery](https://stripe.com/jobs/search?gh_jid=8197135) | United States | Seattle, WA | Greenhouse:stripe |
+| 0 | Stripe | [Software Engineer, Internal Identity](https://stripe.com/jobs/search?gh_jid=8263356) |  | na | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Metronome Infrastructure](https://stripe.com/jobs/search?gh_jid=8231439) | Canada | Toronto, Vancouver, Canada-Remote | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Money Movement](https://stripe.com/jobs/search?gh_jid=7208537) | United Kingdom | London | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Payins Card Networks](https://stripe.com/jobs/search?gh_jid=8198207) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Payments and Risk](https://stripe.com/jobs/search?gh_jid=6717520) | Ireland | Dublin, Ireland | Greenhouse:stripe |
-| 0 | Stripe | [Software Engineer, Payments and Risk](https://stripe.com/jobs/search?gh_jid=8261012) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Secrets Infrastructure](https://stripe.com/jobs/search?gh_jid=7396679) |  | na | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=8175656) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Software Quality Assurance Engineer](https://stripe.com/jobs/search?gh_jid=8153331) |  | Taipei,Taiwan | Greenhouse:stripe |
