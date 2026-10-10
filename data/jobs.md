@@ -320,7 +320,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 22 | Stripe | [Software Engineer, Money as a Service](https://stripe.com/jobs/search?gh_jid=8209644) | Singapore | Singapore | Greenhouse:stripe |
 | 22 | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8157838) | Canada | Toronto | Greenhouse:stripe |
 | 22 | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8160776) | Singapore | Singapore | Greenhouse:stripe |
-| 22 | Stripe | [University Recruiting Manager](https://stripe.com/jobs/search?gh_jid=8094669) | Singapore; Ireland | Singapore, Dublin | Greenhouse:stripe |
 | 21 | Capco | [AI Security Consultant](https://job-boards.greenhouse.io/capco/jobs/8222492) | Qatar | Middle East - Doha | Greenhouse:capco |
 | 21 | Capco | [Crypto Engineer (Contract)](https://job-boards.greenhouse.io/capco/jobs/8185086) | Canada | Canada - Toronto | Greenhouse:capco |
 | 21 | Capco | [Data Protection Consultant](https://job-boards.greenhouse.io/capco/jobs/8222690) | Qatar | Middle East - Doha | Greenhouse:capco |
