@@ -58,7 +58,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 48 | Capco | [Capco Associate Talent Program - Houston June 2027](https://job-boards.greenhouse.io/capco/jobs/8108842) | United States | US - Dallas | Greenhouse:capco |
 | 48 | Guidepoint | [Client Service Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8631488002) | United States | Phoenix, Arizona, United States | Greenhouse:guidepoint |
 | 48 | Guidepoint | [Client Service Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8631511002) | United States | Boston, Massachusetts, United States | Greenhouse:guidepoint |
-| 48 | Guidepoint | [Client Service Associate (Bilingual Spanish/English)](https://job-boards.greenhouse.io/guidepoint/jobs/8633701002) | United States | Phoenix, Arizona, United States | Greenhouse:guidepoint |
 | 48 | Lalamove | [Company Secretarial Assistant](https://jobs.lever.co/lalamove/5e671c8d-4fa4-409d-8c48-fdb30a4a15fb) | Hong Kong | Hong Kong SAR | Lever:lalamove |
 | 48 | Lalamove | [Graphic Designer Intern](https://jobs.lever.co/lalamove/2d0a4b9a-201d-457a-ac84-32e5e074e37f) |  | Istanbul | Lever:lalamove |
 | 48 | Ninja Van | [Sales Intern](https://jobs.lever.co/ninjavan/1d0b66de-1ef4-4aa9-a6c8-675ad5fe8cc6) |  | Subang Jaya, Selangor, Malaysia | Lever:ninjavan |
@@ -87,6 +86,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 35 | Point72 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) | United States | New York | Greenhouse:point72 |
 | 35 | Point72 | [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | United States | New York | Greenhouse:point72 |
 | 35 | Schonfeld | [2027 Core Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) | United States | Miami, Florida, United States | Greenhouse:schonfeld |
+| 35 | Schonfeld | [2027 DMFI COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172062) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 35 | Schonfeld | [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 35 | Schonfeld | [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 35 | Schonfeld | [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | United States | New York, New York, United States | Greenhouse:schonfeld |
@@ -304,12 +304,10 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8195483) | Ireland | Dublin  | Greenhouse:stripe |
 | 25 | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | United States | NYC, SF, Seattle, US | Greenhouse:stripe |
 | 25 | Stripe | [Operations Associate - Product Support Operations (CDMX)](https://stripe.com/jobs/search?gh_jid=7981587) |  | MX- Mexico City | Greenhouse:stripe |
-| 25 | Stripe | [Partner Marketing Leader, Alliances & Channel](https://stripe.com/jobs/search?gh_jid=8257500) | United States | Seattle, San Francisco, or US-Remote | Greenhouse:stripe |
 | 25 | Stripe | [Product Designer, Design Systems](https://stripe.com/jobs/search?gh_jid=7983076) |  | Spain | Greenhouse:stripe |
 | 25 | Stripe | [Product Designer, Global](https://stripe.com/jobs/search?gh_jid=7861422) | Ireland | Ireland | Greenhouse:stripe |
 | 25 | Stripe | [Product Designer, Risk](https://stripe.com/jobs/search?gh_jid=7954118) | United Kingdom; Ireland | Ireland / United Kingdom | Greenhouse:stripe |
 | 25 | Stripe | [Product Support Operations Associate, Weekend Shift](https://stripe.com/jobs/search?gh_jid=7975698) | India | Bengaluru | Greenhouse:stripe |
-| 25 | Stripe | [Sales Strategy & Operations Business Partner](https://stripe.com/jobs/search?gh_jid=7944515) | United States | San Francisco | Greenhouse:stripe |
 | 25 | Stripe | [Sales Strategy & Operations Business Partner](https://stripe.com/jobs/search?gh_jid=8089882) | United States | (San Francisco, Chicago, NYC) | Greenhouse:stripe |
 | 25 | Stripe | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805) | Canada | Toronto | Greenhouse:stripe |
 | 25 | Stripe | [Strategy & Operations Business Partner, Solution Architecture](https://stripe.com/jobs/search?gh_jid=8214620) | United States | NYC, SF, Chicago, Seattle, US | Greenhouse:stripe |
@@ -544,6 +542,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Arquiteto de Dados - Remoto](https://job-boards.greenhouse.io/capco/jobs/8264551) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Asset Servicing - Remoto - COM Inglês](https://job-boards.greenhouse.io/capco/jobs/8224410) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Assistente de Planejamento e Operações - Híbrido/ São Paulo](https://job-boards.greenhouse.io/capco/jobs/7776215) |  | Brazil - Sao Paulo | Greenhouse:capco |
+| 0 | Capco | [Backend Developer – Java/Python & AI](https://job-boards.greenhouse.io/capco/jobs/8268408) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [Banco de Talentos - Cubatão](https://job-boards.greenhouse.io/capco/jobs/7956604) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Business Analyst_Basel](https://job-boards.greenhouse.io/capco/jobs/7771724) | India | India | Greenhouse:capco |
 | 0 | Capco | [Consultor Especialista em Conformidade I - Híbrido - RJ](https://job-boards.greenhouse.io/capco/jobs/8112386) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
@@ -558,6 +557,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Desenhista Projetista Pleno - Híbrido - Santos/SP](https://job-boards.greenhouse.io/capco/jobs/8192450) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Desenvolvedor Backend Pleno - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8190978) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Desenvolvedor Fullstack - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8211715) |  | Brazil - Sao Paulo | Greenhouse:capco |
+| 0 | Capco | [Desenvolvedor Fullstack Pleno - COM INGLÊS - Híbrido - Barueri/SP](https://job-boards.greenhouse.io/capco/jobs/8267296) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Desenvolvedor Fullstack Pleno - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8211501) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Desenvolvedor(a) Backend Pleno - (Node.js)](https://job-boards.greenhouse.io/capco/jobs/8176815) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Desenvolvedor(a) de Integração AWS - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8250060) |  | Brazil - Sao Paulo | Greenhouse:capco |
@@ -821,12 +821,11 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Equity and Reporting Accountant](https://stripe.com/jobs/search?gh_jid=8240148) | United States | San Francisco, Seattle  | Greenhouse:stripe |
 | 0 | Stripe | [Firmware Engineer](https://stripe.com/jobs/search?gh_jid=8040825) |  | Taipei City | Greenhouse:stripe |
 | 0 | Stripe | [Forward Deployed Engineer, Privy](https://stripe.com/jobs/search?gh_jid=7230452) | United States | New York Privy HQ | Greenhouse:stripe |
+| 0 | Stripe | [Fraud Operations Analyst](https://stripe.com/jobs/search?gh_jid=7651078) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [Fraud Operations Associate (Mandarin Speaking)](https://stripe.com/jobs/search?gh_jid=8076652) | India | Bengaluru | Greenhouse:stripe |
-| 0 | Stripe | [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=7651078) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=8066310) | India | Bengaluru | Greenhouse:stripe |
 | 0 | Stripe | [Frontend Engineer, Data Product Experiences](https://stripe.com/jobs/search?gh_jid=8194604) |  | N/A | Greenhouse:stripe |
 | 0 | Stripe | [Frontend Engineer, Expansion](https://stripe.com/jobs/search?gh_jid=7644950) |  | N/A | Greenhouse:stripe |
-| 0 | Stripe | [Full Stack Engineer, Billing](https://stripe.com/jobs/search?gh_jid=6786324) |  | N/A | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Bridge](https://stripe.com/jobs/search?gh_jid=8142764) | United States | San Francisco, NYC | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=6567104) |  | N/A | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Enterprise Engineering](https://stripe.com/jobs/search?gh_jid=8214618) |  | N/A | Greenhouse:stripe |
@@ -836,7 +835,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Global People Operations - Systems Administrator](https://stripe.com/jobs/search?gh_jid=8227570) | India | Bengaluru | Greenhouse:stripe |
 | 0 | Stripe | [GTM Recruiter](https://stripe.com/jobs/search?gh_jid=8141450) | United Kingdom; Ireland | Dublin, London | Greenhouse:stripe |
 | 0 | Stripe | [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504) | United States | Chicago, Atlanta, US-Remote, Toro | Greenhouse:stripe |
-| 0 | Stripe | [Head of Startup Sales (Grower) - AMER](https://stripe.com/jobs/search?gh_jid=8110416) | United States | San Francisco | Greenhouse:stripe |
 | 0 | Stripe | [Integration Engineer](https://stripe.com/jobs/search?gh_jid=8203966) |  | Mexico City, MX | Greenhouse:stripe |
 | 0 | Stripe | [Integration Engineer](https://stripe.com/jobs/search?gh_jid=8203975) | Canada | Toronto, Canada | Greenhouse:stripe |
 | 0 | Stripe | [Integration Engineer (Chicago)](https://stripe.com/jobs/search?gh_jid=7819426) | United States | Chicago, US-Remote | Greenhouse:stripe |
