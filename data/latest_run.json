@@ -1,15 +1,15 @@
 {
-  "run_id": "38458461821",
+  "run_id": "38520861421",
   "run_attempt": "1",
-  "completed_at_utc": "2026-10-13T19:54:47.366314+00:00",
+  "completed_at_utc": "2026-10-14T06:13:29.929546+00:00",
   "collection_status": "partial",
   "sources_succeeded": 19,
   "sources_total": 20,
-  "fetched": 3977,
-  "retained": 874,
-  "targets": 7,
-  "new": 0,
+  "fetched": 3965,
+  "retained": 875,
+  "targets": 8,
+  "new": 1,
   "absent_from_target_list": 0,
-  "new_alert_messages_sent": 0,
+  "new_alert_messages_sent": 1,
   "discord_summary_status": "sent"
 }
