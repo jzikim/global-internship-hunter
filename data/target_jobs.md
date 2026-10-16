@@ -5,7 +5,6 @@ Target-country options only. Multi-country vacancies count once overall and once
 | Score | Company | Role | Country | Location | Early-career signal | Role category | Source | URL |
 |------:|---------|------|---------|----------|---------------------|---------------|--------|-----|
 | 95 | Stripe | Data Analyst, Intern | Canada | Toronto | intern | data analyst | Greenhouse:stripe | [Posting](https://stripe.com/jobs/search?gh_jid=8194287) |
-| 95 | Point72 | 2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore | Singapore | Singapore | internship | investment | Greenhouse:point72 | [Posting](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) |
 | 92 | Wealthsimple | Intern, Client Experience Strategy & Operations | Canada | Remote (Canada); Toronto, Ontario; Remote | intern | strategy; operations | Ashby:wealthsimple | [Posting](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) |
 | 92 | Geotab | Market Development and Partnerships Intern, Southeast Asia | Singapore | Singapore City, Singapore - Singapore | intern | partnerships | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5429843008) |
 | 92 | Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | Singapore | intern | data analyst; operations | Greenhouse:stripe | [Posting](https://stripe.com/jobs/search?gh_jid=8186442) |
