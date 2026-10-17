@@ -5,6 +5,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | Score | Company | Role | Country | Location | Source |
 |------:|---------|------|---------|----------|--------|
 | 95 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) | Canada | Toronto | Greenhouse:stripe |
+| 92 | Geotab | [Business Development Associate - Public Sector](https://job-boards.greenhouse.io/geotab/jobs/5436530008) | Canada | Remote - Canada | Greenhouse:geotab |
 | 92 | Geotab | [Market Development and Partnerships Intern, Southeast Asia](https://job-boards.greenhouse.io/geotab/jobs/5429843008) | Singapore | Singapore City, Singapore - Singapore | Greenhouse:geotab |
 | 92 | Schonfeld | [2027 Emerging Markets and Delta One Investment Analyst Internship](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) | United Arab Emirates | Dubai, United Arab Emirates | Greenhouse:schonfeld |
 | 92 | Stripe | [Data Analyst](https://stripe.com/jobs/search?gh_jid=5416444) | Canada | Canada | Greenhouse:stripe |
@@ -567,7 +568,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Engenheiro de Projetos Sênior - Híbrido - Santos/SP](https://job-boards.greenhouse.io/capco/jobs/7699184) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Projetos Sênior - Híbrido - Santos/SP e Rio de Janeiro/RJ](https://job-boards.greenhouse.io/capco/jobs/8055499) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Qualidade - Híbrido - Santos/SP](https://job-boards.greenhouse.io/capco/jobs/7699330) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
-| 0 | Capco | [Engenheiro de Qualidade - Presencial - Itaboraí - RJ](https://job-boards.greenhouse.io/capco/jobs/8209074) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Risco com ênfase em trabalho em altura - Presencial - Macaé RJ](https://job-boards.greenhouse.io/capco/jobs/8258790) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Segurança do Trabalho - Parada](https://job-boards.greenhouse.io/capco/jobs/8107041) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Segurança do Trabalho - Presencial - Canoas](https://job-boards.greenhouse.io/capco/jobs/8189620) |  | Brazil | Greenhouse:capco |
@@ -609,6 +609,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Mid Level AI Engineer](https://job-boards.greenhouse.io/capco/jobs/8178266) | United States | US - Orlando | Greenhouse:capco |
 | 0 | Capco | [ML Engineer (Full Stack)](https://job-boards.greenhouse.io/capco/jobs/8152797) | India | India | Greenhouse:capco |
 | 0 | Capco | [Murex Production Support](https://job-boards.greenhouse.io/capco/jobs/8020165) | India | India - Bengaluru | Greenhouse:capco |
+| 0 | Capco | [Oficial de Náutica - Híbrido - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8289359) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Payroll Coordinator*](https://job-boards.greenhouse.io/capco/jobs/8194806) | Germany | Germany - Frankfurt am Main | Greenhouse:capco |
 | 0 | Capco | [PDLC/SDLC Expert – Python & GenAI H/F](https://job-boards.greenhouse.io/capco/jobs/8266755) |  | France - Paris | Greenhouse:capco |
 | 0 | Capco | [PM/PMO- Banking/ Financial services Domain](https://job-boards.greenhouse.io/capco/jobs/8046173) | India | India - Mumbai | Greenhouse:capco |
@@ -622,7 +623,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Salesforce Developer](https://job-boards.greenhouse.io/capco/jobs/8172962) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Salesforce Integration Developer - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8265701) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Security/ Threat & Risk Consultant (Qatar location)](https://job-boards.greenhouse.io/capco/jobs/8273843) |  | Poland - Warsaw | Greenhouse:capco |
-| 0 | Capco | [SERVIÇO DE APOIO À GESTÃO DE EMISSÃO DE PEDIDOS DE COMPRAS - Híbrido - São Paulo](https://job-boards.greenhouse.io/capco/jobs/8289056) |  | Brazil | Greenhouse:capco |
+| 0 | Capco | [SERVIÇO DE APOIO À GESTÃO DE EMISSÃO DE PEDIDOS DE COMPRAS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8289056) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Serviços de SMS com foco em suporte à contingência- REMOTO - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8286577) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Share Point/ O365 Developer - Pune](https://job-boards.greenhouse.io/capco/jobs/7314509) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Software Engineer](https://job-boards.greenhouse.io/capco/jobs/8160588) | Canada | Canada - Toronto | Greenhouse:capco |
@@ -780,9 +781,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Schonfeld | [Software Engineer - Fundamental Equities](https://job-boards.greenhouse.io/schonfeld/jobs/7957507) | United States | New York, New York, United States | Greenhouse:schonfeld |
 | 0 | Schonfeld | [Strategist](https://job-boards.greenhouse.io/schonfeld/jobs/8020496) |  | São Paulo, Brazil | Greenhouse:schonfeld |
 | 0 | Schonfeld | [Strategist](https://job-boards.greenhouse.io/schonfeld/jobs/8119484) | Hong Kong | Hong Kong, Hong Kong | Greenhouse:schonfeld |
-| 0 | Schonfeld | [Strategist, CIO Office (Equities)](https://job-boards.greenhouse.io/schonfeld/jobs/8020498) | United States | New York, New York, United States | Greenhouse:schonfeld |
 | 0 | Schonfeld | [Strategist, CIO Office (Equities)](https://job-boards.greenhouse.io/schonfeld/jobs/8020502) |  | São Paulo, Brazil | Greenhouse:schonfeld |
-| 0 | Schonfeld | [Strategist, CIO Office (FICC)](https://job-boards.greenhouse.io/schonfeld/jobs/8020499) | United States | New York, New York, United States | Greenhouse:schonfeld |
 | 0 | Schonfeld | [Strategist, CIO Office (FICC)](https://job-boards.greenhouse.io/schonfeld/jobs/8020503) |  | São Paulo, Brazil | Greenhouse:schonfeld |
 | 0 | Schonfeld | [Strategist, Risk](https://job-boards.greenhouse.io/schonfeld/jobs/8239432) |  | São Paulo, Brazil | Greenhouse:schonfeld |
 | 0 | Schonfeld | [Talent Acquisition, Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8256336) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
