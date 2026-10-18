@@ -339,7 +339,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 10 | Stripe | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) | United States | Seattle, San Francisco | Greenhouse:stripe |
 | 7 | Stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=8222149) | United States | Seattle, WA | Greenhouse:stripe |
 | 5 | Adyen | [Compliance Officer - Financial & Data Integrity Programs](https://job-boards.greenhouse.io/adyen/jobs/8055561) | Singapore | Singapore | Greenhouse:adyen |
-| 5 | Capco | [AI Engineer](https://job-boards.greenhouse.io/capco/jobs/8258742) | Canada | Canada - Toronto | Greenhouse:capco |
 | 5 | Capco | [AI Prompt Engineering Developer](https://job-boards.greenhouse.io/capco/jobs/8072042) | Canada | Canada - Toronto | Greenhouse:capco |
 | 5 | Capco | [AI Security Engineer](https://job-boards.greenhouse.io/capco/jobs/8265693) | Canada | Canada - Toronto | Greenhouse:capco |
 | 5 | Capco | [Java Developer – Application Modernization](https://job-boards.greenhouse.io/capco/jobs/8258846) | Canada | Canada - Toronto | Greenhouse:capco |
