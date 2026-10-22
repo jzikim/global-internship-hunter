@@ -1,5 +1,6 @@
 ﻿score,company,title,location,country,posted_date,sponsorship_text,source,url
 95,Stripe,"Data Analyst, Intern",Toronto,Canada,2026-10-01T11:05:36-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8194287
+92,Geotab,Business Development Associate,"Burnaby, British Columbia - Canada; Oakville, Ontario - Canada",Canada,2026-10-21T18:59:53-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5436964008
 92,Geotab,Business Development Associate - Public Sector,Remote - Canada,Canada,2026-10-16T13:46:41-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5436530008
 92,Schonfeld,2027 Emerging Markets and Delta One Investment Analyst Internship,"Dubai, United Arab Emirates",United Arab Emirates,2026-09-21T13:17:51-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8220506
 92,Stripe,Data Analyst,Canada,Canada,2023-11-01T13:50:50-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=5416444
@@ -17,6 +18,7 @@
 72,Adyen,Enterprise Business Development Representative,San Francisco,United States,2026-02-01T23:27:28-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7540718
 72,Agoda,"Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)",Bangkok,,2026-09-11T02:24:56-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8194692
 72,Agoda,Product Operations Analyst,"Bangkok, Thailand",,2026-10-14T04:30:26-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8280811
+72,Geotab,Business Development Associate,"Atlanta, Georgia - USA; Las Vegas, Nevada - USA",United States,2026-10-21T19:00:31-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5436966008
 72,Ninja Van,"Intern, Finance","Subang Jaya, Selangor, Malaysia",,2026-10-09T06:04:51.098000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/93811788-1087-4100-964f-416dadf472e1
 72,Ninja Van,"Intern, Marketing (Ninja Mart - FMCG)","Subang Jaya, Selangor, Malaysia",,2025-08-28T02:50:43.379000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/9c423ad1-0d18-4eaf-a69a-712c660a10f3
 72,Point72,Investment Services Emerging Talent Network,"Stamford, CT and New York, NY",United States,2023-09-08T11:13:57-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/6732930002?gh_jid=6732930002
@@ -53,6 +55,7 @@
 45,Geotab,Product Analyst,Dubai - Dubai,United Arab Emirates,2026-08-17T09:56:42-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5371570008
 45,Stripe,"Internal Product Engineer, Developer Productivity AI","Toronto, Canada ",Canada,2026-05-05T17:52:10-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7896151
 45,Stripe,"Product Designer, Internal Tools",US / Canada,Canada; United States,2026-05-29T11:48:35-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7954207
+45,Stripe,"Product Designer, Risk",US / Canada,Canada; United States,2026-10-21T15:01:54-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8304725
 45,Stripe,Product Sales Development Representative (Mandarin-speaking),Singapore,Singapore,2026-09-07T01:55:28-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8179341
 45,Stripe,Sales Strategy & Operations Business Partner,Sydney,Australia,2026-08-11T12:02:42-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8106775
 42,Airwallex,"Manager, Sales Development, SME & Growth","NL - Amsterdam, Netherlands; Remote",,2026-08-11T12:04:24.323+00:00,,Ashby:Airwallex,https://jobs.ashbyhq.com/Airwallex/07621c2c-6b3e-42f3-9617-f8426007897e
@@ -261,7 +264,6 @@
 25,Point72,Point72 Academy 2026 Investment Analyst Program for Experienced Professionals - UK,"London, UK",United Kingdom,2026-04-09T16:54:40-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8500397002?gh_jid=8500397002
 25,Point72,Point72 Academy 2026 Investment Analyst Program for Experienced Professionals – Hong Kong,Hong Kong,Hong Kong,2026-05-08T09:07:41-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8538913002?gh_jid=8538913002
 25,Point72,Point72 Academy 2026-2027 Investment Analyst Program for Experienced Professionals - US,"Chicago, Florida, New York, San Francisco",United States,2026-04-09T16:55:26-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8499113002?gh_jid=8499113002
-25,Point72,"Program Coordinator, Investment Professional Development","New York, NY",United States,2026-07-30T14:25:12-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8658281002?gh_jid=8658281002
 25,Point72,"Quantitative Analyst, Structured Products Investment Team","New York, NY",United States,2026-08-25T11:30:14-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002
 25,Point72,Quantitative Finance Researcher,Taiwan,,2024-08-15T17:35:24-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/7046014002?gh_jid=7046014002
 25,Point72,Technical Business Analyst,New York,United States,2026-10-07T19:50:47-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002
@@ -277,6 +279,7 @@
 25,Stripe,GTM Strategy & Operations Analyst,Dublin ,Ireland,2026-09-14T06:02:54-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8195483
 25,Stripe,GTM Strategy & Operations Analyst,"NYC, SF, Seattle, US",United States,2026-09-14T14:44:41-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8201680
 25,Stripe,Operations Associate - Product Support Operations (CDMX),MX- Mexico City,,2026-06-08T20:34:30-04:00,the SDC operates during daytime hours with shifts from the morning through early evening Preferred Qualifications Prior experience or knowledge in user support Prior experience working on projects or process improvement initiatives Familiarity with SQL and ability to use template or premade SQL queries as part of investigations Applicants are personally responsible for obtaining and maintaining the right to work in Mexico.,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7981587
+25,Stripe,"Partner Marketing Leader, Alliances & Channel",Seattle or San Francisco,United States,2026-10-06T13:17:17-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8257500
 25,Stripe,"Product Designer, Design Systems",Spain,,2026-09-23T03:09:25-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7983076
 25,Stripe,"Product Designer, Global",Ireland,Ireland,2026-04-29T04:48:33-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7861422
 25,Stripe,"Product Designer, Terminal",US Remote,United States,2026-10-14T15:54:05-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8282390
@@ -349,7 +352,6 @@
 5,Stripe,"Software Engineer, Intern (Summer or Winter)","San Francisco, Seattle, New York City",United States,2026-08-31T18:20:45-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8128745
 5,Stripe,Technical Recruiter (Fixed Term Contract),Singapore,Singapore,2026-08-26T06:04:46-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8142856
 5,Stripe,"Technical Support Engineer, Metronome",Singapore,Singapore,2026-09-17T12:36:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8171220
-5,Wealthsimple,"Associate, Fraud Investigations - Identity & ATO (Fixed-Term Contract)",Remote (Canada); Remote,Canada,2026-10-01T17:03:42.325+00:00,,Ashby:wealthsimple,https://jobs.ashbyhq.com/wealthsimple/6c74631d-bb57-42de-a066-3e89d805df9d
 5,Xendit,Chinese Merchant Support,"Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore; Taipei, Taiwan",Singapore,2026-06-22T21:44:57-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/7780726003
 2,Agoda,"Account Onboarding Specialist - Tokyo, Japan (6 Month Contract)","Tokyo, Japan",Japan,2026-01-12T21:32:15-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7532659
 2,Agoda,"Account Specialist - Tokyo, Japan (6 Month Contract)","Tokyo, Japan",Japan,2026-01-12T21:32:13-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7483441
@@ -536,6 +538,7 @@
 0,Capco,DevSecOps Engineer (AWS/Azure),Poland,,2026-09-25T05:41:09-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8232670
 0,Capco,DvP Orchestration Engineer,Poland - Warsaw,,2026-10-05T10:48:31-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8256184
 0,Capco,Dynamics 365 (7-9yrs),India - Bengaluru,India,2026-08-17T04:28:50-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8131947
+0,Capco,Enfermeira(o) do Trabalho - Híbrido - Macaé/Imboassica,Brazil - Rio de Janeiro,,2026-10-20T13:26:51-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8300843
 0,Capco,Engenheiro (a) de Planejamento - REMOTO,Brazil,,2026-03-12T10:30:23-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7711256
 0,Capco,"Engenheiro de Conformidade - Foco em Licenciamento Ambiental, ênfase em áreas contaminadas - Presencial - Cubatão - SP",Brazil,,2025-09-02T13:28:21-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7215549
 0,Capco,Engenheiro de Dados Pleno - Remoto,Brazil - Sao Paulo,,2026-10-09T10:45:32-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8265373
@@ -579,7 +582,7 @@
 0,Capco,Java Backend Developer - Vadodara,India - Pune,India,2026-10-16T05:24:51-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8288585
 0,Capco,Java Backend Developer - Vadodara/ Pune,India - Pune,India,2026-09-24T07:38:37-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8230093
 0,Capco,Java Backend Developer with Kubernetes - Vadodara,India - Pune,India,2026-10-19T07:23:37-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8300371
-0,Capco,Java Backend Developer-Chennai,India - Chennai ,India,2026-10-21T03:41:45-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8305361
+0,Capco,Java Backend Developer-Chennai,India - Chennai ,India,2026-03-17T02:56:35-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7725383
 0,Capco,Java Core,India - Chennai ,India,2026-10-12T03:25:26-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8264165
 0,Capco,Java Developer,India - Pune,India,2026-10-05T09:42:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8255708
 0,Capco,Java Developer with Temenos,India - Chennai ,India,2026-10-07T04:08:06-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8260836
@@ -602,6 +605,7 @@
 0,Capco,PMO - Junior,India - Bengaluru,India,2026-10-21T01:28:36-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8300474
 0,Capco,PMO - TPRM,India,India,2026-09-10T05:31:00-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8141391
 0,Capco,Programme Management Consultant (Polish is mandatory),Poland - Warsaw,,2026-09-18T09:57:30-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8213429
+0,Capco,Python Developer-Pune/Bengaluru,India - Bengaluru,India,2026-10-22T01:04:52-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8280655
 0,Capco,QA Automation Tester (Mobile Banking),Thailand - Bangkok,,2026-09-09T22:35:42-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8190081
 0,Capco,QA Engineer – Equity Trading Systems,India - Bengaluru,India,2026-09-25T05:13:06-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8226060
 0,Capco,Recruitment Business Partner,Malaysia - Kuala Lumpur,,2026-10-01T04:04:37-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8244852
@@ -610,7 +614,6 @@
 0,Capco,Salesforce Integration Developer - COM INGLÊS - Remoto,Brazil - Sao Paulo,,2026-10-09T10:46:31-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8265701
 0,Capco,Security/ Threat & Risk Consultant (Qatar location),Poland - Warsaw,,2026-10-12T09:16:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8273843
 0,Capco,SERVIÇO DE APOIO À GESTÃO DE EMISSÃO DE PEDIDOS DE COMPRAS - Remoto,Brazil,,2026-10-16T12:54:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8289056
-0,Capco,Serviços Especializados em Saúde Ocupacional - Híbrido - Macaé/Imboassica,Brazil - Rio de Janeiro,,2026-10-20T13:26:51-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8300843
 0,Capco,Share Point/ O365 Developer - Pune,India - Pune,India,2026-03-16T08:38:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7314509
 0,Capco,Software Engineer,Canada - Toronto,Canada,2026-08-26T16:48:28-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8160588
 0,Capco,Software Engineer - Avaloq,Poland - Cracow,,2026-09-25T04:20:06-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8232609
@@ -671,7 +674,7 @@
 0,OKX,Brand Supervisor (Global Markets),"Hong Kong, Hong Kong SAR",Hong Kong,2026-06-29T05:01:54-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7788203003
 0,OKX,Business Assistant 业务助理,"Singapore, Singapore",Singapore,2026-03-02T01:57:46-05:00,OKX will be prioritising applicants who have a current right to work in Singapore and do not require OKX's sponsorship of a visa.,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7648699003
 0,OKX,Compliance Analyst,"San Jose, California, United States",United States,2026-10-20T18:10:47-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/8039617003
-0,OKX,"Compliance Analyst, Financial Crime Compliance QA",United States (US),United States,2026-09-16T16:43:30-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7997638003
+0,OKX,"Compliance Analyst, Financial Crime Compliance QA","San Jose, California, United States",United States,2026-09-16T16:43:30-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7997638003
 0,OKX,"Compliance Analyst, Market Surveillance","New York, United States",United States,2026-10-20T17:19:42-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/8039601003
 0,OKX,Deputy Money Laundering Reporting Officer - Malta,EMEA,,2026-09-18T03:48:28-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7996961003
 0,OKX,DevOps / Site Reliability Engineer,"Singapore, Singapore",Singapore,2026-06-10T00:37:12-04:00,"OKX will be prioritising applicants who have a current right to work in Singapore, and do not require OKX's sponsorship of a visa.",Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7767872003
@@ -829,6 +832,7 @@
 0,Stripe,People Operations Systems Administrator,Mexico City,,2026-09-24T15:48:47-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8227572
 0,Stripe,Recruiting Coordinator,Singapore,Singapore,2026-10-21T00:38:00-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8301264
 0,Stripe,Recruiting Coordinator (Fixed-Term Contract),SF,,2026-09-25T11:28:04-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8231145
+0,Stripe,Risk Operations Associate,Mexico CIty,,2026-08-11T18:40:46-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8115908
 0,Stripe,Sales Development Representative (Polish Fluency),Dublin,Ireland,2026-10-09T04:43:17-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8265128
 0,Stripe,"Sales Development Representative, Japan",Tokyo,Japan,2026-08-24T00:38:53-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8148731
 0,Stripe,"Sales Development Representative, Thailand","Bangkok, Thailand",,2026-10-08T03:26:43-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8259153

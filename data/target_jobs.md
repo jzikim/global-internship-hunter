@@ -5,6 +5,7 @@ Target-country options only. Multi-country vacancies count once overall and once
 | Score | Company | Role | Country | Location | Early-career signal | Role category | Source | URL |
 |------:|---------|------|---------|----------|---------------------|---------------|--------|-----|
 | 95 | Stripe | Data Analyst, Intern | Canada | Toronto | intern | data analyst | Greenhouse:stripe | [Posting](https://stripe.com/jobs/search?gh_jid=8194287) |
+| 92 | Geotab | Business Development Associate | Canada | Burnaby, British Columbia - Canada; Oakville, Ontario - Canada | early-career; internships; co-op | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436964008) |
 | 92 | Geotab | Business Development Associate - Public Sector | Canada | Remote - Canada | early-career | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436530008) |
 | 92 | Wealthsimple | Intern, Client Experience Strategy & Operations | Canada | Remote (Canada); Toronto, Ontario; Remote | intern | strategy; operations | Ashby:wealthsimple | [Posting](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) |
 | 92 | Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | Singapore | intern | data analyst; operations | Greenhouse:stripe | [Posting](https://stripe.com/jobs/search?gh_jid=8186442) |
