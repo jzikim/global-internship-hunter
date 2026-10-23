@@ -5681,6 +5681,30 @@
     "employment_type": ""
   },
   {
+    "title": "Technical Data Analyst (Splunk, Salesforce DB, PostgreSQL)",
+    "company": "Capco",
+    "location": "Poland - Warsaw",
+    "country": "",
+    "category": "Data & Analytics",
+    "description": "Technical Data Analyst Industry: Financial Services / Payments Role: Technical Data Analyst Key Technologies: SQL, PostgreSQL, Splunk, Salesforce Environment: Consulting / Enterprise Technology Role Overview We are looking for an experienced Technical Data Analyst to support complex data analysis, system integration, and operational improvement initiatives within a large-scale financial services environment. The ideal candidate combines strong technical and analytical capabilities with a consulting mindset, demonstrating the ability to understand business challenges, investigate complex data issues, and translate findings into actionable recommendations. The role involves working across multiple systems and data sources, collaborating with business and technology stakeholders, and ensuring data accuracy, consistency, and reliability. Key Responsibilities Perform detailed data analysis across enterprise applications, databases, and integrated systems. Write and optimize complex SQL queries, primarily using PostgreSQL, to extract, analyze, and validate data. Use Splunk to investigate application logs, identify anomalies, troubleshoot data discrepancies, and support root cause analysis. Analyze Salesforce data structures, relationships, and data flows to support business and operational requirements. Conduct data mapping, reconciliation, and validation between different systems and data sources. Investigate data quality issues, identify root causes, and recommend sustainable solutions. Collaborate with business analysts, developers, architects, and operational teams to understand requirements and resolve complex issues. Translate business needs into technical analysis and clear, actionable insights. Prepare analytical documentation, communicate findings, and present recommendations to technical and non-technical stakeholders. Proactively identify opportunities to improve data quality, operational efficiency, and existing processes. Required Skills & Experience Proven experience as a Technical Data Analyst, Data Analyst, or technically focused Business Analyst in a complex enterprise environment. Strong SQL skills, including advanced queries, joins, aggregations, and data validation. Hands-on experience with PostgreSQL or comparable relational database technologies. Practical experience using Splunk for log analysis, troubleshooting, and investigation. Experience working with Salesforce data , including understanding its data model, objects, and relationships. Strong understanding of data integration, data mapping, reconciliation, and data quality principles. Ability to investigate complex issues across multiple systems and identify dependencies. Excellent analytical, problem-solving, and critical-thinking skills. Strong communication skills and ability to explain technical findings in business terms. Experience working in Agile, cross-functional delivery environments. Consulting & Stakeholder Management Strong consulting mindset, with the ability to approach challenges from both business and technical perspectives. Confidence in engaging stakeholders, clarifying ambiguous requirements, and challenging assumptions constructively. Ability to work independently, take ownership of deliverables, and proactively drive issues toward resolution. Structured approach to problem-solving, with a focus on business value and practical outcomes. Strong stakeholder management and communication skills, including the ability to present complex information clearly. Adaptability and comfort working in dynamic environments with evolving priorities. Nice to Have Experience in banking, payments, fintech, or financial services. Knowledge of payment processing, transaction lifecycles, or merchant onboarding. Experience with Salesforce SOQL, APIs, and system integrations. Understanding of ETL/ELT processes and data pipelines. Experience with incident investigation, production support, or root cause analysis. Familiarity with Jira, Confluence, and Agile delivery methodologies. Ideal Candidate Profile A hands-on, technically strong Data Analyst who is comfortable working directly with databases, application logs, and enterprise data platforms. The candidate should be capable of investigating complex cross-system issues while maintaining a broader understanding of business processes and stakeholder expectations. B2B cooperation in a hybrid model, with the option to provide services from the Warsaw office to the extent agreed based on project needs. Recruitment Process: HR Interview with the recruiter Technical Interview Client Interview Feedback and offer #LI-HYBRID",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8317608",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-10-23T06:59:39-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 25,
+    "score_reasons": [
+      "+40 preferred role: data analyst",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Trading Analytics Developer, Quantitative Trading",
     "company": "Crypto.com",
     "location": "London",
@@ -6080,30 +6104,6 @@
     "score": 25,
     "score_reasons": [
       "+40 preferred role: strategy",
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Market Data Analyst",
-    "company": "Schonfeld",
-    "location": "New York, New York, United States",
-    "country": "United States",
-    "category": "Market Data Services",
-    "description": "About the Role Schonfeld's Enterprise Data team is looking for a Market Data Analyst to manage the sourcing, licensing, and entitlements of market data across global vendors, exchanges, and brokers. You'll support Schonfeld’s quantitative, fundamental, tactical, and macro portfolio managers in managing access to datasets across multiple asset classes and regions. What You’ll Do Oversee day to day user entitlements, usage tracking, and compliance with vendor agreements and exchange rules Manage vendor relationships (Bloomberg, LSEG, etc.), including licensing, onboarding, and cost optimization Help manage exchange audits and compliance queries, ensuring accurate usage reporting and timely resolution with vendors and internal stakeholders Maintain inventory accuracy within the Optimize Spend platform while driving cost transparency and consolidation opportunities Monitor data usage, troubleshoot discrepancies, and enforce data integrity controls Maintain documentation of data sources, workflows, and governance processes What You’ll Bring Bachelor’s degree in finance, Accounting, or Business 2–5 years in market data, data operations, or a related role at a hedge fund, asset manager, or financial services firm Strong analytical and problem-solving skills Deep understanding of financial data, data vendors, and their licensing structures. Hands-on experience with Bloomberg EMRS, Refinitiv DACS, and Optimize Spend SQL and/or scripting experience is a plus Enthusiasm for leveraging AI tools to improve productivity and decision-making Who we are Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical, Fundamental Equity and Discretionary Macro & Fixed Income. Our Culture At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented, collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote inclusion and purpose beyond the firm’s walls. The base pay for this role is expected to be between $120,000 and $150,000. The expected base pay range is based on information at the time this post was generated. This role may also be eligible for other forms of compensation such as a performance bonus and a competitive benefits package. Actual compensation for the successful candidate will be determined based on a variety of factors such as skills, qualifications, and experience",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843959",
-    "source": "Greenhouse:schonfeld",
-    "posted_date": "2026-04-30T15:08:56-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 25,
-    "score_reasons": [
-      "+40 preferred role: data analyst",
       "+15 business / economics context",
       "+5 data / analytics skills",
       "+0 visa support unclear",
@@ -8772,30 +8772,6 @@
     "employment_type": ""
   },
   {
-    "title": "BA- Insurance",
-    "company": "Capco",
-    "location": "India - Pune",
-    "country": "India",
-    "category": "Business Consulting",
-    "description": "Insurance Business Analysia Job Description: • Strong experience in Insurance domain transformation initiatives with exposure to large-scale business change programs. • Strong experience in business analysis, requirement gathering, process consulting, and customer onboarding journeys. • Proven ability to streamline and optimize business processes while working with cross-functional stakeholders and delivery teams. • Strong experience in CRM platforms with moderate knowledge of Salesforce CRM for customer and workflow management. • Proven ability to manage senior stakeholders, facilitate discussions, and drive alignment across business and technology teams. • Strong understanding of transformation delivery lifecycle, operating models, and process improvement methodologies. • HSBC experience and awareness of governance, and ways of working is highly preferred. • Preferred candidates should demonstrate strong communication skills, analytical thinking, and ability to work in fast-paced enterprise environments.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8081319",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-07-28T05:57:10-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 1,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Business Architecture - Regulatory Reporting",
     "company": "Capco",
     "location": "India",
@@ -10613,6 +10589,30 @@
       "+15 business / economics context",
       "+5 data / analytics skills",
       "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -15)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "FinCrime Analyst",
+    "company": "Adyen",
+    "location": "Madrid",
+    "country": "",
+    "category": "Merchant Operations",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. FinCrime Analyst A key part of building our business is ensuring we do it ethically and sustainably. As a financial institution, we need to know at all times what happens on our platform and whether this aligns with regulations and our risk appetite - and all of this in a scalable way. We are looking for a FinCrime Analyst to join our FinCrime Operations Department based in Madrid. Do you want to be at the forefront of the fight against financial crime by conducting in-depth investigations and contributing to a passionate team? Then this is the role for you! What you’ll do: Investigate alerts on suspicious transactions, reviewing and resolving daily screening alerts using internal and external systems and databases; Conduct thorough research and risk assessments, preparing clear, evidence-based investigations and case narratives in a SAR-ready format to support timely and accurate suspicious activity reporting ; Conduct ad-hoc analyses and investigations into merchants’ compliance risk profiles; Collaborate with global teams to ensure consistency and alignment in AML, Screening and Fraud Investigations across all regions; Contribute to team development by sharing knowledge and best practices, and assisting in onboarding new team members. Propose ideas for improvement of our internal processes and workflows; Who you are: You have 1-2 years of experience in AML/CFT compliance and/or AML/Sanctions/Fraud operations, with an emphasis on financial crime investigations. You have knowledge of AML/CFT laws and regulations , and an intrinsic motivation to follow trends and developments in the AML/Sanctions/Fraud domain(s). Experience in the financial sector is a must ; though experience with payments or fintech is a plus. You possess strong analytical and problem-solving skills , consistently using data to inform your decisions and adopting a solution-oriented approach in all aspects of work. You are adaptable and able to handle multiple priorities in a dynamic environment. You have excellent communication skills in English , both written and verbal. You are naturally curious , you have a keen eye for detail, a proactive approach to your work, and a strong drive to understand the “why” behind what you see. You have a continuous improvement mindset - you proactively identify inefficiencies, suggest improvements to workflows or tools, and are motivated to help the team and processes evolve as we scale. NB: Contributing to global, impactful and urgent work in AML/Screening/Fraud requires flexibility to rotate workload evenly over the team, sometimes including public holidays and weekends (never more than 5 working days in a week). When this kind of flexibility is required, you will be compensated additionally as per the applicable CBA (i.e. ‘overtime’). Our Diversity, Equity and Inclusion commitments Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you’re from, we welcome you to be your true self at Adyen. Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We look forward to your application! What’s next? Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 business days. Our interview process tends to take about 4 weeks to complete, but may fluctuate depending on the role. Learn more about our hiring process here . Don’t be afraid to let us know if you need more flexibility. This role is based out of our Madrid office. We are an office-first company and value in-person collaboration; we do not offer remote-only roles. Relocation and visa support are not available for this position.",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8300919",
+    "source": "Greenhouse:adyen",
+    "posted_date": "2026-10-23T07:39:56-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "Relocation and visa support are not available for this position.",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 work authorization wording saved; eligibility not assessed",
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -15)"
@@ -12756,29 +12756,6 @@
     "employment_type": ""
   },
   {
-    "title": "Engenheiro de Risco com ênfase em trabalho em altura - Presencial - Macaé RJ",
-    "company": "Capco",
-    "location": "Brazil - Rio de Janeiro",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "REQUISITOS MANDATÓRIOS EXPERIÊNCIA Proficiência relacionada à indústria de óleo e gás offshore em serviços de trabalho em altura; Domínio do Pacote MS-Office; NR 35. ESCOLARIDADE E TREINAMENTOS Grau de Instrução: Nível Superior; Formação: Engenharias (qualquer ênfase); CBSP Curso básico de segurança de plataforma; T-HUET (Helicopter Underwater Escape Training) certificado OPITO: somente para embarque helicóptero offshore; NR-35. CBSP Curso básico de segurança de plataforma T-HUET (Helicopter Underwater Escape Training) certificado OPITO: somente para embarque helicóptero offshore. ATRIBUIÇÕES Em relação ao tema trabalho em altura: Elaborar e ministrar apresentações e treinamentos; Analisar prospostas de planos de ação, procedimentos e emitir parecer com propostas de melhorias; Emitir relatórios de análise de eventos identificando fragilidades e propondo soluções conforme as melhores práticas de segurança; Assessorar tecnicamente o cliente; Suportar e orientar as atividades fornecendo diretrizes, instruções e suporte adequados. Revisão de relatórios de segurança; Conduzir auditorias de segurança para identificar áreas de melhoria e garantir a conformidade com as normas de segurança. Envolve as inspeções de locais de trabalho, verificação de aderência dos procedimentos operacionais, avaliação de equipamentos de segurança e identificação de potenciais riscos à segurança; Acompanhar as frentes operacionais quando solicitado; Apoiar tecnicamente a fiscalização dos contratos para verificação do atendimento das contratadas do cliente aos requisitos dos Anexos de SMS. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8258790",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-06T11:06:12-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Engenheiro de Segurança do Trabalho - Home Office com Embarque Eventual",
     "company": "Capco",
     "location": "Brazil",
@@ -13181,7 +13158,7 @@
     "location": "Poland - Warsaw",
     "country": "",
     "category": "Tech & Engineering",
-    "description": "CAPCO POLAND - WARSAW *We are looking for Poland based candidate. At Capco Poland, we’re not just another consultancy - we’re the spark behind digital transformation in the financial world. As a global leader in technology and management consulting, we thrive on helping clients tackle the toughest challenges across banking, payments, capital markets, wealth, and asset management. Role Overview We are seeking React / Java Full Stack Engineer to join our Global Asset Servicing Platform team. This is a hands-on engineering role where you will design, build, and test features end-to-end – with full ownership of code and quality. You will work across development and test automation: coding new functionality, writing unit and integration tests, and adding Cucumber-based end-to-end tests – not only for your own work but also for features built by your teammates, to ensure unbiased validation. The ideal candidate will be skilled in Java backend development and modern UI development using React. This role will work across the full stack to build a scalable, reliable, and user-friendly application. Key Responsibilities Design, develop, and maintain features using Java and React . Build responsive and modern frontend applications using ReactJS, Develop and integrate APIs and web services. Experience working with relational databases (Oracle, Postgres) Write clean, well-structured unit tests (JUnit or equivalent) alongside your code. Contribute to and maintain our automated test framework using Ruby and Cucumber : Write new Ruby step definitions as needed. Create and maintain Cucumber feature files for end-to-end testing. Write automated tests for features developed by other engineers , ensuring high-quality outcomes and reducing development bias. Champion a test-first approach , delivering code that is reliable, maintainable, and scalable. Apply performance and scalability considerations; use tools such as JMeter for load/performance testing where required. Ensure instrumentation, configuration, and logging are embedded in code to support ongoing monitoring and support. Analyse and debug issues using logs; propose and implement fixes. Collaborate in Agile ceremonies, helping the squad plan effectively and commit to clear sprint goals. Partner with product managers and analysts to understand what is being built, why it matters, and how best to implement it for both functional and non-functional needs. Build with a product mindset – appreciating client impact, configurability, and long-term supportability. Skills & Experience Technical Skills Proficiency in: Java (with strong JUnit testing experience) React (with associated unit testing frameworks) Familiarity with automation frameworks & languages: Ruby scripting for step definitions Cucumber for end-to-end testing Strong understanding of: Multi-threading, parallel processing, and real-time messaging Test-first design, CI/CD practices Ability to use JMeter or similar tools for performance testing (a plus) Basic understanding of cloud services : databases, servers, storage, gateways (not at architect level, but practical awareness of hosting environments). Experience using AI-assisted engineering tools (such as GitHub Copilot, ChatGPT, or similar) to accelerate coding, testing, debugging, and documentation, while maintaining code quality and critical thinking. Functional / Domain Knowledge Familiarity with financial markets concepts. Knowledge of corporate actions lifecycle preferred. Soft Skills Strong analytical and debugging abilities. Clear communicator, able to articulate trade-offs and solutions to both technical and business audiences. Collaborative team player, comfortable working in agile, cross-functional squads . Curious and thoughtful: able to look beyond the ticket to understand requirements, impact, and broader context. Product mindset — balancing immediate delivery with long-term maintainability and client impact. B2B cooperation in a hybrid model, with the option to provide services from the Warsaw office to the extent agreed based on project needs. Recruitment Process: HR Interview with the recruiter Technical Interview Client Interview Feedback and offer #LI-HYBRID",
+    "description": "CAPCO POLAND - WARSAW *We are looking for Poland based candidate. At Capco Poland, we’re not just another consultancy - we’re the spark behind digital transformation in the financial world. As a global leader in technology and management consulting, we thrive on helping clients tackle the toughest challenges across banking, payments, capital markets, wealth, and asset management. Role Overview We are seeking React / Java Full Stack Engineer to join our Global Asset Servicing Platform team. This is a hands-on engineering role where you will design, build, and test features end-to-end – with full ownership of code and quality. You will work across development and test automation: coding new functionality, writing unit and integration tests, and adding Cucumber-based end-to-end tests – not only for your own work but also for features built by your teammates, to ensure unbiased validation. The ideal candidate will be skilled in Java backend development and modern UI development using React. This role will work across the full stack to build a scalable, reliable, and user-friendly application. Key Responsibilities Design, develop, and maintain features using Java and React . Build responsive and modern frontend applications using ReactJS, Develop and integrate APIs and web services. Experience working with relational databases (Oracle, Postgres) Write clean, well-structured unit tests (JUnit or equivalent) alongside your code. Contribute to and maintain our automated test framework using Ruby and Cucumber : Write new Ruby step definitions as needed. Create and maintain Cucumber feature files for end-to-end testing. Write automated tests for features developed by other engineers , ensuring high-quality outcomes and reducing development bias. Champion a test-first approach , delivering code that is reliable, maintainable, and scalable. Apply performance and scalability considerations; use tools such as JMeter for load/performance testing where required. Ensure instrumentation, configuration, and logging are embedded in code to support ongoing monitoring and support. Analyse and debug issues using logs; propose and implement fixes. Collaborate in Agile ceremonies, helping the squad plan effectively and commit to clear sprint goals. Partner with product managers and analysts to understand what is being built, why it matters, and how best to implement it for both functional and non-functional needs. Build with a product mindset – appreciating client impact, configurability, and long-term supportability. Skills & Experience Technical Skills Proficiency in: Java (with strong JUnit testing experience) React (with associated unit testing frameworks) Familiarity with automation frameworks & languages: Ruby scripting (nice to have) for step definitions Cucumber for end-to-end testing Strong understanding of: Multi-threading, parallel processing, and real-time messaging Test-first design, CI/CD practices Ability to use JMeter or similar tools for performance testing (a plus) Basic understanding of cloud services : databases, servers, storage, gateways (not at architect level, but practical awareness of hosting environments). Experience using AI-assisted engineering tools (such as GitHub Copilot, ChatGPT, or similar) to accelerate coding, testing, debugging, and documentation, while maintaining code quality and critical thinking. Functional / Domain Knowledge Familiarity with financial markets concepts. Knowledge of corporate actions lifecycle preferred. Soft Skills Strong analytical and debugging abilities. Clear communicator, able to articulate trade-offs and solutions to both technical and business audiences. Collaborative team player, comfortable working in agile, cross-functional squads . Curious and thoughtful: able to look beyond the ticket to understand requirements, impact, and broader context. Product mindset — balancing immediate delivery with long-term maintainability and client impact. B2B cooperation in a hybrid model, with the option to provide services from the Warsaw office to the extent agreed based on project needs. Recruitment Process: HR Interview with the recruiter Technical Interview Client Interview Feedback and offer #LI-HYBRID",
     "url": "https://job-boards.greenhouse.io/capco/jobs/8300424",
     "source": "Greenhouse:capco",
     "posted_date": "2026-10-19T08:22:06-04:00",

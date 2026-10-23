@@ -252,6 +252,7 @@
 25,Capco,Management Consultant – Commercial & Specialty Insurance,UK - London,United Kingdom,2026-02-26T12:43:23-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7658016
 25,Capco,Product Owner – Payments,Belgium - Brussels,,2026-09-08T10:22:10-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8185818
 25,Capco,Strategy Consultant - Payment,Malaysia - Kuala Lumpur,,2026-08-28T06:16:50-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8163981
+25,Capco,"Technical Data Analyst (Splunk, Salesforce DB, PostgreSQL)",Poland - Warsaw,,2026-10-23T06:59:39-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8317608
 25,Crypto.com,"Trading Analytics Developer, Quantitative Trading",London,United Kingdom,2026-09-15T06:05:52.844000+00:00,"Work Perks: crypto.com visa card provided upon joining Our Crypto.com benefits packages vary depending on region requirements, you can learn more from our talent acquisition team.",Lever:crypto,https://jobs.lever.co/crypto/0c856e71-a38e-444d-9265-c24d4d49a413
 25,Crypto.com,"Trading Analytics Developer, Quantitative Trading",Hong Kong,Hong Kong,2026-09-11T07:57:53.648000+00:00,"Work Perks: crypto.com visa card provided upon joining Our Crypto.com benefits packages vary depending on region requirements, you can learn more from our talent acquisition team.",Lever:crypto,https://jobs.lever.co/crypto/2b22d4ce-69f2-497e-bdf4-57c80fc1268a
 25,Crypto.com,"Trading Analytics Developer, Quantitative Trading","Chicago,IL; Los Angeles; New York",United States,2026-09-15T06:08:49.731000+00:00,,Lever:crypto,https://jobs.lever.co/crypto/bd4c7626-c095-452a-a865-7cfe5214485b
@@ -269,7 +270,6 @@
 25,Point72,Quantitative Finance Researcher,Taiwan,,2024-08-15T17:35:24-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/7046014002?gh_jid=7046014002
 25,Point72,Technical Business Analyst,New York,United States,2026-10-07T19:50:47-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002
 25,Schonfeld,AI Strategy Analyst,"London, England, United Kingdom",United Kingdom,2026-06-29T09:34:53-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8031499
-25,Schonfeld,Market Data Analyst,"New York, New York, United States",United States,2026-04-30T15:08:56-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/7843959
 25,Schonfeld,Product Controller,"London, England, United Kingdom",United Kingdom,2026-09-09T04:50:11-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8185693
 25,Schonfeld,Systematic Portfolio Strategy and Risk Analyst (NYC or Miami),"Miami, Florida, United States; New York, New York, United States",United States,2025-11-21T12:53:38-05:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/7402926
 25,Stripe,"Americas Field Marketing, AI",South San Francisco,United States,2026-09-28T18:23:59-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8222219
@@ -383,7 +383,6 @@
 1,Capco,BA - Reg Reporting- Bangalore,India - Bengaluru,India,2026-06-04T00:44:37-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7966491
 1,Capco,BA - Regulatory Reporting,India,India,2026-10-15T02:58:33-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8280904
 1,Capco,BA Liquidity,India,India,2026-07-29T04:36:03-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7855893
-1,Capco,BA- Insurance,India - Pune,India,2026-07-28T05:57:10-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8081319
 1,Capco,Business Architecture - Regulatory Reporting,India,India,2026-10-01T03:13:54-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8219853
 1,Capco,Business Consultant - Financial Services,Belgium - Brussels,,2026-10-13T02:41:29-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8275887
 1,Capco,Business Process Analyst,Belgium - Brussels,,2026-09-28T04:01:39-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8236409
@@ -460,6 +459,7 @@
 1,Xendit,UX Designer - Developer Experience (DevEx),"Jakarta, Indonesia",,2026-08-10T04:56:15-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/7847359003
 0,Adyen,"Compliance Officer, Oversight",Chicago,United States,2026-10-20T18:30:08-04:00,Work Eligibility You must be work authorized in the United States without the need for new visa sponsorship. The company can support visa transfers but will not sponsor individuals for H-1B CAP applications.,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8274392
 0,Adyen,Financial Risk Analyst,São Paulo,,2026-04-22T11:01:24-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7842667
+0,Adyen,FinCrime Analyst,Madrid,,2026-10-23T07:39:56-04:00,Relocation and visa support are not available for this position.,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8300919
 0,Adyen,IT Internal Control Officer,Mumbai,India,2026-02-11T02:02:16-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7537535
 0,Adyen,Payment Terminal Certification Expert (L2),Amsterdam,,2026-09-03T09:57:25-04:00,"You will own the technical preparation and execution of Level 2 kernel certification , ensuring our kernels meet EMVCo type approval requirements as well as the contact and contactless specifications of Visa, Mastercard, Amex, Discover, JCB, UnionPay, existing local payment method & planned future payment method expansions as Adyen's In-Person Payment business expands. We offer visa and relocation support within the EU for this role.",Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8147372
 0,Adyen,People Technology Application Engineer,Amsterdam,,2026-09-29T10:41:23-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8226137
@@ -551,7 +551,6 @@
 0,Capco,Engenheiro de Projetos Sênior - Híbrido - Santos/SP e Rio de Janeiro/RJ,Brazil - Rio de Janeiro,,2026-07-10T14:27:05-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8055499
 0,Capco,Engenheiro de Qualidade - Híbrido - Santos/SP,Brazil - Rio de Janeiro,,2026-03-10T09:35:04-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7699330
 0,Capco,Engenheiro de Risco com ênfase em prevenção e combate a incêndio - Presencial - Macaé RJ,Brazil - Rio de Janeiro,,2026-10-22T09:59:57-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8304898
-0,Capco,Engenheiro de Risco com ênfase em trabalho em altura - Presencial - Macaé RJ,Brazil - Rio de Janeiro,,2026-10-06T11:06:12-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8258790
 0,Capco,Engenheiro de Segurança do Trabalho - Home Office com Embarque Eventual,Brazil,,2026-10-20T11:04:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8303400
 0,Capco,Engenheiro de Segurança do Trabalho - Parada,Brazil,,2026-08-05T11:41:17-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8107041
 0,Capco,Engenheiro de Segurança do Trabalho - Presencial - Canoas,Brazil,,2026-09-10T10:19:33-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8189620
