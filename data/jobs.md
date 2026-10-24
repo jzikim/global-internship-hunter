@@ -462,6 +462,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Xendit | [FinOps Recons Associate](https://job-boards.greenhouse.io/xendit/jobs/8034310003) | India | Bangkok, Thailand; India; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines | Greenhouse:xendit |
 | 1 | Xendit | [RevOps Systems Administrator (Salesforce)](https://job-boards.greenhouse.io/xendit/jobs/7992220003) |  | Jakarta, Indonesia | Greenhouse:xendit |
 | 1 | Xendit | [UX Designer - Developer Experience (DevEx)](https://job-boards.greenhouse.io/xendit/jobs/7847359003) |  | Jakarta, Indonesia | Greenhouse:xendit |
+| 0 | Adyen | [Collections Analyst](https://job-boards.greenhouse.io/adyen/jobs/8301681) | United States | Chicago | Greenhouse:adyen |
 | 0 | Adyen | [Compliance Officer, Oversight](https://job-boards.greenhouse.io/adyen/jobs/8274392) | United States | Chicago | Greenhouse:adyen |
 | 0 | Adyen | [Financial Risk Analyst](https://job-boards.greenhouse.io/adyen/jobs/7842667) |  | São Paulo | Greenhouse:adyen |
 | 0 | Adyen | [FinCrime Analyst](https://job-boards.greenhouse.io/adyen/jobs/8300919) |  | Madrid | Greenhouse:adyen |
@@ -482,7 +483,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Agoda | [People Service Excellence Analyst](https://job-boards.greenhouse.io/agoda/jobs/8225935) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer - Infrastructure Platform (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/8260757) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer, DevOps (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/8219959) |  | Bangkok | Greenhouse:agoda |
-| 0 | Agoda | [Support Associate (Gurgaon)](https://job-boards.greenhouse.io/agoda/jobs/7995116) |  | Gurgaon | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate (Pune)](https://job-boards.greenhouse.io/agoda/jobs/7995117) |  | Pune | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - English & Mandarin (Foshan, China)](https://job-boards.greenhouse.io/agoda/jobs/8248906) |  | Foshan, China | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - English (Kuala Lumpur)](https://job-boards.greenhouse.io/agoda/jobs/8118822) |  | Kuala Lumpur | Greenhouse:agoda |
@@ -569,6 +569,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Engenheiro Fiscal - Presencial - Itaboraí- RJ](https://job-boards.greenhouse.io/capco/jobs/8174054) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [ENGENHEIRO FISCAL- Híbrido - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8282342) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro Mecânico - Home Office](https://job-boards.greenhouse.io/capco/jobs/7733241) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
+| 0 | Capco | [ETRM Developer](https://job-boards.greenhouse.io/capco/jobs/8239678) | United States | US - Houston | Greenhouse:capco |
 | 0 | Capco | [Feira de Empregabildiade - Macaé](https://job-boards.greenhouse.io/capco/jobs/8154961) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Finance Data Engineer](https://job-boards.greenhouse.io/capco/jobs/8284515) |  | Switzerland - Geneva | Greenhouse:capco |
 | 0 | Capco | [Front-end Developer](https://job-boards.greenhouse.io/capco/jobs/5886767) |  | Italy - Milan | Greenhouse:capco |
@@ -610,7 +611,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Programme Management Consultant (Polish is mandatory)](https://job-boards.greenhouse.io/capco/jobs/8213429) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [QA Automation Tester (Mobile Banking)](https://job-boards.greenhouse.io/capco/jobs/8190081) |  | Thailand - Bangkok | Greenhouse:capco |
 | 0 | Capco | [QA Engineer – Equity Trading Systems](https://job-boards.greenhouse.io/capco/jobs/8226060) | India | India - Bengaluru | Greenhouse:capco |
-| 0 | Capco | [Recruitment Business Partner](https://job-boards.greenhouse.io/capco/jobs/8244852) |  | Malaysia - Kuala Lumpur | Greenhouse:capco |
 | 0 | Capco | [Reg reporting Ops - Nomura - Mumbai](https://job-boards.greenhouse.io/capco/jobs/8015228) | India | India - Mumbai | Greenhouse:capco |
 | 0 | Capco | [Salesforce Developer](https://job-boards.greenhouse.io/capco/jobs/8172962) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Salesforce Integration Developer - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8265701) |  | Brazil - Sao Paulo | Greenhouse:capco |
@@ -646,6 +646,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Técnico em segurança do trabalho - Presencial - Três Lagoas -](https://job-boards.greenhouse.io/capco/jobs/8074466) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Técnico em Segurança do Trabalho onshore - Presencial Catu/BA](https://job-boards.greenhouse.io/capco/jobs/8262011) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Técnico em Segurança do Trabalho onshore - Presencial Macaé](https://job-boards.greenhouse.io/capco/jobs/8261965) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
+| 0 | Capco | [Técnico em Segurança do Trabalho \| São José dos Campos/SP - Presencial](https://job-boards.greenhouse.io/capco/jobs/8318542) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Técnico Mecânico - Presencial](https://job-boards.greenhouse.io/capco/jobs/7914024) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Careem | [Software Engineer I - Backend \| NextGen Engineering](https://boards.greenhouse.io/careem/jobs/7107610002?gh_jid=7107610002) |  | Karachi, Pakistan; Lahore, Pakistan | Greenhouse:careem |
 | 0 | Careem | [Software Engineer II - Backend \| NextGen Engineering](https://boards.greenhouse.io/careem/jobs/7004825002?gh_jid=7004825002) |  | Lahore, Pakistan | Greenhouse:careem |
@@ -785,6 +786,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Backend Engineer, Developer & End-user Experience Platform](https://stripe.com/jobs/search?gh_jid=7476555) | Canada | SEA, SF, NY, Toronto | Greenhouse:stripe |
 | 0 | Stripe | [Backend Engineer, Link](https://stripe.com/jobs/search?gh_jid=8131144) |  | NYC, Sea, SF, Tor | Greenhouse:stripe |
 | 0 | Stripe | [Backend Engineer, Payments & Risk](https://stripe.com/jobs/search?gh_jid=8260985) | Canada | Toronto, Canada | Greenhouse:stripe |
+| 0 | Stripe | [Backend Engineer, Payments Experiences](https://stripe.com/jobs/search?gh_jid=7895287) |  | Sao Paulo | Greenhouse:stripe |
 | 0 | Stripe | [Backend Engineer, Privy](https://stripe.com/jobs/search?gh_jid=7235875) |  | NYC-Privy | Greenhouse:stripe |
 | 0 | Stripe | [Backend/API Engineer, Money as a Service](https://stripe.com/jobs/search?gh_jid=6176758) | United States | US | Greenhouse:stripe |
 | 0 | Stripe | [Cloud Security Engineer](https://stripe.com/jobs/search?gh_jid=7867389) | United States | Seattle | Greenhouse:stripe |
@@ -809,6 +811,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Full Stack Engineer, Link](https://stripe.com/jobs/search?gh_jid=6447175) | Canada | Toronto | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Money as a Service](https://stripe.com/jobs/search?gh_jid=6606581) |  | N/A | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Revenue](https://stripe.com/jobs/search?gh_jid=8234357) |  | N/A | Greenhouse:stripe |
+| 0 | Stripe | [Full Stack Software Engineer, Brazil](https://stripe.com/jobs/search?gh_jid=7895284) |  | Sao Paulo | Greenhouse:stripe |
 | 0 | Stripe | [Global People Operations - Systems Administrator](https://stripe.com/jobs/search?gh_jid=8227570) | India | Bengaluru | Greenhouse:stripe |
 | 0 | Stripe | [GTM Recruiter](https://stripe.com/jobs/search?gh_jid=8141450) | United Kingdom; Ireland | Dublin, London | Greenhouse:stripe |
 | 0 | Stripe | [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504) | United States | Chicago, Atlanta, US-Remote, Toro | Greenhouse:stripe |
