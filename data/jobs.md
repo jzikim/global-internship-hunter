@@ -326,6 +326,10 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 12 | Stripe | [Product Manager, Support Platform](https://stripe.com/jobs/search?gh_jid=8143563) | Ireland | Dublin, Ireland  | Greenhouse:stripe |
 | 10 | Point72 | [2027 Summer Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) | United States | New York, NY | Greenhouse:point72 |
 | 10 | Stripe | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) | United States | Seattle, San Francisco | Greenhouse:stripe |
+| 7 | Point72 | [2027 Software Engineer - Campus Graduate Program - IIT BHU](https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002) | India | India, Bengaluru | Greenhouse:point72 |
+| 7 | Point72 | [2027 Software Engineer - Campus Graduate Program - IIT Hyderabad](https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002) | India | India, Bengaluru | Greenhouse:point72 |
+| 7 | Point72 | [2027 Software Engineer - Campus Graduate Program - IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002) | India | India, Bengaluru | Greenhouse:point72 |
+| 7 | Point72 | [2027 Software Engineer - Campus Graduate Program - IIT Madras](https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002) | India | India, Bengaluru | Greenhouse:point72 |
 | 7 | Stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=8222149) | United States | Seattle, WA | Greenhouse:stripe |
 | 5 | Adyen | [Compliance Officer - Financial & Data Integrity Programs](https://job-boards.greenhouse.io/adyen/jobs/8055561) | Singapore | Singapore | Greenhouse:adyen |
 | 5 | Capco | [AI Prompt Engineering Developer](https://job-boards.greenhouse.io/capco/jobs/8072042) | Canada | Canada - Toronto | Greenhouse:capco |
