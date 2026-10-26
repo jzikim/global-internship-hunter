@@ -10,7 +10,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 92 | Schonfeld | [2027 Emerging Markets and Delta One Investment Analyst Internship](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) | United Arab Emirates | Dubai, United Arab Emirates | Greenhouse:schonfeld |
 | 92 | Stripe | [Data Analyst](https://stripe.com/jobs/search?gh_jid=5416444) | Canada | Canada | Greenhouse:stripe |
 | 92 | Stripe | [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) | Singapore | Singapore | Greenhouse:stripe |
-| 92 | Wealthsimple | [Intern, Client Experience Strategy & Operations](https://jobs.ashbyhq.com/wealthsimple/581eee5b-329b-4de3-a9ac-72bf9ce0c654) | Canada | Remote (Canada); Toronto, Ontario; Remote | Ashby:wealthsimple |
 | 87 | Stripe | [Product Sales Development Representative, AUNZ](https://stripe.com/jobs/search?gh_jid=8179349) | Australia | Sydney | Greenhouse:stripe |
 | 75 | Guidepoint | [Business Development Intern (Class of 2028)](https://job-boards.greenhouse.io/guidepoint/jobs/8716357002) | United States | New York, New York, United States | Greenhouse:guidepoint |
 | 75 | Point72 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong](https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002) | Hong Kong | Hong Kong | Greenhouse:point72 |
@@ -243,7 +242,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Capco | [Business Change Analyst - Wealth, Investment & Asset Management](https://job-boards.greenhouse.io/capco/jobs/4122257) | United Kingdom | UK - London | Greenhouse:capco |
 | 25 | Capco | [Data Analyst - COM INGLÊS](https://job-boards.greenhouse.io/capco/jobs/8180066) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 25 | Capco | [Data Analyst - Data Remediation - Mumbai](https://job-boards.greenhouse.io/capco/jobs/7865935) | India | India - Mumbai | Greenhouse:capco |
-| 25 | Capco | [Data Analyst - GCP Big query](https://job-boards.greenhouse.io/capco/jobs/8261143) | India | India - Bengaluru | Greenhouse:capco |
 | 25 | Capco | [Data Analyst with German language](https://job-boards.greenhouse.io/capco/jobs/5218045) |  | Czech Republic - Prague | Greenhouse:capco |
 | 25 | Capco | [Data Analyst with German language](https://job-boards.greenhouse.io/capco/jobs/6299628) |  | Czech Republic - Brno | Greenhouse:capco |
 | 25 | Capco | [Data Business Analyst – GCP / Hadoop](https://job-boards.greenhouse.io/capco/jobs/8191034) |  | Poland - Cracow | Greenhouse:capco |
@@ -476,7 +474,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Adyen | [Software Engineer (Java)](https://job-boards.greenhouse.io/adyen/jobs/7095304) |  | Sao Jose dos Campos | Greenhouse:adyen |
 | 0 | Adyen | [Tech Recruitment Business Partner - 6 month contract](https://job-boards.greenhouse.io/adyen/jobs/7894241) |  | Amsterdam | Greenhouse:adyen |
 | 0 | Adyen | [Technical Support Engineer](https://job-boards.greenhouse.io/adyen/jobs/8050022) | Japan | Tokyo | Greenhouse:adyen |
-| 0 | Agoda | [\[GSD\] People Technology Analyst (Bangkok-based)](https://job-boards.greenhouse.io/agoda/jobs/8203395) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 0 | Agoda | [Associate Talent Acquisition Partner – Bangkok Based – 10 months Contract](https://job-boards.greenhouse.io/agoda/jobs/8083244) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 0 | Agoda | [Business Owner, Regional Management Office](https://job-boards.greenhouse.io/agoda/jobs/8064440) | Japan | Tokyo, Japan | Greenhouse:agoda |
 | 0 | Agoda | [Contract Management Coordinator](https://job-boards.greenhouse.io/agoda/jobs/7303585) |  | Bangkok, Thailand | Greenhouse:agoda |
@@ -485,8 +482,8 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Agoda | [Payroll Accounting Analyst (Bangkok-based, Relocation Provided)](https://job-boards.greenhouse.io/agoda/jobs/8236707) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [People Help Desk Analyst](https://job-boards.greenhouse.io/agoda/jobs/8210580) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 0 | Agoda | [People Service Excellence Analyst](https://job-boards.greenhouse.io/agoda/jobs/8225935) |  | Bangkok | Greenhouse:agoda |
-| 0 | Agoda | [Software Developer - Infrastructure Platform (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/8260757) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer, DevOps (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/8219959) |  | Bangkok | Greenhouse:agoda |
+| 0 | Agoda | [Support Associate (Gurgaon)](https://job-boards.greenhouse.io/agoda/jobs/7995116) |  | Gurgaon | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate (Pune)](https://job-boards.greenhouse.io/agoda/jobs/7995117) |  | Pune | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - English & Mandarin (Foshan, China)](https://job-boards.greenhouse.io/agoda/jobs/8248906) |  | Foshan, China | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - English (Kuala Lumpur)](https://job-boards.greenhouse.io/agoda/jobs/8118822) |  | Kuala Lumpur | Greenhouse:agoda |
@@ -847,6 +844,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Security Engineer, Privy](https://stripe.com/jobs/search?gh_jid=8073092) |  | NYC-Privy | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8267736) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8314283) | United States | South San Francisco, CA | Greenhouse:stripe |
+| 0 | Stripe | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8318509) |  | Taiwan | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Backend](https://stripe.com/jobs/search?gh_jid=8198280) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, High Availability and Disaster Recovery](https://stripe.com/jobs/search?gh_jid=8197135) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Internal Identity](https://stripe.com/jobs/search?gh_jid=8265763) |  | na | Greenhouse:stripe |
