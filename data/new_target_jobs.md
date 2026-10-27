@@ -6,3 +6,4 @@ Target-country options only. Multi-country vacancies count once overall and once
 |------:|---------|------|---------|----------|---------------------|---------------|--------|-----|
 | 92 | Geotab | Business Development Associate | Canada | Burnaby, British Columbia - Canada; Oakville, Ontario - Canada | early-career; internships; co-op | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436626008) |
 | 92 | Geotab | Business Development Associate - Public Sector | Canada | Remote - Canada | early-career | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436530008) |
+| 92 | Geotab | Business Development Associate, Field Service | Canada | Burnaby, British Columbia - Canada; Oakville, Ontario - Canada | early-career; internships; co-op | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436964008) |
