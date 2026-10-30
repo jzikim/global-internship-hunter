@@ -17,7 +17,6 @@
 72,Adyen,Enterprise Business Development Representative,New York,United States,2026-01-28T15:44:51-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7540715
 72,Adyen,Enterprise Business Development Representative,San Francisco,United States,2026-02-01T23:27:28-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7540718
 72,Agoda,"Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)",Bangkok,,2026-09-11T02:24:56-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8194692
-72,Agoda,Data Analyst - 6 months contract (No relocation),Bangkok,,2026-10-28T01:33:41-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8326303
 72,Agoda,Product Operations Analyst,"Bangkok, Thailand",,2026-10-14T04:30:26-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8280811
 72,Geotab,Business Development Associate - Transportation and Logistics,"Atlanta, Georgia - USA",United States,2026-10-28T16:19:00-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5440939008
 72,Ninja Van,Business Development Intern,"Taguig, Philippines",,2026-10-29T02:11:12.943000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/d9ac11be-4eec-4bf8-8504-cd5c6f48af68
@@ -64,6 +63,7 @@
 40,Stripe,Product Designer - Dashboard,US / Canada,Canada; United States,2026-06-04T14:34:56-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7980578
 40,Stripe,"Product Designer, Connect Risk",Canada,Canada,2026-02-27T12:51:25-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7663023
 38,Airwallex,"Senior Associate, Revenue Operations",SG - Singapore,Singapore,2026-08-21T05:40:52.607+00:00,,Ashby:Airwallex,https://jobs.ashbyhq.com/Airwallex/6529f460-20e1-43f7-b0ba-bb42c8e3940b
+37,Airwallex,"Manager, Sales Development, SME & Growth (SEA)","IN - Bangalore, India",India,2026-10-30T10:08:30.499+00:00,,Ashby:Airwallex,https://jobs.ashbyhq.com/Airwallex/84cb0db1-e3b8-41e3-86c5-ed15cc2c9c7d
 37,OKX,"Junior Product Manager, DevOps and AI","Hong Kong, Hong Kong SAR; Singapore, Singapore",Singapore; Hong Kong,2026-06-23T01:26:00-04:00,,Greenhouse:okx,https://job-boards.greenhouse.io/okx/jobs/7780897003
 37,Stripe,Product Manager: New Grad Accelerator,"San Francisco, New York City, Seattle",United States,2026-03-20T18:26:06-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7737124
 35,Point72,"2027 Summer Internship - Fundamental Researcher, Canvas","New York, NY",United States,2026-10-14T10:19:03-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002
@@ -132,6 +132,8 @@
 32,Stripe,University Recruiter (Fixed Term),"San Francisco, New York, Seattle, US-Remote",United States,2026-09-23T13:36:55-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8226211
 30,AlphaSights,"Summer Internship Program, Client Service (2027 Start)",Hong Kong ,Hong Kong,2026-08-24T05:52:39-04:00,,Greenhouse:alphasights,https://www.alphasights.com/careers/open-roles?gh_jid=8152244
 30,Guidepoint,"Associate Intern, Client Service","Athina, Αττικη, Greece",,2026-01-16T04:35:42-05:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8376407002
+30,Stripe,"Master's Machine Learning Engineer, Intern",Toronto,Canada,2026-10-30T12:19:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8333122
+30,Stripe,"PhD Machine Learning Engineer, Intern",Toronto,Canada,2026-10-30T12:19:24-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8328664
 27,AlphaSights,AlphaSights Launchpad 2027,Hong Kong,Hong Kong,2026-09-15T03:45:47-04:00,,Greenhouse:alphasights,https://www.alphasights.com/careers/open-roles?gh_jid=8200800
 27,AlphaSights,"Associate (m/w/d), Client Service, German Speaker, 2027",Hamburg,,2026-05-19T07:33:32-04:00,,Greenhouse:alphasights,https://www.alphasights.com/careers/open-roles?gh_jid=7942017
 27,AlphaSights,"Associate (m/w/d), Client Service, Polish Speaker, 2027",Hamburg,,2026-06-16T06:09:45-04:00,,Greenhouse:alphasights,https://www.alphasights.com/careers/open-roles?gh_jid=8009590
@@ -197,7 +199,6 @@
 27,Ninja Van,Intern Route To Market,"Shah Alam, Selangor, Malaysia",,2025-11-14T01:13:33.172000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/ad601283-433c-4d04-89f7-2f9dc24c09a8
 27,Ninja Van,Internship Regional Crossborder,"Subang Jaya, Selangor, Malaysia",,2026-01-08T08:47:33.150000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/c6c3013c-09cf-4d36-bc83-8b170d1d737d
 27,Point72,2027 Point72 Academy Spring Insight Programme – UK,"London, UK",United Kingdom,2026-09-29T10:41:39-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002
-25,Adyen,Data Analyst II - Finance and Commercial,Amsterdam,,2026-10-29T11:03:36-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8334113
 25,Adyen,Enterprise Business Development Representative,Berlin,Germany,2026-05-27T09:37:21-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7656959
 25,Agoda,"Analyst, Flights Marketing (Bangkok Based, relocation provided)",Bangkok,,2026-09-10T03:13:55-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8190510
 25,Agoda,"Analyst, Marketing Analytics and Strategy (Bangkok Based, relocation provided)",Bangkok,,2026-09-10T03:15:42-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8190514
@@ -310,6 +311,8 @@
 12,Stripe,"Product Manager, Support Platform","Dublin, Ireland ",Ireland,2026-08-21T09:35:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8143563
 10,Point72,2027 Summer Internship – Software Engineer,"New York, NY",United States,2026-10-14T10:20:41-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002
 10,Stripe,"High School Internship, Software Engineering (Summer 2027)","Seattle, San Francisco",United States,2026-09-30T11:38:09-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8241260
+10,Stripe,"Master's Machine Learning Engineer, Intern","San Francisco, New York City, Seattle",United States,2026-10-30T12:19:26-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8333074
+10,Stripe,"PhD Machine Learning Engineer, Intern","San Francisco, New York City, Seattle",United States,2026-10-30T12:19:28-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8328662
 7,Point72,2027 Software Engineer - Campus Graduate Program - IIT BHU,"India, Bengaluru",India,2026-10-25T08:09:50-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002
 7,Point72,2027 Software Engineer - Campus Graduate Program - IIT Hyderabad,"India, Bengaluru",India,2026-10-25T08:10:31-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002
 7,Point72,2027 Software Engineer - Campus Graduate Program - IIT Kanpur,"India, Bengaluru",India,2026-10-25T08:11:02-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002
@@ -362,7 +365,6 @@
 1,Adyen,Technical Writer - Docs Excellence,Chicago,United States,2026-09-04T10:02:45-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8095966
 1,Agoda,"Analyst, Pricing (Bangkok Based, relocation provided)",Bangkok,,2026-09-10T03:17:15-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8190515
 1,Agoda,Language Expert - Korean (Bangkok-based),"Bangkok, Thailand",,2026-07-20T02:01:36-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8071219
-1,Agoda,"Project Management Associate - Rocket Travel By Agoda (1 year contract, Bangkok, Based)",Bangkok,,2026-10-05T01:06:30-04:00,"This role does not offer visa sponsorship or relocation support; applicants must already have the legal right to work in Thailand Roles and responsibilities: As a Project Management Associate, your responsibilities will center around project management and operations. Candidate must be a Thai national, as visa sponsorship is not available for this role.",Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8255564
 1,Capco,Aladdin platform consultant,UK - London,United Kingdom,2026-06-11T12:29:44-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8001028
 1,Capco,Analista de Operações Pleno - Híbrido - Santos-SP,Brazil - Rio de Janeiro,,2026-05-06T13:18:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7899515
 1,Capco,Analista de Operações Sênior - Híbrido - Santos-SP,Brazil - Rio de Janeiro,,2026-05-06T13:18:19-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7899518
@@ -380,7 +382,7 @@
 1,Capco,Data Architecture & Governance Consultant – GCP & BigQuery (Polish is mandatory),Poland - Warsaw,,2026-09-18T09:33:21-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8213346
 1,Capco,Data Consultant - Mumbai,India - Mumbai,India,2026-09-21T06:11:31-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8195085
 1,Capco,Data Modelling Consultant (Insurance),Germany; Germany - Berlin; Germany - Dusseldorf; Germany - Frankfurt am Main; Germany - Munich,Germany,2026-08-31T09:00:40-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8166811
-1,Capco,Data Privacy Consultant – ICT Risk,Belgium - Brussels,,2026-10-20T11:09:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8303475
+1,Capco,Data Privacy & Information Security Consultant,Belgium - Brussels,,2026-10-20T11:09:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8303475
 1,Capco,Data Quality - RTP,India - Bengaluru,India,2026-05-21T06:18:20-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7912205
 1,Capco,Data Validation-Liquidity,India,India,2026-08-27T01:58:26-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8161037
 1,Capco,Engenheiro de Operações - Híbrido - Santos-SP,Brazil - Rio de Janeiro,,2026-05-06T13:32:28-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7899522
@@ -417,6 +419,7 @@
 1,Capco,Regulatory Assurance Analyst,India - Bengaluru,India,2026-10-13T01:51:14-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8176775
 1,Capco,Reporting Analyst,India - Mumbai,India,2026-09-23T01:59:42-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8152746
 1,Capco,Risk Analyst,India - Bengaluru,India,2026-10-08T06:14:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8242529
+1,Capco,Security Engineer,India - Bengaluru,India,2026-10-30T05:03:45-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8333547
 1,Capco,Test Analyst (Banking),Malaysia - Kuala Lumpur,,2026-09-29T22:41:10-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8241885
 1,Capco,UAT Tester - Mumbai,India - Mumbai,India,2026-09-24T03:07:09-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8152568
 1,Guidepoint,Account Receivables Clerk,"Mumbai, Maharashtra, India",India,2026-06-30T16:50:34-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8561061002
@@ -435,7 +438,6 @@
 1,Stripe,"Social Media, Customer Support Associate (Includes Weekend Rotations)",Mexico,,2026-05-22T14:18:20-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7867328
 1,Xendit,Financial Operations Associate,"Bangkok, Thailand",,2026-10-20T04:07:34-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/8034311003
 1,Xendit,FinOps Recons Associate,"Bangkok, Thailand; India; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines",India,2026-10-20T04:18:58-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/8034310003
-1,Xendit,RevOps Systems Administrator (Salesforce),"Jakarta, Indonesia",,2026-09-11T04:58:38-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/7992220003
 1,Xendit,UX Designer - Developer Experience (DevEx),"Jakarta, Indonesia",,2026-08-10T04:56:15-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/7847359003
 0,Adyen,Collections Analyst,Chicago,United States,2026-10-22T15:32:28-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8301681
 0,Adyen,"Compliance Officer, Oversight",Chicago,United States,2026-10-20T18:30:08-04:00,Work Eligibility You must be work authorized in the United States without the need for new visa sponsorship. The company can support visa transfers but will not sponsor individuals for H-1B CAP applications.,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8274392
@@ -483,6 +485,7 @@
 0,Capco,Analista de Operações Pleno - Híbrido - Rio de Janeiro,Brazil - Sao Paulo,,2026-08-24T15:21:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8153069
 0,Capco,Analista de Operações Pleno - Híbrido | Rio de Janeiro,Brazil,,2026-06-02T12:28:20-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7967448
 0,Capco,Analista de Processos - Foco em Biodiversidade - Presencial - Mauá - SP,Brazil,,2025-09-02T13:32:55-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7215900
+0,Capco,Analista de Processos e Operações - Hibrido - Rio de Janeiro/RJ,Brazil,,2026-10-30T08:37:03-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8334939
 0,Capco,Analista de Sistemas I - Híbrido Macaé/Rio de Janeiro,Brazil - Rio de Janeiro,,2026-10-27T16:32:49-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8328720
 0,Capco,Analista de SMS - Hibrido,Brazil,,2026-09-22T17:47:24-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8224090
 0,Capco,Analista de SMS - Home Office,Brazil,,2026-10-20T11:22:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8303510
@@ -558,7 +561,8 @@
 0,Capco,Global Talent Acquisition Analyst,Slovakia,,2026-10-15T04:26:00-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8284517
 0,Capco,Integration & Database Developer - COM INGLÊS - Remoto,Brazil - Sao Paulo,,2026-10-09T10:47:50-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8267193
 0,Capco,Integration Developer Pleno - COM INGLÊS - Remoto,Brazil - Sao Paulo,,2026-10-16T09:56:05-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8267134
-0,Capco,Java Backend Developer - Bangalore,India - Pune,India,2026-10-30T02:43:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8336151
+0,Capco,Java Backend Developer - Bangalore,India - Bengaluru,India,2026-10-30T02:43:16-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8336151
+0,Capco,Java Backend Developer - Pune,India - Pune,India,2026-10-30T04:06:51-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8336252
 0,Capco,Java Backend Developer - Vadodara,India - Pune,India,2026-10-29T04:29:44-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8230102
 0,Capco,Java Backend Developer - Vadodara/ Pune,India - Pune,India,2026-09-24T07:38:37-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8230093
 0,Capco,Java Backend Developer with Kubernetes - Vadodara,India - Pune,India,2026-10-19T07:23:37-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8300371
@@ -587,6 +591,7 @@
 0,Capco,QA Engineer – Equity Trading Systems,India - Bengaluru,India,2026-09-25T05:13:06-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8226060
 0,Capco,Regulatory reporting,India - Mumbai,India,2026-09-10T04:27:54-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8015228
 0,Capco,Salesforce Integration Developer - COM INGLÊS - Remoto,Brazil - Sao Paulo,,2026-10-09T10:46:31-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8265701
+0,Capco,Security Risk Consultant (Middle East),Poland - Warsaw,,2026-10-30T12:16:50-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8337133
 0,Capco,Security/ Threat & Risk Consultant (Qatar location),Poland - Warsaw,,2026-10-12T09:16:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8273843
 0,Capco,Share Point/ O365 Developer - Pune,India - Pune,India,2026-03-16T08:38:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7314509
 0,Capco,Software Engineer,Canada - Toronto,Canada,2026-08-26T16:48:28-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8160588
@@ -705,7 +710,6 @@
 0,Point72,Quantitative Software Developer,New York,United States,2025-06-10T16:41:46-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002
 0,Point72,Quantitative Software Developer,Taiwan,,2026-06-23T13:13:15-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8604288002?gh_jid=8604288002
 0,Point72,Regulatory Reporting Associate,Warsaw,,2026-06-26T18:42:23-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8602058002?gh_jid=8602058002
-0,Point72,Research Technology Support,Hong Kong,Hong Kong,2026-03-23T16:26:36-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8475957002?gh_jid=8475957002
 0,Point72,"Software Engineer (.NET), Macro Middle Office","Bengaluru, India",India,2026-05-21T00:22:18-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8428205002?gh_jid=8428205002
 0,Point72,"Software Engineer, Bpm","Bengaluru, India",India,2026-02-03T12:55:55-05:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8389781002?gh_jid=8389781002
 0,Point72,"Software Engineer, Controllers Technology","Bengaluru, India ",India,2026-06-25T04:20:13-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8568265002?gh_jid=8568265002
@@ -737,6 +741,7 @@
 0,Schonfeld,"Talent Acquisition, Associate","London, England, United Kingdom",United Kingdom,2026-10-05T11:43:38-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8256336
 0,Schonfeld,Trade Surveillance Analyst,"London, England, United Kingdom",United Kingdom,2026-09-17T08:45:45-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8207672
 0,Schonfeld,Trading Assistant,"Miami, Florida, United States",United States,2026-10-19T13:01:29-04:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8285215
+0,Stripe,"Administrative Business Partner, Coverage",Remote - US,United States,2026-10-30T13:30:15-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8328118
 0,Stripe,"Administrative Business Partner, Office of the President","NYC, SF",,2026-09-17T10:04:57-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8209639
 0,Stripe,Administrative Coordinator,Mexico City,,2026-09-22T13:35:45-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8223719
 0,Stripe,Android BSP Engineer,"Taipei, Taiwan",,2026-09-29T01:26:45-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8239006
@@ -768,7 +773,6 @@
 0,Stripe,Fraud Operations Analyst (CDMX),Mexico City,,2026-10-27T22:30:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8168550
 0,Stripe,Fraud Operations Associate (Mandarin Speaking),Bengaluru,India,2026-07-30T03:02:58-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8076652
 0,Stripe,Fraud Operations Associate SDC,Bengaluru,India,2026-07-20T01:52:52-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8066310
-0,Stripe,"Frontend Engineer, Data Product Experiences",N/A,,2026-09-22T15:31:09-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8194606
 0,Stripe,"Frontend Engineer, Expansion",N/A,,2026-05-04T22:09:14-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7644950
 0,Stripe,"Frontend Engineer, UI Platform",Barcelona,,2026-10-27T05:21:13-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8226890
 0,Stripe,"Full Stack Engineer, Bridge","San Francisco, NYC",United States,2026-08-20T19:35:00-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8142764
@@ -776,7 +780,7 @@
 0,Stripe,"Full Stack Engineer, Developer & End User Experience Platform",N/A,,2025-04-03T16:35:43-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=6567104
 0,Stripe,"Full Stack Engineer, Enterprise Engineering",N/A,,2026-09-28T22:57:48-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8214618
 0,Stripe,"Full Stack Engineer, Link",Toronto,Canada,2024-12-03T14:16:40-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=6447175
-0,Stripe,"Full Stack Engineer, Money as a Service",N/A,,2025-12-01T19:23:21-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=6606581
+0,Stripe,"Full Stack Engineer, Money as a Service",In-person,,2025-12-01T19:23:21-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=6606581
 0,Stripe,"Full Stack Engineer, Revenue",N/A,,2026-10-02T18:15:23-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8234357
 0,Stripe,"Full Stack Software Engineer, Brazil",Sao Paulo,,2026-05-26T14:51:39-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7895284
 0,Stripe,Global People Operations - Systems Administrator,Bengaluru,India,2026-09-29T05:00:02-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8227570
@@ -792,6 +796,7 @@
 0,Stripe,IT Support Engineer,New York,United States,2026-10-14T13:41:08-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8265151
 0,Stripe,"Machine Learning Engineer, Radar",Seattle,United States,2026-10-07T17:44:52-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8243617
 0,Stripe,"Managing Editor, Stripe Press",NYC,,2026-10-27T19:19:11-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8287486
+0,Stripe,"Motion Designer, Stripe Identity",Barcelona,,2026-10-30T05:53:15-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8265389
 0,Stripe,Operations Associate - Bridge (CDMX),Mexico City,,2026-06-05T19:44:56-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7955051
 0,Stripe,Operations Associate - Managed Support (Includes Weekend Rotation),Mexico City,,2026-08-26T07:16:22-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8093103
 0,Stripe,"Operations Associate, Financial Crimes (AML Investigations)",Mexico City,,2026-06-18T15:01:34-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8014995
@@ -830,7 +835,6 @@
 0,Stripe,"Staff Software Engineer, Stripe Dashboard",Seattle,United States,2026-03-24T18:48:01-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7746721
 0,Stripe,Technical Operations Engineer,"South San Francisco, CA",United States,2026-10-26T19:41:13-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8325807
 0,Stripe,Technical Recruiter (Fixed Term Contract),"SF, SEA, NYC, CHI, ATL",,2026-08-24T18:20:43-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8154525
-0,Stripe,"Technical Solutions Consultant, Crypto","New York, San Francisco",United States,2026-10-28T16:19:38-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8329116
 0,Stripe,"Technical Support Engineer (EMEA), Metronome","London, Dublin",United Kingdom; Ireland,2026-09-01T08:32:46-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7737248
 0,Stripe,User Risk Strategist,"New York, NY ",United States,2026-09-24T12:41:06-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8230758
 0,Stripe,Verifications Operations Associate,Bengaluru,India,2026-09-02T02:23:15-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8022703
