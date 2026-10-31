@@ -236,7 +236,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Capco | [Business Analyst – Target Operating Model](https://job-boards.greenhouse.io/capco/jobs/6646827) |  | Poland - Cracow | Greenhouse:capco |
 | 25 | Capco | [Business Analyst, Capital Markets - Glasgow](https://job-boards.greenhouse.io/capco/jobs/7916690) | United Kingdom | UK - Glasgow  | Greenhouse:capco |
 | 25 | Capco | [Business Change Analyst - Wealth, Investment & Asset Management](https://job-boards.greenhouse.io/capco/jobs/4122257) | United Kingdom | UK - London | Greenhouse:capco |
-| 25 | Capco | [Data Analyst - COM INGLÊS](https://job-boards.greenhouse.io/capco/jobs/8180066) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 25 | Capco | [Data Analyst - Data Remediation - Mumbai](https://job-boards.greenhouse.io/capco/jobs/7865935) | India | India - Mumbai | Greenhouse:capco |
 | 25 | Capco | [Data Analyst with German language](https://job-boards.greenhouse.io/capco/jobs/5218045) |  | Czech Republic - Prague | Greenhouse:capco |
 | 25 | Capco | [Data Analyst with German language](https://job-boards.greenhouse.io/capco/jobs/6299628) |  | Czech Republic - Brno | Greenhouse:capco |
@@ -270,7 +269,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Schonfeld | [AI Strategy Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/8031499) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 25 | Schonfeld | [Product Controller](https://job-boards.greenhouse.io/schonfeld/jobs/8185693) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 25 | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | United States | Miami, Florida, United States; New York, New York, United States | Greenhouse:schonfeld |
-| 25 | Stripe | [Americas Field Marketing, AI](https://stripe.com/jobs/search?gh_jid=8222219) | United States | South San Francisco | Greenhouse:stripe |
 | 25 | Stripe | [Bridge Product Accountant](https://stripe.com/jobs/search?gh_jid=8262032) | India | Bengaluru | Greenhouse:stripe |
 | 25 | Stripe | [Crypto Product Accounting](https://stripe.com/jobs/search?gh_jid=7774312) | United States | San Francisco, Seattle, New York | Greenhouse:stripe |
 | 25 | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | United States | New York | Greenhouse:stripe |
@@ -629,7 +627,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Técnico Mecânico - Presencial](https://job-boards.greenhouse.io/capco/jobs/7914024) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Careem | [Software Engineer I - Backend \| NextGen Engineering](https://boards.greenhouse.io/careem/jobs/7107610002?gh_jid=7107610002) |  | Karachi, Pakistan; Lahore, Pakistan | Greenhouse:careem |
 | 0 | Careem | [Software Engineer II - Backend \| NextGen Engineering](https://boards.greenhouse.io/careem/jobs/7004825002?gh_jid=7004825002) |  | Lahore, Pakistan | Greenhouse:careem |
-| 0 | Crypto.com | [Compliance - Market Surveillance Analyst](https://jobs.lever.co/crypto/b7b8aa05-b8e8-44ad-824c-4bee71db1006) | United States | Chicago,IL | Lever:crypto |
 | 0 | Geotab | [Embedded Systems Test Engineer](https://job-boards.greenhouse.io/geotab/jobs/5413943008) |  | Krakow, Poland - Poland | Greenhouse:geotab |
 | 0 | Geotab | [Solutions Engineering](https://job-boards.greenhouse.io/geotab/jobs/5376456008) | United Kingdom | London, England - United Kingdom | Greenhouse:geotab |
 | 0 | Guidepoint | [Client Service Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8767794002) | South Korea | Seoul, Seoul, South Korea | Greenhouse:guidepoint |
@@ -724,7 +721,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Point72 | [Software Engineer, Middle Office Systems](https://boards.greenhouse.io/point72/jobs/8377020002?gh_jid=8377020002) | India | Bengaluru, India | Greenhouse:point72 |
 | 0 | Point72 | [Software Engineer, Risk Technology](https://boards.greenhouse.io/point72/jobs/8568266002?gh_jid=8568266002) | India | Bengaluru, India | Greenhouse:point72 |
 | 0 | Point72 | [Software Engineer, Treasury Technology](https://boards.greenhouse.io/point72/jobs/8576953002?gh_jid=8576953002) | India | Bengaluru, India  | Greenhouse:point72 |
-| 0 | Point72 | [Strategic Implementation Program Associate](https://boards.greenhouse.io/point72/jobs/8624291002?gh_jid=8624291002) | United States | United States | Greenhouse:point72 |
 | 0 | Point72 | [Surveillance Associate, Japanese Language Position](https://boards.greenhouse.io/point72/jobs/8842769002?gh_jid=8842769002) |  | Stamford, CT | Greenhouse:point72 |
 | 0 | Point72 | [Systems Engineer, Mobility, Endpoint Engineering](https://boards.greenhouse.io/point72/jobs/8488736002?gh_jid=8488736002) | India | Bengaluru, India  | Greenhouse:point72 |
 | 0 | Point72 | [Talent Acquisition Analyst](https://boards.greenhouse.io/point72/jobs/8720568002?gh_jid=8720568002) | India | Bengaluru, India  | Greenhouse:point72 |
