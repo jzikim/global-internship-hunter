@@ -5,7 +5,6 @@
 92,Stripe,Data Analyst,Canada,Canada,2023-11-01T13:50:50-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=5416444
 92,Stripe,"Financial Data Analyst Intern, Technical Operations",Singapore,Singapore,2026-09-24T17:24:36-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8186442
 87,Stripe,"Product Sales Development Representative, AUNZ",Sydney,Australia,2026-10-22T06:05:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8179349
-75,Point72,2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong,Hong Kong,Hong Kong,2026-04-02T06:24:01-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002
 75,Point72,2027 Point72 Academy Investment Analyst Summer Internship Program - Japan,Japan,Japan,2026-04-02T06:37:22-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002
 75,Point72,2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF),Japan,Japan,2026-08-23T22:18:21-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002
 75,Point72,2027 Summer Internship - Investment Services,"New York, New York, United States, Stamford, Connecticut, United States",United States,2026-09-18T17:01:15-04:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002
@@ -212,6 +211,7 @@
 25,Agoda,Product Designer L2 - Accommodation (Bangkok-Based),"Bangkok, Thailand",,2026-10-02T03:55:57-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8248603
 25,Capco,Business Analyst (Banking),Poland - Warsaw,,2026-05-08T07:45:44-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7824039
 25,Capco,Business Analyst - Accounting,Poland - Cracow,,2026-10-26T11:56:19-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8324778
+25,Capco,Business Analyst - Allegro,US - Houston,United States,2026-11-01T17:50:07-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8316853
 25,Capco,Business Analyst - Commercial and Specialty Insurance,UK - London,United Kingdom,2026-03-27T14:27:39-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7758001
 25,Capco,Business Analyst - Dallas - Cyber Security - CyberArk/Privileged Access Management,US - Dallas,United States,2026-07-29T17:20:42-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8095004
 25,Capco,Business Analyst - Financial Services,Italy - Milan,,2024-02-12T06:37:23-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/5697864
@@ -296,7 +296,7 @@
 20,Capco,Investment Banking Operations,India - Bengaluru,India,2026-09-29T00:51:38-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8238991
 20,Guidepoint,Business Development Associate,"Shanghai Shi, China",,2026-10-14T14:28:50-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8829786002
 20,Guidepoint,Business Development Associate - Corporate,"東京都, Japan",Japan,2026-04-17T14:13:14-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8505930002
-20,Guidepoint,"Client Service Associate, Consulting","Shanghai Shi, China",,2025-06-12T04:16:47-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8006691002
+20,Guidepoint,"Client Service Associate, Consulting","Shanghai Shi, China",,2026-08-11T13:39:18-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8653015002
 18,Agoda,"Operational Excellence Coordinator/Senior Coordinator (10-month contract) (Bangkok-Based, No Visa Provided)","Bangkok, Thailand",,2026-10-21T06:02:29-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8305599
 17,Lalamove,"Senior Associate, Platform Growth and Operations",Hong Kong SAR,Hong Kong,2025-05-07T02:07:27.767000+00:00,,Lever:lalamove,https://jobs.lever.co/lalamove/ace66d4b-546f-4853-814a-544e4fc71f68
 17,Ninja Van,"Internship, Procurement","Subang Jaya, Selangor, Malaysia",,2024-07-05T08:52:29.789000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/0af9b1fb-c42a-48b4-a116-0ca0771adec8
@@ -408,14 +408,12 @@
 1,Capco,Management Consultant - Operational Resilience & Cyber,UK - London,United Kingdom,2026-09-02T04:24:52-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8172869
 1,Capco,Management Consultant – Digital Banking Transformation,Malaysia - Kuala Lumpur,,2026-09-30T04:47:01-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8242457
 1,Capco,Management Consultant – Insurance – London Markets,UK - London,United Kingdom,2026-02-26T12:48:28-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7658022
-1,Capco,PMO,India - Bengaluru; India - Chennai ; India - Gurugram; India - Hyderabad; India - Pune,India,2026-09-22T02:05:54-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8222496
-1,Capco,PMO,India - Bengaluru,India,2026-09-24T06:15:55-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8230029
+1,Capco,PMO,India - Bengaluru,India,2026-07-27T16:28:27-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8089704
 1,Capco,PMO - Financial Services,Italy - Milan,,2024-04-13T09:33:23-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/5905839
 1,Capco,Project Manager_TPRM,India - Bengaluru,India,2026-07-22T12:58:39-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8079879
 1,Capco,Qliksense Developer,India,India,2026-09-03T00:24:44-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8175800
 1,Capco,Regulatory Assurance Analyst,India - Bengaluru,India,2026-10-13T01:51:14-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8176775
 1,Capco,Reporting Analyst,India - Mumbai,India,2026-09-23T01:59:42-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8152746
-1,Capco,Risk Analyst,India - Bengaluru,India,2026-10-08T06:14:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8242529
 1,Capco,Security Engineer,India - Bengaluru,India,2026-10-30T05:03:45-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8333547
 1,Capco,Test Analyst (Banking),Malaysia - Kuala Lumpur,,2026-09-29T22:41:10-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8241885
 1,Capco,UAT Tester - Mumbai,India - Mumbai,India,2026-09-24T03:07:09-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8152568
@@ -453,7 +451,6 @@
 0,Agoda,People Service Excellence Analyst,Bangkok,,2026-09-23T22:38:51-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8225935
 0,Agoda,"Software Developer, Back End (Bangkok-based, 6-month Contract)",Bangkok,,2025-05-14T05:13:08-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/6883659
 0,Agoda,"Software Developer, DevOps (Bangkok-based, 10-month Contract)",Bangkok,,2026-09-21T04:22:02-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8219959
-0,Agoda,Support Associate (Gurgaon),Gurgaon,,2026-08-27T06:48:23-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7995116
 0,Agoda,Support Associate (Pune),Pune,,2026-08-06T02:28:43-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7995117
 0,Agoda,"Support Associate - English & Mandarin (Foshan, China)","Foshan, China",,2026-10-02T06:35:54-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8248906
 0,Agoda,Support Associate - English (Kuala Lumpur),Kuala Lumpur,,2026-08-14T06:08:41-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8118822
@@ -489,7 +486,6 @@
 0,Capco,Analista de SMS - Home Office,Brazil,,2026-10-20T11:22:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8303510
 0,Capco,Asset Servicing - Remoto - COM Inglês,Brazil - Sao Paulo,,2026-09-23T11:30:28-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8224410
 0,Capco,Assistente de Planejamento e Operações - Híbrido/ São Paulo,Brazil - Sao Paulo,,2026-04-02T15:30:34-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7776215
-0,Capco,Automation Test Engineer,India - Bengaluru; India - Gurugram; India - Kolkata; India - Mumbai; India - Pune,India,2026-10-13T04:34:29-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8275995
 0,Capco,Back-End Engineer - Java (Payments),Poland - Warsaw,,2026-10-20T07:11:02-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8302963
 0,Capco,Banco de Talentos - Cubatão,Brazil - Sao Paulo,,2026-05-26T08:12:23-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7956604
 0,Capco,Bench/ Resource/ Workforce Management,India - Bengaluru,India,2026-09-16T00:54:17-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8161206
@@ -543,7 +539,6 @@
 0,Capco,Engenheiro Fiscal - Presencial - Itaboraí- RJ,Brazil - Rio de Janeiro,,2026-09-02T14:39:50-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8174054
 0,Capco,ENGENHEIRO FISCAL- Híbrido - Rio de Janeiro,Brazil - Rio de Janeiro,,2026-10-14T16:39:20-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8282342
 0,Capco,Engenheiro Mecânico - Home Office,Brazil - Rio de Janeiro,,2026-04-02T16:13:17-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7733241
-0,Capco,EOD Batch Support,India - Bengaluru,India,2026-10-28T05:23:15-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8326756
 0,Capco,ETRM Developer,US - Houston,United States,2026-10-23T16:44:33-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8239678
 0,Capco,Feira de Empregabildiade - Macaé,Brazil - Rio de Janeiro,,2026-08-24T15:31:42-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8154961
 0,Capco,Finance Data Engineer,Switzerland - Geneva,,2026-10-15T04:45:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8284515
@@ -553,7 +548,6 @@
 0,Capco,Full Stack Engineer (Python/React/Typescript),Poland - Cracow,,2026-10-29T12:59:10-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8334485
 0,Capco,GCC Sales Head - Hyderabad,India - Hyderabad,India,2026-08-20T00:27:35-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8143334
 0,Capco,Generative AI Engineer,Italy - Milan,,2024-04-05T09:58:52-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/5884293
-0,Capco,Global HR Operational Analyst,India - Bengaluru,India,2026-09-17T05:28:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8210417
 0,Capco,Global Talent Acquisition Analyst,Slovakia - Bratislava,,2026-09-25T07:08:31-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8232735
 0,Capco,Global Talent Acquisition Analyst,Slovakia - Kosice,,2026-10-15T04:25:58-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8284516
 0,Capco,Global Talent Acquisition Analyst,Slovakia,,2026-10-15T04:26:00-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8284517
@@ -578,7 +572,6 @@
 0,Capco,Manual Tester – Cards (Polish is Mandatory),Poland - Warsaw,,2026-07-27T10:59:44-04:00,"KEY RESPONSIBILITIES: Prepare and execute manual test scenarios covering card lifecycle processes including issuance, authorization, postings, repayments, and settlements Validate business processes related to fees, interest calculations, installment plans, and MC/ERP settlement activities Document test execution results, maintain testing evidence, and ensure traceability across programme deliverables Log, track, and retest defects while working closely with development and business teams to support issue resolution Support SIT, UAT, regression, and end-to-end testing activities across banking and payments workstreams SKILLS & EXPERIENCES TO GET THE JOB DONE: Experience performing manual testing within banking, cards, or payments environments Strong understanding of card business processes and transaction lifecycles Experience creating and executing detailed test cases and documenting testing evidence Familiarity with defect management and test management tools such as JIRA, HP ALM, or similar platforms Strong analytical skills and attention to detail with the ability to work collaboratively across teams Knowledge of Mastercard or Visa card processing flows Experience testing authorization, clearing, settlement, or reconciliation processes Exposure to agile delivery methodologies Understanding of payment messaging standards or ERP integrations ISTQB certification or equivalent testing qualification IMPORTANT Fluent Polish (spoken and written) is mandatory Good command of English for documentation and collaboration ONLINE RECRUITMENT PROCESS STEPS Screening call with the Recruiter Hiring Manager Technical Interview Client Interview Feedback/Offer We offer a flexible collaboration model based on a B2B contract, with the opportunity to work on diverse projects.",Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8088638
 0,Capco,Mid Level AI Engineer,US - Orlando,United States,2026-09-04T08:23:51-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8178266
 0,Capco,ML Engineer (Full Stack),India,India,2026-09-02T07:24:13-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8152797
-0,Capco,Murex Production Support,India - Bengaluru,India,2026-06-22T01:51:01-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8020165
 0,Capco,Oceanógrafo - Remoto,Brazil - Rio de Janeiro,,2026-10-15T15:07:20-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8286577
 0,Capco,Oficial de Náutica - Híbrido - Rio de Janeiro,Brazil - Rio de Janeiro,,2026-10-16T15:49:07-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8289359
 0,Capco,Payroll Coordinator*,Germany - Frankfurt am Main,Germany,2026-09-11T03:59:18-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8194806
@@ -626,7 +619,6 @@
 0,Geotab,Solutions Engineering,"London, England - United Kingdom",United Kingdom,2026-08-07T12:18:34-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5376456008
 0,Guidepoint,Client Service Associate,"Seoul, Seoul, South Korea",South Korea,2026-08-31T22:51:15-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8767794002
 0,Guidepoint,Client Service Associate,Singapore,Singapore,2026-09-04T05:22:26-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8783614002
-0,Guidepoint,Client Service Associate （夜班17:00-2:00）,"Wuxi, Jiangsu, China",,2026-08-11T13:39:18-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8653015002
 0,Guidepoint,"Client Service Associate, Corporate","Shanghai Shi, China",,2025-07-14T23:34:18-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8003313002
 0,Guidepoint,"Client Service Associate, Institutional (项目助理，金融机构类客户)","Shanghai Shi, China",,2025-02-13T21:28:53-05:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/7863406002
 0,Guidepoint,"Coordinator, Client Service","Athina, Αττικη, Greece",,2026-05-22T11:42:14-04:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8554467002
