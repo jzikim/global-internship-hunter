@@ -1755,7 +1755,7 @@
     "employment_type": ""
   },
   {
-    "title": "2027 Legal Intern",
+    "title": "2027 Legal Engineer Intern",
     "company": "Schonfeld",
     "location": "New York, New York, United States",
     "country": "United States",
@@ -3092,6 +3092,27 @@
     "score": 27,
     "score_reasons": [
       "+12 student / early-career signal: student, students, internship, early career",
+      "+15 business / economics context",
+      "+0 visa support unclear"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "AlphaSights Networking Night (Ho Chi Minh City)",
+    "company": "AlphaSights",
+    "location": "Hong Kong",
+    "country": "Hong Kong",
+    "category": "Client Service",
+    "description": "Ho Chi Minh City | Friday, December 4, 2026 | 6:30–8:30pm Looking to launch your career in a fast-paced commercial role? Want to make an impact from day one, with a clear path for growth? AlphaSights is coming to Ho Chi Minh City in Vietnam for a recruitment and networking event! Join us to explore a commercial career at AlphaSights Hong Kong! About AlphaSights AlphaSights connects leading investment funds, strategy consultancies and Fortune 500 companies with experts worldwide, helping clients access the knowledge they need to make informed decisions. With 2,000+ professionals across nine cities, we bring together ambitious talent to deliver exceptional client service. Meet our team, hear about life and work in Hong Kong, and discover how you can build a career that combines business, relationship-building and commercial impact. What to expect Explore an international career in Hong Kong with insights from an AlphaSights Talent Acquisition Manager. Discover what it’s like to build a commercial career at a global company, working with clients and industry experts. Learn the skills needed to succeed in a Client Service Associate role and how to stand out as a candidate. Hear first-hand perspectives on career development and working in Hong Kong. Take part in an interactive session, followed by a live Q&A and networking. Who should register? Recent graduates and early-career professionals with 0–3 years of experience who are interested in commercial or client-facing careers. Experience in sales, business development, or other relevant experience in professional services is preferred but not required. Event details Date: Friday, December 4, 2026 Time: 6:30–8:30pm Location: District 1, Ho Chi Minh City. Venue details will be shared with confirmed attendees. Language: English * Please note: Space is limited. We will review applications on a rolling basis and reach out to shortlisted candidates for a brief introductory phone call. Submitting a registration does not confirm attendance. Event attendance does not guarantee an interview.",
+    "url": "https://www.alphasights.com/careers/open-roles?gh_jid=8352262",
+    "source": "Greenhouse:alphasights",
+    "posted_date": "2026-11-04T05:42:02-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 27,
+    "score_reasons": [
+      "+12 student / early-career signal: early-career, recent graduates",
       "+15 business / economics context",
       "+0 visa support unclear"
     ],
@@ -5051,54 +5072,6 @@
     "employment_type": ""
   },
   {
-    "title": "Business Analyst - Valuation",
-    "company": "Capco",
-    "location": "Poland - Cracow",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "CAPCO POLAND We offer a flexible collaboration model based on a B2B contract, with the opportunity to work on innovative AI and automation initiatives for leading financial institutions. At Capco Poland, we're not just another consultancy – we're the spark behind digital transformation in the financial world. As a global leader in technology and management consulting, we help clients tackle complex challenges across banking, payments, capital markets, wealth, and asset management. Role Overview We are looking for an experienced Business Analyst to support transformation and technology initiatives within Product Control and Valuations in a global investment banking environment. The role involves working closely with Finance, Risk, Front Office, and Technology teams to enhance valuation processes, controls, and reporting. Key Responsibilities Gather, analyse, and document business and functional requirements for Product Control and Valuations. Support enhancements to Independent Price Verification (IPV), Fair Value Adjustments (FVA), Prudent Valuation Adjustments (PVA) , and valuation controls. Analyse valuation data flows, reconciliations, and interfaces between trading, risk, and finance systems. Identify process improvements, automation opportunities, and data quality issues. Translate business requirements into functional specifications, user stories, and acceptance criteria. Coordinate with stakeholders, development teams, and testers to support solution delivery and UAT. Required Skills & Experience Proven Business Analysis experience within Investment Banking, Product Control, or Valuations . Good understanding of financial instruments, including derivatives, fixed income, FX, and equities. Knowledge of IPV, valuation adjustments, fair value hierarchy, and valuation methodologies . Strong SQL, Excel, data analysis, and reconciliation skills. Experience with requirements gathering, process mapping, Agile delivery, and UAT. Excellent stakeholder management and communication skills. Nice to Have Knowledge of IFRS 13, IFRS 9, and prudent valuation regulations. Experience with Murex, Calypso, or similar trading and valuation platforms. Familiarity with Python, Power BI, Jira, and Confluence. Experience in Finance transformation or valuation control automation. ONLINE RECRUITMENT PROCESS STEPS Screening call with the Recruiter Competencies interview with Capco Hiring Manager Client’s interview Feedback/Offer #LI-Hybrid",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8088207",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-07-27T07:46:50-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 25,
-    "score_reasons": [
-      "+40 preferred role: business analyst",
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Business Analyst with Visiona (Polish is mandatory)",
-    "company": "Capco",
-    "location": "Poland - Warsaw",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "CAPCO POLAND *We are looking for Poland based candidate. At Capco Poland, we’re not just another consultancy - we’re the spark behind digital transformation in the financial world. As a global leader in technology and management consulting, we thrive on helping clients tackle the toughest challenges across banking, payments, capital markets, wealth, and asset management. Capco is seeking an experienced Business Analysis Consultant (or Business Analyst to provide consulting services) to support client engagements within our Business Consulting practice. You will collaborate with leading banking clients on large-scale card migration initiatives, translating business needs into practical solutions and supporting successful delivery throughout the project lifecycle. This engagement is ideal for a Business Analysis Consultant with strong cards domain expertise, proven experience delivering migration projects, and working knowledge of the Visiona card issuing system. What You'll Do Configure and parameterise the Visiona card issuing platform to support business and regulatory requirements. Analyse incidents, identify root causes and propose effective system-based solutions within Visiona to address business needs. Collaborate with business stakeholders to gather, analyse and refine business and system requirements for new capabilities and process improvements. Design and document business processes, system configurations and functional specifications supporting card issuing solutions. Work closely with solution architects, developers, testers and other analysts to ensure consistent solution design and successful delivery. Support testing activities, validate system configuration, and assist with defect analysis and resolution. What We're Looking For Proven experience providing Business Analysis services within banking or financial services, with a strong focus on cards. Demonstrated experience delivering card migration or transformation projects. Working knowledge of Visiona. Strong experience in requirements engineering, business process modelling, stakeholder management and workshop facilitation. Fluency in both English and Polish language. We offer a flexible collaboration model based on a B2B contract, with the opportunity to work on diverse projects. RECRUITMENT PROCESS: HR interview with the recruiter Technical interview with Capco Engineering team Client interview Feedback and offer #LI-HYBRID",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8088129",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-07-27T06:23:40-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 25,
-    "score_reasons": [
-      "+40 preferred role: business analyst",
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Business Analyst – Target Operating Model",
     "company": "Capco",
     "location": "Poland - Cracow",
@@ -6155,21 +6128,21 @@
     "employment_type": ""
   },
   {
-    "title": "Sales Strategy & Operations Business Partner",
+    "title": "Product/Design Recruiter",
     "company": "Stripe",
-    "location": "(San Francisco, Chicago, NYC)",
+    "location": "Chicago, Atlanta, US-Remote, Toro",
     "country": "United States",
-    "category": "1520 Sales Operations (SS&O)",
-    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Global GTM Operations team is responsible for overall productivity and effectiveness of the sales organization, partnering closely with the sales team and teams across Stripe to drive initiatives. Within the Sales Strategy and Operations team, the Global Product Sales Strategy and Operations team is aligned to each of Stripe’s Product Pillars (Revenue Suite, Money Management and Payments) and are heavily focused on partnering with both GTM and Product to drive the rhythm of business, strategic initiatives, bi-annual planning and execution. We advance the sales policies, processes and tools to drive revenue and growth. Within Stripe, the goal of the Product sellers is to help users understand Stripe’s specialised offerings and recommend the right Stripe solutions and implementation path. This is an incredible opportunity that plays an integral role in shaping and executing GTM strategies with Sales leaders. You will partner with senior Sales leadership and the broader Sales team to drive the overall productivity and effectiveness of the mid market segment. Responsibilities include go-to-market design, resource planning, quota setting and management, sales process optimization and business analytics. You will also partner with key cross-functional stakeholders, including Finance & Strategy, Functional Sales Operations, Global Systems & Processes, and the Strategy Planning and Insights team to streamline and optimize our internal processes and deliverables (monthly business reviews, weekly forecasting calls, target setting and planning). We are looking for a self-starter who is passionate about their work, detail oriented, analytical and has demonstrated success dealing with ambiguity in a high-growth environment, and solving problems with limited oversight. What you’ll do Our team is growing rapidly and the majority of our near term focus is on building business foundations, which entails a focus on operational projects (process design, business cadences, systems work). This Sales Strategy and Operations business partner is the right-hand person to their Product Sales Leader on everything related to planning and running their business, including: org design and planning, partner/sales coverage models, setting SOKRs, measuring and providing insights on performance, forecasting, and process improvement. In addition to engaging with the Sales team, you will also be collaborating with numerous cross-functional stakeholders from across the globe, including: finance operations, sales operations, professional services consulting operations, product and system operations and customer success and renewals operations. Responsibilities Collaborate with Sales leadership and cross-functional stakeholders in developing go-to market strategy, resource plan and key performance metrics. Create and manage operational processes such as territory planning and target setting. Work cross-functionally to investigate and conduct analysis on system and operational issues Develop and execute initiatives designed to optimize sales team efficiency and productivity Drive rhythm of business (forecasting, pipeline council, monthly / quarterly business reviews) with strong operational rigor. Provide insights on key performance metrics and priorities (e.g. weekly, monthly, quarterly business reviews), identify key roadblocks to progress, and work efficiently to remove them Provide business analytic strength to help drive initiatives critical to ongoing growth and provide key insights for business leadership to support strategic decision-making Drive critical projects and initiatives and drive alignment with cross-functional teams across the organization by developing detailed project plans with activity based milestones Oversee implementation of enabling systems and tools, working closely with internal systems teams Who you are If you meet the minimum requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum Requirements 7+ years of sales strategy and operations experience in a high-tech growth environment, or operational experience in investment banking, management consulting, private equity, venture capital, or business insights / analytics roles. Knowledge of sales data such as customer accounts, opportunities and revenue Bachelor's Degree in a related field (e.g. Finance, Business, Engineering, Mathematics) Strong business acumen and ​​Distinctive problem solving and analysis skills. Ability to solve complex and diverse business problems (commercial, operational, organizational). Exceptional analytical skills and a structured approach to solving unique business problems Advanced SQL and Excel skills to include experience financial modelling Experience working with large data sets, especially in analyzing large imperfect data sets to solve problems and creating scalable reports and dashboards or ad-hoc analysis Stakeholder management experience - with strong communication and influencing skills. Self-starter and comfortable dealing with ambiguity. Communicate clearly, proactively, and concisely Works well under pressure, with a high degree of adaptability and flexibility in a fast-paced and frequently changing environment An enthusiastic \"roll up your sleeves\" mentality. Works well under pressure, with a high degree of adaptability and flexibility in a fast paced, ambiguous and rapidly changing environment Preferred Qualifications MBA or higher degree in an analytical field Prior experience at a growth stage Internet/software company or FinTech Proficiency in BI visualization tools (e.g. Tableau) Experience in Salesforce.com as a user and report developer",
-    "url": "https://stripe.com/jobs/search?gh_jid=8089882",
+    "category": "6520 Recruiting",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidate experience, and leveraging data driven storytelling to influence the business. What you’ll do To further this important mission, we are looking for a driven and collaborative Product & Design Recruiter to grow and scale our global product management and design organizations. You can expect high-impact and wide-ranging responsibility: owning full-cycle recruiting for specialized product and design searches, contributing to our geographic strategy through talent market insights, and delivering an exceptional candidate experience. This person must be a builder who thrives in a learning environment—unafraid to try new things, embrace new ideas, navigate ambiguity, and welcome suggestions for how we can iterate on our processes. Responsibilities: - Partner with senior leaders across product management and design to understand hiring objectives and develop recruiting strategies tailored to each organization’s needs. - Own full-cycle recruiting across product management and design disciplines, including product design, brand design, content design, design engineering, web presence design, and UX research. - Build a deep understanding of the skills, experience, and craft required for product and design roles, partnering with hiring teams to define profiles and align on evaluation criteria. - Develop strategic sourcing and engagement plans to attract product and design talent across different geographies, including passive senior candidates. - Use talent market insights to advise hiring leaders on candidate availability, search strategy, and geographic opportunities. - Track and analyze recruiting metrics, share hiring progress with product and design leadership, and use insights to improve search outcomes. - Initiate creative and scalable improvements to recruiting processes while maintaining a high-quality candidate experience. - Work closely with Finance, People Ops, Benefits, Onboarding, and Legal to deliver a high-quality and holistic candidate experience. Minimum requirements - 7+ years of full-cycle recruiting experience, including 4+ years recruiting across product management and design in a fast-paced, high-growth environment, with in-house experience. - Experience supporting hiring across both product management and design, with a track record of building high-performing teams and delivering an exceptional candidate experience. - Ability to understand distinct product and design profiles and translate business needs into effective search strategies. - A growth mindset and flexibility to shift tasks and priorities as business needs change. - An active, data-driven approach to problem-solving, using recruiting trends and market insights to improve processes and outcomes. - Proven ability to attract passive senior candidates and build diverse pipelines across different hiring locations. - Strong stakeholder management skills, including the ability to advise hiring leaders and navigate competing priorities across product and design searches. - Strong operational rigor and the ability to stay organized amid change. - Excellent verbal and written communication skills, with an appropriate blend of professionalism and friendliness. About the team What you’ll do Responsibilities Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Preferred qualifications",
+    "url": "https://stripe.com/jobs/search?gh_jid=8303870",
     "source": "Greenhouse:stripe",
-    "posted_date": "2026-07-30T10:01:13-04:00",
+    "posted_date": "2026-11-04T14:45:25-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
     "score": 25,
     "score_reasons": [
-      "+40 preferred role: strategy, sales strategy",
+      "+40 preferred role: product",
       "+15 business / economics context",
       "+5 data / analytics skills",
       "+0 visa support unclear",
@@ -7001,29 +6974,6 @@
     "score": 10,
     "score_reasons": [
       "+15 summer internship",
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-25 technical role is a secondary preference"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
-    "company": "Point72",
-    "location": "India, Bengaluru",
-    "country": "India",
-    "category": "Technology",
-    "description": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad A CAREER WITH POINT72'S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology team is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open-source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity. WHAT YOU’LL DO We want our office in India to become an incubator for top technology talent of all levels to come build transformative tools and applications—while learning from leading minds in our industry. At Point72 in Bengaluru, you’ll have access to the resources of a global hedge fund while maintaining the creative autonomy needed to help solve complex problems and contribute meaningfully to our success. At Point72, you will work on solving some of the most challenging technology problems in finance like real time data ingestion at scale, advanced analytics pipelines, low-latency trading platforms, AI-driven research tools, and cloud-native applications that need to be secure, resilient, and lightning-fast. With the advent of Agentic AI, there is a marked focus on accelerating our engineering build out leveraging the same. Specifically, you will: • Work in small, product-focused teams to design, build, and optimize mission-critical applications that power our portfolio managers, research analysts, and data scientists • Engineer high-performance systems with a focus on scalability and reliability, while having direct access to business and technology stakeholders • Work with live data streams, orchestrating pipelines to process terabytes of structured and unstructured data from global markets, news feeds, geospatial inputs, and alternative sources • Apply AI, machine learning, and advanced statistical techniques to create intelligent tools for idea generation, risk management, predictive analytics and increasing operational efficiency • Contribute to a DevSecOps culture—maintaining high standards of code quality, performance tuning, and security across applications • Experiment with emerging technologies from generative AI to GPU computing to discover new approaches in real-time decision making • Gain exposure to modern tech stacks including Python, Java, C++, React, Agentic AI frameworks, Node.js, Kafka, Spark, Postgres, AWS, Kubernetes, and Terraform • Receive mentorship from seasoned senior technologists and engineers who have experience building sophisticated systems used in the finance industry WHAT’S REQUIRED? • Expected bachelor’s or master’s degree in engineering in 2026 • Strong programming skills in one or more of the following languages: Python, Java, C++, or similar • Familiarity with software development methodologies and tools (e.g., Git, JIRA) • Ability to manage multiple tasks and deadlines in a fast-paced environment • Strong attention to detail • Strong analytical, writing, verbal communication, and technical skills • Demonstrated ability to work cooperatively with all levels of a team • Ability and willingness to always conduct yourself with professionalism and integrity • Commitment to the highest ethical standard WE TAKE CARE OF OUR PEOPLE We invest in our people, their careers, their health, and their well-being. When you work here, we provide: • Health care benefits • Maternity, Adoption & related leave policies • Generous paternity and family care leave policies • Employee Assistance Program & Mental wellness programs • Transportation support • Tuition assistance ABOUT POINT72 Point72 is a leading global alternative investment firm led by Steven A. Cohen with over $58.5 billion in assets under management (as of July 1, 2026). Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth. For more information, visit www.Point72.com .",
-    "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
-    "source": "Greenhouse:point72",
-    "posted_date": "2026-10-25T08:10:31-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 7,
-    "score_reasons": [
-      "+12 student / early-career signal: graduate program, campus",
       "+15 business / economics context",
       "+5 data / analytics skills",
       "+0 visa support unclear",
@@ -8963,6 +8913,30 @@
     "employment_type": ""
   },
   {
+    "title": "Learning & Training-Third Party Risk Management",
+    "company": "Capco",
+    "location": "India",
+    "country": "India",
+    "category": "Business Consulting",
+    "description": "Job Title: Learning & Training About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. Job Description – Learning Operations Manager Role Purpose The Learning Operations Manager is responsible for the efficient operational delivery of the organisation's learning portfolio. The role ensures that learning activities are planned, administered, delivered and reported accurately, providing an exceptional learner experience while producing high-quality management information to support business decision-making and regulatory compliance. The role combines strong operational management with expertise in HR systems, learning technologies and data analytics to ensure learning is delivered to the right audiences, at the right time, with measurable outcomes. Key Responsibilities Learning Operations Manage the end-to-end operational delivery of learning programmes across multiple business areas. Coordinate learning schedules, enrolments, cancellations and communications. Ensure learning activities are delivered efficiently, consistently and in accordance with agreed service levels. Identify and implement opportunities to automate and streamline operational processes. Maintain operational procedures, standards and documentation, as well as manage the learning team inbox. Audience Management Define and manage learning audiences using organisational structures, job roles, business rules and regulatory requirements. Create and maintain learner populations within the Learning Management System (LMS). Ensure mandatory and role-based learning is assigned accurately. Manage audience changes resulting from organisational restructures, acquisitions, role changes and employee lifecycle events. Work closely with HR and business stakeholders to validate audience accuracy. Learning Invitations & Communications Manage learner invitations, reminders and completion notifications. Design and maintain communication schedules to maximise learner engagement and completion rates. Ensure communications are timely, professional and aligned with organisational branding. Support stakeholder communications for major learning deployments. Reporting & Analytics Produce regular dashboards and management reports covering learning activity, completion rates, overdue training, compliance status and learner engagement. Analyse trends, identify risks and recommend actions to improve learning performance. Develop meaningful KPIs and operational metrics. Support audit requests by providing accurate learning records and evidence. Present data insights to senior stakeholders in a clear and actionable format. HR Systems & Learning Technology Act as a subject matter expert for the Learning Management System and its integration with HR systems. Manage system configuration relating to learning assignments, organisational hierarchies, user records and reporting. Work with HRIS teams to ensure accurate employee data feeds. Support testing and implementation of system enhancements and upgrades. Troubleshoot operational issues relating to learner records and system functionality. Stakeholder Management Build strong relationships with HR, Technology, Compliance, Learning Partners and business stakeholders. Provide operational advice and guidance on learning processes and system capabilities. Support business areas in planning learning deployments and reporting outcomes. Continuous Improvement Identify opportunities to improve operational efficiency through automation, technology and process redesign. Monitor operational performance against service levels. Contribute to continuous improvement initiatives across Learning Operations. Knowledge, Skills & Experience Essential Experience Significant experience in Learning Operations, Learning Administration or Learning Services. Experience managing large-scale learning deployments across complex organisations. Strong experience of audience management within Learning Management Systems. Experience producing learning compliance reporting and operational dashboards. Experience managing learner communications and invitations. Working knowledge of HR systems and employee data structures. Experience supporting regulatory or mandatory learning programmes. Technical Skills Strong knowledge of Learning Management Systems (e.g. Cornerstone, SuccessFactors Learning, Workday Learning, Oracle Learning, Moodle). Experience using HR systems such as Workday, SAP SuccessFactors, Oracle HCM or equivalent. Advanced Excel skills. Experience using reporting and visualisation tools such as Power BI, Tableau or similar. Strong understanding of data quality, governance and reporting principles. Comfortable working with large datasets. Core Competencies Excellent analytical and problem-solving skills. Highly organised with exceptional attention to detail. Strong customer and service orientation. Excellent written and verbal communication skills. Ability to manage multiple priorities simultaneously. Strong stakeholder management and influencing skills. Continuous improvement mindset. High levels of accuracy and accountability. Desirable Experience supporting financial services, regulated industries or mandatory compliance learning, in particular Supplier Management /Third Party Risk Management. Knowledge of xAPI, SCORM and learning technologies. Understanding of data privacy and GDPR principles. Experience working within Agile or transformation programmes. Success Measures The Learning Operations Manager will be successful when they consistently deliver: Accurate audience assignments with minimal manual intervention. High completion rates for mandatory and regulatory learning. Timely learner communications and invitations. Reliable, insightful reporting that supports business decision-making. Excellent learner satisfaction with operational support. High levels of HR and LMS data integrity. Continuous improvement through automation and process optimisation. Strong operational governance and audit readiness.",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8166576",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-08-31T07:52:46-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 1,
+    "score_reasons": [
+      "+16 relevant department; role uncertain",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Ledger SME",
     "company": "Capco",
     "location": "India",
@@ -9251,6 +9225,30 @@
     "employment_type": ""
   },
   {
+    "title": "PMO",
+    "company": "Capco",
+    "location": "India",
+    "country": "India",
+    "category": "Business Consulting",
+    "description": "Job Title: PMO About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. MAKE AN IMPACT Job description- PMO will be responsible for managing the governance and project reporting processes across multiple projects within Enterprise Finance. The role holder will be responsible for ensuring the programme compliance with the Change Framework and will work with project managers across the team to put in place appropriate procedures to ensure this compliance The role holder will need to manage consistency across multiple stakeholder requests, and will need to ensure a focus on programme governance, risk and issue management, status reporting and appropriate escalation Principal Accountabilities and Responsibilities (e.g., for Business, Customers and Stakeholders; internal control environment, etc.) PMO will be responsible for managing the global governance and project reporting processes across the Delivery projects The role holder will be responsible for certifying the programme compliance with the Change Framework and will collaborate with project managers across the team to put in place appropriate procedures to confirm this compliance Establish & enable core PMO processes including project reporting, risks & issues management, project governance processes, planning and dependency management, financial reporting, resources planning and tracking Tracking statuses of project deliverables and milestones Managing the collection, collation and processing of project information from stakeholders Devise strategies in line with the implementation of project standards across projects Managing and updating project documentation, process documents and information sources Document version management, document storage and file management. Technical Skill Requirements Project management skills in a complex regulatory environment, with strong risk, issue and dependency management skills An understanding of Finance reporting data, systems and processes Proficient in Microsoft Office applications (Word, Excel, Visio, PowerPoint, Project) Personal Skill Requirements Excellent stakeholder management skills, with the ability to build relationships at a range of levels of seniority Excellent organizational and prioritization skills Ability to professionally and effectively present information and respond to questions from all levels of management Ability to maintain effective oversight over a range of activities, and effectively prioritize and escalate A self-starter with excellent written/verbal communication skills Team player able to manage conflict and conflicting priorities. Experience Financial Services Project experience across both internal reporting and regulatory requirements, including experience of Finance reporting systems and processes Experience of working with audit, regulatory affairs and compliance functions, in a project context Experience of mobilizing project activity, including establishing new workstreams and delivery processes Experience in change management, driven by IT systems implementation, across a large organization",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8326600",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-10-29T01:47:58-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 1,
+    "score_reasons": [
+      "+16 relevant department; role uncertain",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "PMO - Financial Services",
     "company": "Capco",
     "location": "Italy - Milan",
@@ -9380,6 +9378,30 @@
     "url": "https://job-boards.greenhouse.io/capco/jobs/8333547",
     "source": "Greenhouse:capco",
     "posted_date": "2026-10-30T05:03:45-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 1,
+    "score_reasons": [
+      "+16 relevant department; role uncertain",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "Techno-Functional BA",
+    "company": "Capco",
+    "location": "India - Bengaluru",
+    "country": "India",
+    "category": "Business Consulting",
+    "description": "Job Title: Third Party Risk Management (TPRM) About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. Job Description: Techno-Functional BA Key Skills & Responsibilities: Finance Domain & Business Analysis Strong understanding of Financial Accounting, Management Reporting, and end-to-end Finance processes. Experience working with Finance SMEs and Operations teams to understand business requirements, data flows, mappings, allocations, and reporting calculations. Ability to define, document, and validate business rules, transformation logic, and functional requirements. Experience in requirements gathering, impact analysis, and stakeholder management. Data Analysis & Technical Skills Strong hands-on SQL and PL/SQL skills for data extraction, analysis, validation, and reconciliation. Knowledge of Google Cloud Platform (GCP), particularly BigQuery, for data analysis and validation. Experience with source-to-target mappings, data transformation, data quality checks, and root-cause analysis. Understanding of ETL/ELT processes, data pipelines, and legacy-to-cloud data migration. Python knowledge would be an added advantage. UAT & Functional Validation Hands-on experience in preparing UAT test scenarios, test cases, and expected results. Ability to independently execute UAT and validate business rules, mappings, allocations, and financial reporting calculations. Experience in data reconciliation, defect identification, tracking, retesting, and coordination with Technology and Fin Ops teams. Ability to support UAT sign-off and ensure business requirements are met. Banking Experience, Agile & Delivery Expectations Prior HSBC Finance systems/FCD experience would be preferred; relevant Finance transformation experience in other global banks can also be considered. Understanding of Agile methodologies, including Scrum framework, sprint planning, backlog management, user story creation, acceptance criteria, and participation in Agile ceremonies. Experience working in Agile delivery environments and collaborating with cross-functional teams to deliver requirements within sprint timelines. Strong communication, analytical, and stakeholder management skills. Must be hands-on, proactive, adaptable, and capable of independently managing multiple deliverables with minimal supervision.",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8345850",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-11-04T03:32:21-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -11198,15 +11220,15 @@
     "employment_type": ""
   },
   {
-    "title": "Comprador - Remoto",
+    "title": "Biólogo - Presencial - Seropédica - RJ",
     "company": "Capco",
-    "location": "Brazil",
+    "location": "Brazil - Rio de Janeiro",
     "country": "",
     "category": "Business Consulting",
-    "description": "SOBRE A CAPCO A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a CAPCO é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! ATRIBUIÇÃO - Receber, analisar, monitorar e tratar as RCs, para posterior emissão e envio do PC ou devolução da RC à área responsável, em caso de necessidade de complemento e/ou correção, com base nos parâmetros e orientações definidas pela PETROBRAS; - Verificar e corrigir e/ou reportar às áreas responsáveis eventuais inconsistências nas RCs novas e devolvidas; - Enviar o PC ao fornecedor, e aguardar seu aceite, tomando todas as ações necessárias até que o PC seja enviado de acordo com as condições contratadas ao fornecedor; - Minutar e enviar consultas e solicitações às áreas Jurídica, Financeira, Tributária, de Orientação, PCAD e outras, para tratamento de questões tributárias, sistêmicas e técnicos, como NM; - Desenvolver, controlar, atualizar, monitorar e reportar sistema de controle automatizado ou manual, de modo que seja verificado se os aspectos de preços praticados nos pedidos de compras emitidos refletem o estipulado em contrato de modo a evitar não conformidades que gerem prejuízo financeiro para a PETROBRAS; - Acompanhar, analisar e apresentar relatório semanal com a situação das RCs que tiveram os respectivos PCs emitidos automaticamente pelo SATRe (materiais, quantidade, fornecedor, contrato, status do envio e aceite pelo fornecedor dentre as informações que a PETROBRAS solicitar); - Avaliar status de atendimento de RCs, fazer diagnóstico dos problemas e implementar as ações necessárias para continuidade do atendimento, seja a emissão do PC ou eliminação/encaminhamento da RC para a área responsável pelo tratamento; - Revisar pedidos de compras; - Interagir com outras áreas, como fornecedores, planejamento, demandantes, gestão contratual, diligenciamento, tributário e outras, a fim de estabelecer fluxo para tratamento dos PCs; - Organizar, participar, intermediar e registrar reuniões com fornecedores e/ou áreas internas da PETROBRAS, bem como acompanhar e/ou executar plano de ação definido; - Elaborar e apresentar, quinzenal e/ou mensalmente, relatório com indicadores de acompanhamento das atividades descritas nesse posto de serviço; - Utilizar os sistemas e aplicações Petrobras necessárias as atividades; - Demais atividades necessárias ao suporte à gestão de contratos e diligenciamento de bens de operação e/ou de investimento.\" CONHECIMENTOS E HABILIDADES ESPERADAS Domínio da língua vernácula e habilidade de redação técnica; - Pacote Office Avançado (Word, Excel e Power Point); - Sistema SAP e suas derivações (Ariba, 4HANA, YARD, etc); - Correio Eletrônico; - Portal Petronect;\" FORMAÇÃO Grau de Instrução: Nível Técnico ou Superior. Formação: Qualquer área, com diploma (ou certificado) devidamente registrado, fornecido por instituição reconhecida pelo Ministério da Educação (MEC). TEMPO DE EXPERIENCIA experiência nas atribuições definidas acima, neste Anexo, ou escopo correlatos, neste caso, sujeitos à aprovação da fiscalização. POR QUE CAPCO? Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8289056",
+    "description": "REQUISITOS MANDATÓRIOS EXPERIÊNCIA Atuação em empresas de Óleo e Gás com a temática de **Estudos Ambientais, Licenciamento Ambiental e Environmental Due Diligencie (auditoria para liberação de área a ser licenciada), SGSMS e SGI, sendo recomendado ter atuado em indústria de processo contínuo similar aos dos locais objeto deste contrato. ESCOLARIDADE Nível de Formação: Nível superior em Biologia, Oceanografia, Química e afins. Pós Graduação em Meio Ambiente, ou Segurança do Trabalho, Qualidade, SMS, Petróleo e Gás, Planejamento, Gestão de Projetos, Auditoria, Perícia e Licenciamento Ambiental, Biologista, Citologista, Hidrobiologista, Histologista, Insetologista, Microbiologista e correlatas ATRIBUIÇÕES Realizar os Serviços de Análise e Planejamento de Gestão Operacional e Licenciamento Ambiental para a manutenção dos recursos naturais com foco na preservação da Biodiversidade em área periculosa, de forma a garantir a vida útil dos empreendimentos buscando estratégias para o estabelecimento de prioridades conservacionistas e promovendo o desenvolvimento e aplicação de métodos, processos e técnicas de conservação, Monitoramento e gerenciamento do meio ambiente, desenvolvimento e aplicação de métodos, processos e técnicas biológicas, químicas e oceanográficas relacionadas às obras, instalações, estruturas em todas as fases dos empreendimentos da Companhia. Realizar análises ecológicas e de sustentabilidade para emissão de pareceres técnicos, processos analíticos, avaliações de riscos e auditorias ambientais Liderar equipes de trabalho e elaborar relatórios e documentações técnicas para apresentação junto a órgãos competentes. Atuará diretamente em Licenciamento e Monitoramento Ambiental relacionados com a Biodiversidade etc. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8352475",
     "source": "Greenhouse:capco",
-    "posted_date": "2026-10-16T12:54:07-04:00",
+    "posted_date": "2026-11-04T08:44:26-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -11401,29 +11423,6 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Coordinator* HR Operations",
-    "company": "Capco",
-    "location": "Germany - Frankfurt am Main",
-    "country": "Germany",
-    "category": "Human Resources",
-    "description": "Standort: Frankfurt (Hybrid) | Practice Area: Corporate Services | Abteilung: People & Culture | Anstellungsart: Unbefristet Gestalte eine positive Employee Experience durch zuverlässige und serviceorientierte HR Operations. Die Rolle Als Coordinator* HR Operations in unserem People & Culture Team spielst du eine wichtige Rolle bei der Bereitstellung reibungsloser, präziser und mitarbeiterorientierter HR-Services entlang des gesamten Employee Lifecycles. Du koordinierst payrollbezogene Aktivitäten, administrierst unsere Benefits, erstellst vertragliche Dokumente wie z.B. Sideletters und unterstützt bei der Erstellung von Arbeitszeugnissen sowie weiteren HR-Dokumenten. Dabei arbeitest du eng mit Kolleginnen und Kollegen aus People & Culture und Finance sowie mit externen Dienstleistern zusammen und stellst sicher, dass unsere HR-Prozesse termingerecht, zuverlässig und gut organisiert ablaufen. Darüber hinaus nutzt du, wo sinnvoll, freigegebene AI-Tools, Automatisierungen und AI-gestützte Workflows, um Effizienz, Qualität und Konsistenz zu verbessern. Dabei bleiben menschliches Urteilsvermögen, angemessene Prüfprozesse und der verantwortungsvolle Umgang mit Mitarbeiterdaten jederzeit zentral. Was Du bei uns machst Du koordinierst die monatlichen Payroll-Aktivitäten und arbeitest mit relevanten internen Stakeholdern und externen Payroll-Dienstleistern zusammen, um eine korrekte und termingerechte Abwicklung sicherzustellen. Du übernimmst die Administration unserer Benefits und unterstützt Mitarbeitende bei Fragen, Änderungen und der dazugehörigen Dokumentation. Du erstellst Sideletters, Arbeitszeugnisse, Bescheinigungen und weitere mitarbeiterbezogene Dokumente und stellst deren Qualität und Konsistenz sicher. Du pflegst HR-Daten und Dokumentationen entlang des Employee Lifecycles und unterstützt bei der kontinuierlichen Verbesserung unserer HR-Operations-Prozesse. Du nutzt geeignete freigegebene AI-Tools und Automatisierungen, um wiederkehrende Tätigkeiten effizienter zu gestalten und Qualität sowie Produktivität zu verbessern . Was Du mitbringst Erfahrung im Bereich HR Operations, HR Administration, People Operations oder in einer vergleichbaren koordinierenden HR-Funktion. Praktische Kenntnisse in der Payroll-Koordination, Benefits Administration sowie in der Erstellung von mitarbeiterbezogenen und vertraglichen Dokumenten. Eine strukturierte und detailorientierte Arbeitsweise sowie die Fähigkeit, verschiedene HR-Aktivitäten zuverlässig zu koordinieren und dabei Vertraulichkeit und Genauigkeit sicherzustellen. Fließende Deutsch- und Englischkenntnisse in Wort und Schrift sowie gute Kommunikationsfähigkeiten und eine serviceorientierte Arbeitsweise im Austausch mit Mitarbeitenden, Kolleginnen und Kollegen sowie externen Dienstleistern. Neugier auf AI-gestützte Arbeitsweisen und einen sicheren, verantwortungsvollen Umgang mit freigegebenen digitalen und AI-Tools unter Einbeziehung menschlichen Urteilsvermögens und angemessener Prüfung. Von Vorteil Erfahrung im Umgang mit HRIS-, Payroll- oder Dokumentenmanagement-Systemen. Kenntnisse deutscher HR-Administrationsprozesse und arbeitsrechtlicher Dokumentation. Erfahrung in der Zusammenarbeit mit externen Payroll-, Benefits- oder HR-Dienstleistern. Erfahrung mit Prozessoptimierung oder Automatisierung im HR-Operations-Umfeld. Erfahrung mit freigegebenen AI- oder Automatisierungstools zur Verbesserung administrativer Workflows, der Dokumentenqualität oder der operativen Effizienz. Warum Capco? Arbeite in einer kollaborativen, offenen und unternehmerischen Unternehmenskultur. Übernimm eine verantwortungsvolle Rolle in unserem People-&-Culture-Team. Nutze kontinuierliche Lern-, Trainings- und persönliche Entwicklungsmöglichkeiten. Arbeite mit unterschiedlichen Teams und Stakeholdern innerhalb unseres internationalen Unternehmens zusammen. Gestalte die Weiterentwicklung unserer internen Prozesse aktiv mit. Wir bieten Dir ein attraktives, mitarbeiterorientiertes Leistungspaket, das Dich in unterschiedlichen Bereichen Deines Lebens und Deiner beruflichen Entwicklung unterstützt: Benefits Flexible Arbeitsmodelle und hybrides Arbeiten je nach Projekteinsatz möglich. Ein umfassendes Onboarding sowie Dein persönlicher Coach und Buddy. Bike Leasing Programme sowie eine Capco Benefits Card mit monatlicher Gutschrift i.H.v. 44 EUR. Regelmäßige Gesundheitschecks, Mental Health Kurse und Unterstützung für alle Lebenslagen durch den PME-Familienservice. Kontinuierliches Feedback und Weiterbildungsmöglichkeiten, z. B. über interne Trainings und Udemy Business, sowie ein unbefristeter Arbeitsvertrag in einem dynamischen und internationalen Umfeld. Inklusion bei Capco Wir setzen uns dafür ein, unseren Recruiting-Prozess für alle Menschen zugänglich und unkompliziert zu gestalten. Wenn Du in irgendeiner Phase des Bewerbungsprozesses Unterstützung oder Anpassungen benötigst, lass es uns einfach wissen – wir helfen Dir gerne weiter. Wir schätzen die individuelle Perspektive und den Beitrag jedes Menschen. Bei Capco sind wir überzeugt, dass Deine Individualität eine Deiner größten Stärken ist. Unsere #BeYourselfAtWork-Kultur fördert Individualität und Zusammenarbeit – eine Haltung, die unsere tägliche Zusammenarbeit mit unseren Kunden und untereinander prägt. *Wichtig ist nur, dass wir zueinander passen (m/w/d) #beyourselfatwork.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8248813",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-02T04:43:13-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -20)"
     ],
     "employment_type": ""
   },
@@ -11642,29 +11641,6 @@
     "employment_type": ""
   },
   {
-    "title": "Desenvolvedor(a) Backend Pleno - (Node.js)",
-    "company": "Capco",
-    "location": "Brazil - Sao Paulo",
-    "country": "",
-    "category": "Tech & Engineering",
-    "description": "SOBRE A CAPCO A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia. Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento. Com presença global nos principais centros financeiros - temos 40 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! Missão: Como Desenvolvedor Backend PLENO, você será responsável por liderar o desenvolvimento e a implementação de soluções robustas e escaláveis para nossos serviços backend, garantindo alta disponibilidade, performance e segurança. Responsabilidades: .● Desenvolver e manter serviços backend utilizando Node.js/TypeScript e Nest.js. ● Trabalhar com bancos de dados relacionais e não-relacionais para garantir a integridade e eficiência dos dados. ● Implementar arquiteturas de microserviços e garantir a comunicação eficiente entre eles. ● Utilizar computação em nuvem, especialmente no Google Cloud Platform (GCP), para hospedar e escalar serviços. ● Implementar programação assíncrona e mensageria utilizando RabbitMQ, Kafka, PubSub, entre outros. ● Utilizar Docker e Kubernetes para orquestração de contêineres e garantir a portabilidade e escalabilidade dos serviços. ● Gerenciar controle de versão utilizando GIT e colaborar em equipe seguindo metodologias ágeis. ● Configurar processos de CI/CD com Jenkins, pipelines e outras ferramentas para garantir um deploy contínuo e automatizado. ● Escrever testes unitários e end-to-end com Jest e Cypress para garantir a qualidade do código. ● Utilizar BigQuery para análise e processamento de grandes volumes de dados. O que você precisa ter: ● Vivencia em desenvolvimento backend utilizando Node.js/TypeScript. ● Conhecimento prático em bancos de dados relacionais e não-relacionais. ● Conhecimento comprovado em arquiteturas de microserviços e desenvolvimento utilizando Nest.js. ● Familiaridade com computação em nuvem, especialmente no Google Cloud Platform (GCP). ● Conhecimento em programação assíncrona e uso de mensageria. ● Conhecimento em Docker e Kubernetes para orquestração de contêineres. ● Experiência com controle de versão utilizando GIT e metodologias ágeis. ● Vivência em processos de deploy contínuo com Jenkins e pipelines. ● Habilidade em escrever testes unitários e end-to-end para garantir a qualidade do código. ● Familiaridade com BigQuery para análise de dados. ● Conhecimento em Python para ampliar as capacidades de desenvolvimento. ● Noções em práticas DevOps para integração e entrega contínua. ● Conhecimento em Clean Architecture e GitFlow. ● Familiaridade com princípios S.O.L.I.D. de desenvolvimento de software. POR QUE CAPCO: Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento. Etapa 1: Entrevista comportamental. Etapa 2: Entrevista técnica. Etapa 3: Conversa com time de Projeto/ Delivery. Etapa 4: Conversa com cliente. Etapa 5: Proposta ou feedback. As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8176815",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-09-03T13:33:07-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+0 visa support unclear",
-      "-25 technical role is a secondary preference",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -60)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Desenvolvedor(a) de Integração AWS - COM INGLÊS - Remoto",
     "company": "Capco",
     "location": "Brazil - Sao Paulo",
@@ -11684,28 +11660,6 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -30)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Desenvolvedor(a) Front-end - Flutter",
-    "company": "Capco",
-    "location": "Brazil - Sao Paulo",
-    "country": "",
-    "category": "Tech & Engineering",
-    "description": "SOBRE A CAPCO A Capco é uma consultoria global de tecnologia e gestão especializada na transformação digital, oferecendo soluções inovadoras e orientadas por dados para um portfólio crescente de mais de 100 clientes globais, entre eles bancos, pagamentos, mercados de capitais, gestão de patrimônio e ativos, seguros e setor de energia. Nos destacamos pela abordagem personalizada, focada na construção de parcerias estratégicas de longo prazo e na aceleração de iniciativas digitais. Nossa expertise ganha vida por meio dos Innovation Labs e da cultura premiada #BeYourselfAtWork, que valoriza a diversidade e o talento. Com presença global nos principais centros financeiros - temos 40 escritórios nas Américas, Europa e Ásia-Pacífico - estamos comprometidos em oferecer soluções práticas e integradas, promovendo colaboração e confiança em cada projeto. Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! Missão: Como Desenvolvedor Front End PLENO especializado em Flutter, você será fundamental na criação de experiências de usuário excepcionais para nossos aplicativos móveis, liderando o desenvolvimento e garantindo a qualidade e performance do código. Responsabilidades: Desenvolver interfaces de usuário elegantes e responsivas utilizando Flutter. ● Implementar funcionalidades nativas quando necessário para otimizar o desempenho e a experiência do usuário. ● Colaborar com designers e desenvolvedores back-end para integrar APIs e garantir a funcionalidade completa do aplicativo. ● Gerenciar processos de CI/CD utilizando Jenkins e pipelines para garantir um deploy contínuo e eficiente. ● Utilizar GIT para controle de versão e colaboração em equipe. ● Trabalhar em um ambiente ágil, seguindo metodologias ágeis e participando ativamente de rituais como reuniões de planejamento, revisão e retrospectiva. ● Aplicar princípios de Clean Architecture e GitFlow no desenvolvimento de software. ● Conhecimento em desenvolvimento de aplicativos móveis utilizando Flutter. ● Conhecimento prático em desenvolvimento nativo para otimização de performance. ● Familiaridade com o desenvolvimento de aplicativos usando React Native ● Experiência comprovada em CI/CD, preferencialmente utilizando Jenkins e pipelines. ● Proficiência no uso de GIT para controle de versão e colaboração em equipe. ● Vivência em metodologias ágeis, como Scrum ou Kanban. ● Conhecimento avançado em Clean Architecture e GitFlow. Desejável: ● Noções em práticas DevOps para integração e entrega contínua. ● Conhecimento em desenvolvimento seguindo princípios S.O.L.I.D. ● Histórico comprovado de entrega de aplicativos móveis de alta qualidade usando Flutter. ● Domínio das melhores práticas de desenvolvimento front-end e experiência do usuário. ● Capacidade de resolver problemas de forma criativa e eficiente, oferecendo soluções inovadoras. ● Excelentes habilidades de comunicação e trabalho em equipe, essenciais para colaborar efetivamente em um ambiente de desenvolvimento ágil. POR QUE CAPCO: Juntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: O objetivo da Capco é conduzir um processo flexível e alinhado às necessidades de cada oportunidade e talento. Etapa 1: Entrevista comportamental. Etapa 2: Entrevista técnica. Etapa 3: Conversa com time de Projeto/ Delivery. Etapa 4: Conversa com cliente. Etapa 5: Proposta ou feedback. As etapas do nosso processo seletivo descritas são essenciais para garantir uma avaliação completa e assertiva. Contudo, elas podem ser ajustadas dependendo da senioridade do(a) candidato(a), da área de atuação e do formato do projeto.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8176938",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-09-03T13:33:29-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -35)"
     ],
     "employment_type": ""
   },
@@ -11802,29 +11756,6 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -15)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Enfermeira(o) do Trabalho - Híbrido - Macaé/Imboassica",
-    "company": "Capco",
-    "location": "Brazil - Rio de Janeiro",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "SOBRE A CAPCO A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a CAPCO é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! ATRIBUIÇÃO Atuar nos Serviços Especializados em Saúde Ocupacional Conhecimentos avançados de edição de texto, edição de apresentações e planilhas eletrônicas, tais como pacote MS Office. • Inglês intermediário (leitura e escrita). • Capacidade de classificar e organizar dados. • Boa capacidade de expressão oral e escrita. FORMAÇÃO Graduação em enfermagem, com pós-graduação em enfermagem do trabalho. Graduação em enfermagem, com pós-graduação em enfermagem do trabalho. TEMPO DE EXPERIENCIA experiência nas atribuições definidas acima, neste Anexo, ou escopo correlatos, neste caso, sujeitos à aprovação da fiscalização. POR QUE CAPCO? Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8300843",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-20T13:26:51-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
     ],
     "employment_type": ""
   },
@@ -12152,75 +12083,6 @@
     "employment_type": ""
   },
   {
-    "title": "Engenheiro de Segurança do Trabalho - Parada",
-    "company": "Capco",
-    "location": "Brazil",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "REQUISITOS MANDATÓRIOS Pacote Microsoft Office avançado; Experiência planejamento e acompanhamento de parada em plantas industriais de grande porte; •Participação no planejamento e execução de simulados de emergências de grande amplitude em plantas industriais. EXPERIÊNCIA experiencia atividades correlatas ao escopo do serviço ESCOLARIDADE Grau de instrução: Pós-graduação Formação: Ensino superior completo, com formação em engenharia e pós-graduação em engenharia de segurança do trabalho, com registro no CREA Inglês Básico NR-20 ATRIBUIÇÕES Realizar inspeções/auditorias; Participar de análises de riscos; Apoiar contingências e emergências; Acompanhar de auditorias e visitas de órgãos fiscalizadores; Treinar/orientar força de trabalho; Acompanhar serviços; Apoiar fiscalização de SMS de contratos. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8107041",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-08-05T11:41:17-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Engenheiro de Segurança do Trabalho - Presencial - Canoas",
-    "company": "Capco",
-    "location": "Brazil",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "REQUISITOS MANDATÓRIOS •Pacote Microsoft Office avançado; •Domínio em práticas para adoção de medidas de gerenciamento (mediante Inspeções, Auditorias e Acompanhamento de Planos de Ação); •Apoio na elaboração de Análises Preliminares de Risco (APR), HAZOP (Avaliação de Perigos na Operabilidade de Sistemas) e Análises Quantitativas de Riscos (AQR) de novos empreendimentos ou existentes; •Experiência consolidada com atividades em plantas industriais; •Participação em simulados de emergências de grande amplitude em plantas industriais; EXPERIÊNCIA experiência em atividades correlatas ao escopo do serviço; ESCOLARIDADE Grau de instrução: Pós Graduação Formação: Ensino superior completo, com formação em engenharia e pós graduação em engenharia de segurança do trabalho, com registro no CREA •Inglês básico REQUISITOS DESEJÁVEIS Capacitação em sistemas de gestão, HO e/ou ergonomia. ATRIBUIÇÕES Realizar inspeções/auditorias; Participar e/ou conduzir análises de riscos; Realizar análise de anomalias; Apoiar atividades relativas a contingências e emergências; Apoiar atividades relativas a higiene ocupacional e ergonomia; Acompanhar auditorias e visitas de órgãos fiscalizadores; Treinar/orientar força de trabalho; Apoiar fiscalização de SMS de contratos; Coletar e registrar dados em sistemas informatizados; Apoiar organização de eventos. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8189620",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-09-10T10:19:33-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Engenheiro de Segurança do Trabalho - Presencial - Laranjeiras CE",
-    "company": "Capco",
-    "location": "Brazil",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "Grau de Instrução Grau de instrução: Pós Graduação; Formação: Ensino superior completo, com formação em engenharia e pós graduação em engenharia de segurança do trabalho, com registro no CREA. Tempo de Experiência: Experiencia em atividades correlatas ao escopo do serviço. Conhecimentos Obrigatórios: Pacote Microsoft Office avançado; Domínio em práticas para adoção de medidas de gerenciamento (mediante Inspeções, Auditorias e Acompanhamento de Planos de Ação); Apoio na elaboração de Análises Preliminares de Risco (APR), HAZOP (Avaliação de Perigos na Operabilidade de Sistemas) e Análises Quantitativas de Riscos (AQR) de novos empreendimentos ou existentes; Experiência consolidada com atividades em plantas industriais; Participação em simulados de emergências de grande amplitude em plantas industriais. Conhecimentos complementares Inglês básico; Desejável capacitação em sistemas de gestão, HO e/ou ergonomia. Atribuições Realizar inspeções/auditorias; Participar e/ou conduzir análises de riscos; Realizar análise de anomalias; Apoiar atividades relativas a contingências e emergências; Apoiar atividades relativas a higiene ocupacional e ergonomia; Acompanhar auditorias e visitas de órgãos fiscalizadores; Treinar/orientar força de trabalho; Apoiar fiscalização de SMS de contratos; Coletar e registrar dados em sistemas informatizados; Apoiar organização de eventos. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8259417",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-06T14:40:50-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Engenheiro de Segurança do Trabalho - Presencial - Macaé/RJ",
     "company": "Capco",
     "location": "Brazil",
@@ -12253,29 +12115,6 @@
     "url": "https://job-boards.greenhouse.io/capco/jobs/8226460",
     "source": "Greenhouse:capco",
     "posted_date": "2026-09-25T09:41:52-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Engenheiro de Segurança do Trabalho - Remoto",
-    "company": "Capco",
-    "location": "Brazil",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "REQUISITOS MANDATÓRIOS •Pacote Microsoft Office; •Conhecimento das normas de sistemas de gestão integrada (Ex.: ISO 45001, ISO 14001, ISO 9001); •Conhecimento funcional SAP ERP ou Sistema Informatizado de Registro de Anomalias; Será necessário ART de cargo e função para esse posto de serviço. EXPERIÊNCIA experiência em atividades similares ao escopo dos serviços. ESCOLARIDADE Grau de Instrução: Pós graduação Formação: Formação em engenharia com Pós-graduação em Engenharia de Segurança do Trabalho, com registro em conselho profissional. ATRIBUIÇÕES Elaborar e/ou atualizar painéis no powerBi que facilitem a gestão sobre os temas de contingência (ex. Acompanhamento do Plano de Manutenção dos Ativos de Contingências, Teste de Performance de Bombas, Cronograma de Simulados, entre outros); Realizar gestão dos treinamentos relacionados a contingência, buscando novas oportunidades e conteúdos a serem compartilhados; Apoiar o planejamento e acompanhar exercícios simulados nas Unidades Operacionais; Propor ações para aprimoramento dos conhecimentos das lideranças no que tange o ICS – Sistema de Comando de Incidente; Acompanhar a implantação das recomendações de contingência oriundas dos estudos de análises de risco de processo e outras inspeções/diagnósticos; Apoiar na elaboração e/ou revisão dos Planos de Resposta a Emergência – PRE das unidades do parque de refino, processamento de gás, DTEN e LCM, bem como os PRE-SOs, Planos Locais e PROs; Assessorar, do ponto de vista da engenharia de segurança, assuntos relacionados à preparação e atendimento a emergências; Apoiar na revisão de procedimentos e padrões relacionados ao tema de gestão de contingência; Realizar apresentações tais como RAC de SMS, Subcomissão, entre outras, sobre o tema de Contingência; Acompanhar a implantação das recomendações de contingência oriundas dos estudos de análises de risco de processo; Auditoria de conformidade de barreiras de proteção identificadas nos estudos de risco de processo (APR, HAZOP, LOPA e AQR); Acompanhar auditorias internas e externas nas unidades do parque de refino, processamento de gás, DTEN e LCM no tocante a Contingência; Apoiar no processo de inserção de dados nos sistemas internos (InfoPAE, sistema de plano de ações, SERP, iRISCO); Treinar os profissionais para acesso aos sistemas relacionadas a contingência (ex InfoPAE, Sistema IAP, entre outros) e fazer os ajustes necessários nos sistemas; Suporte as auditorias do PAGSMS. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8249283",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-02T12:19:44-04:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -12793,6 +12632,31 @@
     "employment_type": ""
   },
   {
+    "title": "Java Backend Engineer",
+    "company": "Capco",
+    "location": "India - Pune",
+    "country": "India",
+    "category": "Tech & Engineering",
+    "description": "About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount. With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. MAKE AN IMPACT Job Location: Pune Experience: 5-10 yrs JD: Role Description Full stack Developer Backend (GCB4) Role Summary We are seeking an engineer with strong expertise in both API development and database development, capable of designing, implementing and maintaining reliable, scalable solutions across both areas. Key Responsibilities Backend (API) Engineer Responsibilities Design, develop and maintain scalable backend services, APIs and integration components, including database procedures and functions where required. Contribute to system and solution architecture, ensuring services are scalable, reliable and maintainable. Implement secure-by-design practices, including authentication, authorisation, data protection and secure coding. Write clean, maintainable and well-tested code; participate in code reviews and uphold engineering standards. Profile, monitor and tune backend services to maintain performance, availability and resilience. Troubleshoot production issues, conduct root-cause analysis and implement preventative improvements. Collaborate with frontend engineers, product managers, QA, platform/SRE teams and other stakeholders to deliver end-to-end solutions. Document APIs, services, integration patterns and operational runbooks to support maintainability and knowledge transfer. Database and Data Engineering Responsibilities Design, develop and maintain ETL pipelines and data-ingestion processes from sources such as data lakes, files and databases. Design and optimise data models, schemas, database queries and storage strategies for operational, analytical and machine-learning use cases. Build and maintain data lakes, warehouses and other data platforms, ensuring scalability, performance and cost efficiency. Implement batch and real-time data processing solutions, with appropriate controls for performance, resilience and operational cost. Establish data-quality, lineage, observability and monitoring capabilities across data pipelines and platforms. Own or contribute to CI/CD, infrastructure-as-code and automated deployment practices for data services. Troubleshoot data-platform and pipeline issues, perform capacity planning and implement preventative improvements. Ensure data solutions meet applicable security, compliance and governance requirements. Collaborate with business partners, solution architects, subject-matter experts, analysts and source-system teams to translate requirements into production-ready data solutions. Produce technical documentation and lead knowledge-transfer sessions for data models, pipelines, platforms and operational processes. Required Skills & Experience Backend (API) Engineer – Required Skills Strong backend engineering fundamentals, including data structures, algorithms, concurrency and distributed-systems concepts. Experience designing, building and maintaining server-side applications and APIs, including RESTful and/or event-driven architectures. Strong understanding of API design, integration patterns, authentication, authorisation and secure coding practices. Experience with relational databases, including PostgreSQL, SQL, indexing, transactions and data consistency. Ability to design scalable systems that support high throughput, reliability and large volumes of operational workloads. Practical experience with unit and integration testing, version control and CI/CD practices. Strong debugging, problem-solving and root-cause-analysis skills. Language-agnostic mindset, with proficiency in one or more of the following: Python, Java, C++, C#, Clojure, CoffeeScript, F#, JavaScript, Go, Ruby, Rust, TypeScript or Scala. Ability to communicate technical concepts clearly and collaborate effectively with frontend engineers, product teams, QA, platform/SRE teams and other stakeholders. Database and Data Engineer – Required Skills Strong SQL expertise, including query development, optimisation, joins, indexing, transactions and stored procedures. Experience with relational and columnar data stores, such as PostgreSQL, Oracle and Microsoft SQL Server. Practical experience designing data models, schemas and storage structures for operational, analytical and/or machine-learning use cases. Proficiency in Python, Java or C# for data processing, automation and scripting. Experience developing and supporting ETL/ELT pipelines and batch or real-time data-processing solutions. Experience with data-orchestration tools such as Apache Airflow, Prefect or Azure Data Factory. Knowledge of data-modelling and architecture tools, such as Visual Paradigm. Understanding of data quality, lineage, observability, monitoring and governance practices. Strong debugging, performance-tuning, capacity-planning and automation skills, with awareness of processing efficiency and cost optimisation. Experience with CI/CD, automated deployments and infrastructure-as-code for data services. Good stakeholder communication and technical-documentation skills, with the ability to work with business partners, architects, analysts, subject-matter experts and source-system teams.",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8345835",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-11-04T05:37:01-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-25 technical role is a secondary preference",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -40)"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Java Backend Engineer – AI",
     "company": "Capco",
     "location": "Canada - Toronto",
@@ -12933,30 +12797,6 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -20)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Learning & Training-Third Party Risk Management",
-    "company": "Capco",
-    "location": "India",
-    "country": "India",
-    "category": "Business Consulting",
-    "description": "Job Title: Learning & Training About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. SKILLS: Strong experience of audience management within Learning Management Systems. Experience using HR systems such as Workday, SAP SuccessFactors, Oracle HCM or equivalent. Experience managing large-scale learning deployments across complex organisations.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8166576",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-08-31T07:52:46-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+15 business / economics context",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -4)"
     ],
     "employment_type": ""
   },
@@ -13219,6 +13059,29 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -4)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "PMO - Junior",
+    "company": "Capco",
+    "location": "India - Bengaluru",
+    "country": "India",
+    "category": "Tech & Engineering",
+    "description": "Role Description Strong stakeholder management and interpersonal skills. Excellent verbal and written communication skills. Good coordination, follow-up, and organizational abilities. Working knowledge of MS Excel, PowerPoint, and Outlook. Basic understanding of project management processes and reporting. Experience in coordinating employee onboarding and offboarding activities, including access requests, documentation, resource allocation, and exit formalities. Ability to handle day-to-day PMO operational and administrative activities, ensuring smooth project operations. Ability to manage multiple stakeholders and tasks simultaneously. Experience in preparing project trackers, status reports, and meeting minutes. Strong follow-up skills to coordinate with HR, IT, and other internal teams for onboarding, offboarding, and operational requirements.",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8300474",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-10-21T01:28:36-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -20)"
     ],
     "employment_type": ""
   },
@@ -13487,29 +13350,6 @@
     "employment_type": ""
   },
   {
-    "title": "TECNICO DE PLANEJAMENTO E PROGRAMACAO DA MANUTENCAO - Turno 6x6 - Macaé/RJ",
-    "company": "Capco",
-    "location": "Brazil - Rio de Janeiro",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "SOBRE A CAPCO A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a CAPCO é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! ATRIBUIÇÃO Coordenar no Centro Integrado de Operações Submarinas (CIOp-SUB) as atividades referentes ao planejamento e prestar suporte técnico para escopo de serviço às gerências de projetos da SUB nas operações com equipamentos submarinos de todos os processos envolvidos. Emitir Relatório de Detalhamento técnico na fase de planejamento de operações de equipamentos submarinos de comissionamento e descomissionamento em modelo definido pela PETROBRAS. Negociar com os integrantes do CIOp-SUB a inserção/retirada/postergação das operações programáveis da SUB/SSUB. Emitir Relatório Semanal de Pendências Críticas. Atualizar as restrições e marcos operacionais dos processos de Comissionamento e Descomissionamento no Sistema da PETROBRAS (sistema utilizado pela Petrobras durante vigência do contrato). Participar e/ou coordenar as reuniões de planejamento externas prestando suporte técnico e dados de planejamento operacional. Realizar detalhamento técnico das ordens de serviço no sistema definido pela Petrobras. O detalhamento técnico é considerado a elaboração de análise prévia da operação e inserção de documentação para execução de operação seleção de recursos necessários para atividade offshore. CONHECIMENTOS E HABILIDADES ESPERADAS Ferramenta de planilha eletrônica (Pacote Microsoft Office – Excel) com habilidade para geração de tabelas e gráficos dinâmicos. Domínio Microsoft Power BI, Domínio do SAP: módulos de materiais (MM) e de manutenção (PM) e Sharepoint. FORMAÇÃO Formação Técnica em Mecânica, Elétrica, Mecatrônica, Eletrotécnica, Eletromecânica, Controle e Automação ou Automação Industrial expedido por instituição de ensino reconhecida pelo Ministério da Educação. b) Registro no Conselho de Classe (CREA). c) Experiência mínima de 5 anos na Indústria do Petróleo, especificamente relacionado a: Intervenção, instalação e comissionamento de Equipamentos Submarinos com embarcações do tipo RSV, PLSV, SESV e ou MPSV. d) Experiência mínima de 1 ano de embarque offshore especificamente relacionado a: Intervenção, instalação e comissionamento de Equipamentos Submarinos com embarcações do tipo RSV, PLSV, SESV e ou MPSV. TEMPO DE EXPERIENCIA experiência nas atribuições definidas acima, neste Anexo, ou escopo correlatos, neste caso, sujeitos à aprovação da fiscalização. POR QUE CAPCO? Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8286855",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-15T14:24:46-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Testing - Testing L4 (7.1-9 years)-29021-1",
     "company": "Capco",
     "location": "India - Chennai ",
@@ -13554,30 +13394,6 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -4)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Trading Systems Integration Engineer - FIX 4.4 Expert",
-    "company": "Capco",
-    "location": "Poland - Warsaw",
-    "country": "",
-    "category": "Tech & Engineering",
-    "description": "CAPCO POLAND *We are looking for Poland based candidate. At Capco Poland, we’re not just another consultancy - we’re the spark behind digital transformation in the financial world. As a global leader in technology and management consulting, we thrive on helping clients tackle the toughest challenges across banking, payments, capital markets, wealth, and asset management. Build resilient integration and workflow solutions at the intersection of capital markets, modern technology and digital assets. The Role As a Senior Integration & Workflow Engineer , you’ll provide specialist engineering services focused on designing and developing custom integration and workflow-orchestration components connecting capital markets platforms, blockchain infrastructure and market infrastructure. Design and develop custom integration and workflow-orchestration components connecting capital markets entity’s platforms, Blockchain infrastructure and market infrastructure. The scope includes delivering resilient, secure and auditable services supporting pre-trade validation, transaction orchestration, settlement processing and downstream system integration.. What You’ll Do Design and develop custom middleware and workflow-orchestration services Build REST/API-based integrations with internal and third-party platforms Implement transaction and workflow state management, including multi-step processing across systems Develop orchestration logic for Pre-Trade Gateway, DvP/settlement and downstream integration flows Implement validation, routing, reservation/earmark and transaction-processing logic Develop adapters and integration services for external platforms and market-infrastructure systems Implement idempotency, retry, queueing, replay and recovery patterns for resilient transaction processing Implement asynchronous/event-driven processing where required by detailed architecture Build robust exception handling, error classification and operational status management Implement audit logging, monitoring and traceability across end-to-end workflows Develop data mappings, transformation and canonical integration models Support authentication, authorization, API security and enterprise security requirements Develop automated unit/component tests and support SIT/E2E testing Troubleshoot complex cross-system integration and production issues Support CI/CD, deployment, configuration and production-readiness activities Produce technical documentation and support knowledge transfer/handover Develop and maintain FIX 4.4 message flows and routing logic connecting the existing exchange environment with the DLT/tokenized order flow Implement FIX message mapping, validation, routing, acknowledgements, execution reports, rejects and error handling for tokenized order flows What We’re Looking For Strong hands-on experience developing enterprise integration / middleware applications Strong hands-on experience with FIX 4.4 , including message structures, tags, session management, routing, order lifecycle messages and execution reporting Experience integrating FIX 4.4-based exchange order flows with API/middleware-based downstream systems, including DLT or other non-traditional market infrastructure. Strong development experience in Java / Spring Boot, .NET/C#, Node.js/TypeScript or comparable enterprise technology stack Strong FIX 4.4, REST API and service-integration experience Experience implementing workflow/orchestration or transaction-processing applications Experience with asynchronous processing, messaging and event-driven patterns such as Kafka, MQ or equivalent Strong understanding of distributed-system patterns including idempotency, re-tries, timeouts, circuit breakers, concurrency and failure recovery Experience with relational databases and persistent transaction/state management Experience integrating with third-party/vendor APIs Experience with secure enterprise application development, authentication/authorization and audit logging Experience with Git, CI/CD, automated testing and modern deployment practices Strong troubleshooting skills across distributed applications and interfaces Domain & Industry Experience Financial services integration experience, particularly capital markets, payments, trading or settlement Experience with financial-market messaging standards Experience developing transaction orchestration in regulated/high-availability environments Exposure to blockchain/DLT, digital assets, smart assets or custody platforms is preferred We offer a flexible collaboration model based on a B2B contract, with the opportunity to work on diverse projects. Recruitment Process: HR Interview with the recruiter Technical Interview Client Interview Feedback and offer #LI-HYBRID",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8201240",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-09-14T11:01:07-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -15)"
     ],
     "employment_type": ""
   },
@@ -13683,29 +13499,6 @@
     "url": "https://job-boards.greenhouse.io/capco/jobs/8233476",
     "source": "Greenhouse:capco",
     "posted_date": "2026-09-25T13:46:35-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Técnico de Segurança - Híbrido - MACAÉ/ RJ",
-    "company": "Capco",
-    "location": "Brazil - Rio de Janeiro",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "SOBRE A CAPCO A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a CAPCO é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! ATRIBUIÇÃO Atuar nos Serviços Técnicos em Segurança do Trabalho Operacional CONHECIMENTOS E HABILIDADES ESPERADAS Conhecimentos avançados de edição de texto, edição de apresentações e planilhas eletrônicas, tais como pacote MS Office. • Capacidade de classificar e organizar dados. • Boa capacidade de expressão oral e escrita. FORMAÇÃO Planejamento de Produção, Mecânica, Automação, Elétrica, Eletrônica, Eletrotécnica ou Instrumentação ou Cursos correlatos, neste caso, sujeitos à aprovação da fiscalização. Registro regular no respectivo Conselho de Classe\" TEMPO DE EXPERIENCIA experiência nas atribuições definidas acima, neste Anexo, ou escopo correlatos, neste caso, sujeitos à aprovação da fiscalização. POR QUE CAPCO? Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8281393",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-10-14T10:34:13-04:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -13857,29 +13650,6 @@
     "employment_type": ""
   },
   {
-    "title": "TÉCNICO DE SEGURANÇA DO TRABALHO -TURNO - MACAÉ/RJ",
-    "company": "Capco",
-    "location": "Brazil - Rio de Janeiro",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "SOBRE A CAPCO A CAPCO é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a CAPCO é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira! ATRIBUIÇÃO Realizar inspeção nas instalações das empresas prestadoras de serviço de hotelaria, com foco na avaliação física (funcionamento e integridade) e documental (conformidade) dos contentores de transporte (containeres) e seus acessórios para movimentação, antes de seu embarque; Realizar inspeção com foco na avaliação física (funcionamento e integridade) e documental (conformidade) dos equipamentos e dos materiais destinados ao atendimento do contrato, antes de seu embarque; Aplicar formulário de inspeção modelo, fornecido pela Contratante; Realizar registro fotográfico de itens relevantes; Emitir relatórios de conformidade quanto ao atendimento da legislação as normas técnicas vigentes aplicáveis ; Orientar a adoção de medidas corretivas imediatas pelos responsáveis da empresa de hotelaria; Comunicar a Coordenação de Nutrição a constatação de não conformidades que comprometam a segurança dos alimentos, e que não tenham sido solucionadas no momento da inspeção; Liberar os contêineres adequados para o embarque; Vetar o embarque de containers inadequados; Identificar e registrar as não conformidades na planilha fornecida pela Contratante; Cadastrar as não conformidades encontradas nos sistemas indicados pela Contratante; Demais atividades correlatas, necessárias à execução dos serviços de suporte técnico para fiscalização dos contratos de hotelaria marítima. CONHECIMENTOS E HABILIDADES ESPERADAS Conhecimento avançado dos softwares do pacote Office. FORMAÇÃO Planejamento de Produção, Mecânica, Automação, Elétrica, Eletrônica, Eletrotécnica ou Instrumentação ou Cursos correlatos, neste caso, sujeitos à aprovação da fiscalização. Registro regular no respectivo Conselho de Classe\" TEMPO DE EXPERIENCIA experiência nas atribuições definidas acima, neste Anexo, ou escopo correlatos, neste caso, sujeitos à aprovação da fiscalização. POR QUE CAPCO? Juntar-se à CAPCO significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente! PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8336608",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-11-03T07:56:30-05:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Técnico de Segurança do Trabalho / Offshore - Santos - SP",
     "company": "Capco",
     "location": "Brazil",
@@ -13926,29 +13696,6 @@
     "employment_type": ""
   },
   {
-    "title": "Técnico em Segurança do Trabalho",
-    "company": "Capco",
-    "location": "Brazil",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "REQUISITOS MANDATÓRIOS Pacote Microsoft Office avançado; Experiência planejamento e acompanhamento de parada em plantas industriais de grande porte; Participação no planejamento e execução de simulados de emergências de grande amplitude em plantas industriais. EXPERIÊNCIA Solida experiência em atividades correlatas ao escopo do serviço; ESCOLARIDADE Grau de Instrução: Nível Técnico Formação: Técnico de Segurança (com registro profissional no CREA) Inglês básico Treinamento ABNT NBR 16710-1:2020 - Nível de Resgatista Industria ATRIBUIÇÕES Em regime de PARADA DE MANUTENÇÃO: Realizar inspeções/auditorias; Participar de análises de riscos; Apoiar contingências e emergências; Acompanhar de auditorias e visitas de órgãos fiscalizadores; Treinar/orientar força de trabalho; Acompanhar serviços; Apoiar fiscalização de SMS de contratos. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8043343",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-07-02T08:57:24-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Técnico em segurança do trabalho - Presencial",
     "company": "Capco",
     "location": "Brazil",
@@ -13958,29 +13705,6 @@
     "url": "https://job-boards.greenhouse.io/capco/jobs/8107029",
     "source": "Greenhouse:capco",
     "posted_date": "2026-08-05T11:41:15-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -19)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Técnico em segurança do trabalho - Presencial - Três Lagoas -",
-    "company": "Capco",
-    "location": "Brazil",
-    "country": "",
-    "category": "Business Consulting",
-    "description": "REQUISITOS MANDATÓRIOS Pacote Microsoft Office avançado; Domínio em práticas para adoção de medidas de gerenciamento (mediante •Inspeções, Auditorias e Acompanhamento de Planos de Ação); Apoio na elaboração de Análises Preliminares de Risco (APR), HAZOP (Avaliação de •Perigos na Operabilidade de Sistemas) e Análises Quantitativas de Riscos (AQR) de novos empreendimentos ou existentes; Experiência consolidada com atividades em plantas industriais; Participação em simulados de emergências de grande amplitude em plantas industriais EXPERIÊNCIA Solida experiência em atividades correlatas ao escopo do serviço; ESCOLARIDADE Grau de Instrução: Nível Técnico Formação: Técnico de Segurança (com registro profissional no CREA) CONHECIMENTOS COMPLEMENTARES Inglês básico Desejável capacitação em sistemas de gestão, HO e/ou ergonomia Treinamento ABNT NBR 16710-1:2020 - Nível de Resgatista Industrial ATRIBUIÇÕES Realizar inspeções/auditorias; Participar de análises de riscos; Apoiar tratamento de anomalias; Apoiar contingências e emergências;acompanhar de auditorias e visitas de órgãos fiscalizadores; Treinar/orientar força de trabalho; Acompanhar serviços; Apoiar fiscalização de SMS de contratos; Coletar e registrar dados em sistemas informatizados; Apoiar realização de eventos. Sobre a CAPCO: Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade em todas as suas expressões. Pensamos, em conjunto , sempre em ações diversas de inclusão e de responsabilidade social através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros. Nossas oportunidades são trabalhadas para todos(as)!!! #LifeAtCapco PRÓXIMOS PASSOS: Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8074466",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-07-20T10:46:57-04:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -15926,6 +15650,30 @@
     "employment_type": ""
   },
   {
+    "title": "Quantitative Developer, Risk Technology",
+    "company": "Point72",
+    "location": "Bengaluru, India ",
+    "country": "India",
+    "category": "Technology",
+    "description": "JOB TITLE Quantitative Developer, Risk Technology A CAREER WITH POINT72’S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology team is constantly evolving our firm’s IT infrastructure and engineering capabilities, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts who experiment and work to discover new ways to harness open-source solutions, modern cloud architectures, and sophisticated Artificial Intelligence (AI) solutions, while embracing enterprise agile methodologies. Our commitment to building and innovating in the AI space provides the framework intended to drive smarter decision making and enhance how we build and operate our platforms and applications. As a member of Point72’s Technology team, we encourage and support your professional development from day one—helping you advance your technical skills, contribute innovative ideas, and satisfy your own intellectual curiosity—all while delivering real business impact for our multi-billion-dollar global business. WHAT YOU’LL DO • Collaborate with Risk quants to design new risk factor models and refine existing ones • Develop quantitative risk and performance analytics to proactively anticipate and address stakeholder needs • Build a scalable reporting framework capable of processing terabytes of data for complex risk calculations • Collaborate with engineers on system design, code quality, and architecture decisions across the team's shared codebase • Partner directly with risk, research and other internal teams to translate ambiguous business problems into technical requirements and solutions WHAT’S REQUIRED • Strong understanding of equity factor models and their construction and application (e.g., MSCI Barra, Axioma, Bloomberg) • Demonstrated track record and hands-on experience in financial instrument modeling, particularly within the equity space • 5+ years of programming experience in Python or another language commonly used in quantitative and statistical work (e.g., R, Julia, MATLAB), in a quantitative or research environment • Working understanding of layered/medallion-style data architecture (bronze/silver/gold), with enough hands-on pipeline experience to implement components alongside team members • Advanced SQL skills, including experience with complex stored procedures, query optimization, and partition management, in large-scale or distributed data environments • Problem solving skills with deep understanding of core computer science algorithms and data structures • Training in computer science, math, physics or related technical fields • Team player with excellent written and verbal communication skills • Commitment to the highest ethical standards WE TAKE CARE OF OUR PEOPLE We invest in our people, their careers, their health, and their well-being. When you work here, we provide: Health care benefits Maternity, Adoption & related leave policies Generous paternity and family care leave policies Employee Assistance Program & Mental wellness programs Transportation support Tuition assistance ABOUT POINT72 Point72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry's brightest talent by cultivating an investor-led culture and committing to our people's long-term growth. For more information, visit https://point72.com/.",
+    "url": "https://boards.greenhouse.io/point72/jobs/8929684002?gh_jid=8929684002",
+    "source": "Greenhouse:point72",
+    "posted_date": "2026-11-04T03:20:12-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -15)"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Quantitative Researcher",
     "company": "Point72",
     "location": "London ",
@@ -16536,6 +16284,30 @@
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8185689",
     "source": "Greenhouse:schonfeld",
     "posted_date": "2026-09-17T09:18:55-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -15)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "Operations Risk, Associate",
+    "company": "Schonfeld",
+    "location": "London, England, United Kingdom",
+    "country": "United Kingdom",
+    "category": "Equity Middle Office",
+    "description": "The Role This is a hybrid role with two core areas of focus. The first is ownership of daily MAS regulatory reporting submissions and the timely resolution of reporting exceptions. This covers ensuring the accuracy and completeness of submissions, investigating the root causes of recurring issues, and continuously strengthening data quality, controls, and the wider reporting framework, working closely with Technology and stakeholders across the business. The second is operational risk oversight: reviewing key operational risk processes and leading the development of Key Risk Indicators (KRIs) for each functional team across Global Operations. What you’ll do Own the preparation and submission of daily MAS trade reports, ensuring accuracy and completeness. Perform pre-submission data quality checks to identify and address issues before reporting. Track submissions through regulatory acceptance. Investigate and resolve reporting breaks and rejections, including quantity breaks, UPI errors, and pairing exceptions. Remediate rejected submissions and ensure corrected reports are successfully resubmitted. Partner with Technology to escalate and resolve system and data issues. Prioritise effectively during periods of high exception volumes. Identify recurring issues and drive improvements to processes, controls, and automation. Maintain clear, up-to-date procedures and process documentation. What you’ll bring What you need: Experience in regulatory trade or transaction reporting, ideally covering MAS, or a similar regime such as EMIR, ASIC, or CFTC. Strong product knowledge across asset classes, including OTC derivatives, with a clear understanding of the trade lifecycle. Familiarity with key reporting data such as UPI, UTI, and LEI, and with reconciliation and pairing/matching concepts. Strong analytical skills and the ability to investigate breaks methodically to find the root cause. Excellent attention to detail and the ability to work accurately under daily time pressure. A collaborative approach to working with Technology and wider stakeholders, bringing well-informed insight to the resolution of complex issues. Strong Excel skills and comfort working with large data sets. We’d love if you had: Hands-on experience with a trade reporting platform (e.g., S&P Global Cappitech, DTCC GTR, Kaizen, Regis-TR). Experience using APIs or internal reporting tools. SQL, Python, or other scripting skills to support investigation and automation. Experience improving or automating operational processes. Experience supporting reporting across multiple jurisdictions or time zones. Who we are Schonfeld is a global multi-manager hedge fund that strives to deliver industry-leading risk-adjusted returns for our investors. We leverage both internal and external portfolio manager teams around the world, seeking to capitalize on inefficiencies and opportunities within the markets. We draw from decades of experience and a significant investment in proprietary technology, infrastructure and risk analytics to invest across four main strategies: Quant, Tactical, Fundamental Equity and Discretionary Macro & Fixed Income. Our Culture At Schonfeld, we’ll invest in you. Attracting and retaining top talent is at the heart of what we do, because we believe that exceptional outcomes begin with exceptional people. We foster a culture where talent is empowered to continually learn, innovate and pursue ambitious goals. We are teamwork-oriented, collaborative and encourage ideas—at all levels—to be shared. As an organization committed to investing in our people, we provide learning and educational offerings and opportunities to make an impact. We encourage community through internal networks, external partnerships and service initiatives that promote inclusion and purpose beyond the firm’s walls. __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT __PRESENT",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8312719",
+    "source": "Greenhouse:schonfeld",
+    "posted_date": "2026-11-04T08:49:58-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -18138,7 +17910,7 @@
     "employment_type": ""
   },
   {
-    "title": "Motion Designer, Stripe Identity",
+    "title": "Motion Designer 3D, Stripe Identity",
     "company": "Stripe",
     "location": "Barcelona",
     "country": "",
@@ -18353,13 +18125,36 @@
   {
     "title": "Recruiting Scheduler",
     "company": "Stripe",
-    "location": "New York, Chicago",
+    "location": "New York",
     "country": "United States",
     "category": "6523 Recruiting Enablement",
     "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team At Stripe, we want to give every candidate a stellar experience, no matter the outcome of their interview. Our Recruiting Coordination team manages several aspects of recruiting administration to provide a great experience for our candidates, shepherding them through the entire process. Initially on a 12-month fixed term contract, this role will involve playing a key role in the coordination of the interview process across many regions, functions and role types. What you'll do Responsibilities Schedule high volume interviews for Stripe candidates globally, with speed and efficiency Work closely with recruiters and interviewers in delivering a great candidate experience throughout the interview process Solve problems and adapt quickly as priorities change, while handling sensitive information with discretion Work closely with other coordinators and cross-functional partners to support hiring Own the onsite candidate experience, acting as their primary host in the office to ensure a seamless and welcoming experience Who you are We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Highly organized with the ability to prioritize multiple stakeholders and tasks while managing their work time efficiently Excellent verbal and written communication skills, with an appropriate blend of professionalism and friendliness Preferred qualifications 1+ years of experience in an admin/coordination-based role in a fast-paced environment Ability to be a team player; adept at working with multiple people at any given time Incredible organizational skills; superb attention to detail Flexibility: able to shift tasks and priorities in a big way at the drop of a hat; comfortable working with ambiguity Creative and process-driven: you’re constantly looking for ways to make things work more efficiently Ability to connect and interact with different types of people Project management experience a plus",
     "url": "https://stripe.com/jobs/search?gh_jid=8337362",
     "source": "Greenhouse:stripe",
     "posted_date": "2026-11-03T13:26:44-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -20)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "Recruiting Scheduler",
+    "company": "Stripe",
+    "location": "Chicago",
+    "country": "United States",
+    "category": "6523 Recruiting Enablement",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team At Stripe, we want to give every candidate a stellar experience, no matter the outcome of their interview. Our Recruiting Coordination team manages several aspects of recruiting administration to provide a great experience for our candidates, shepherding them through the entire process. Initially on a 12-month fixed term contract, this role will involve playing a key role in the coordination of the interview process across many regions, functions and role types. What you'll do Responsibilities Schedule high volume interviews for Stripe candidates globally, with speed and efficiency Work closely with recruiters and interviewers in delivering a great candidate experience throughout the interview process Solve problems and adapt quickly as priorities change, while handling sensitive information with discretion Work closely with other coordinators and cross-functional partners to support hiring Own the onsite candidate experience, acting as their primary host in the office to ensure a seamless and welcoming experience Who you are We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Highly organized with the ability to prioritize multiple stakeholders and tasks while managing their work time efficiently Excellent verbal and written communication skills, with an appropriate blend of professionalism and friendliness Preferred qualifications 1+ years of experience in an admin/coordination-based role in a fast-paced environment Ability to be a team player; adept at working with multiple people at any given time Incredible organizational skills; superb attention to detail Flexibility: able to shift tasks and priorities in a big way at the drop of a hat; comfortable working with ambiguity Creative and process-driven: you’re constantly looking for ways to make things work more efficiently Ability to connect and interact with different types of people Project management experience a plus",
+    "url": "https://stripe.com/jobs/search?gh_jid=8351504",
+    "source": "Greenhouse:stripe",
+    "posted_date": "2026-11-04T08:57:16-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -18547,9 +18342,9 @@
     "country": "",
     "category": "9001 Privy - R&D",
     "description": "Who we are About Privy Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails. Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe's distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives. Learn more about Privy: Privy and Stripe: Bringing crypto to everyone About the team Engineering at Privy is distinguished by: High urgency: Shipping very small iterations, very fast, to learn very quickly. Product taste: Our customers are developers, and to build effective products for them requires technical knowledge - you will often be \"the PM\". Security mindset: A great portion of our product is trust. While we have a dedicated security team, every engineer brings security to their designs from the start. In practice, we use boring technology like Node, React, and AWS so we can focus our engineering energy entirely on pushing the boundaries of Privy's core product, e.g. through hardware enclaves, multi-region low latency APIs, and blockchain abstractions that are accessible to mainstream developers. What you’ll do As a Security Engineer at Privy, you will help keep a rapidly growing platform secure through hands-on investigation, operational ownership, and building real code to solve real problems. You’ll work across security operations, incident response, application and infrastructure security, and internal tooling. This is not a role limited to reviewing logs and designs or simply escalating findings. You will carry real ownership for the day-to-day work that protects Privy: investigating anomalies, improving security workflows, and building the automation that makes the team faster and more effective over time. You’ll work closely with engineers across Privy and alongside specialists in cryptography, application security, offensive security, and infrastructure security to turn security expertise into practical, durable outcomes. Responsibilities Own security engineering work end to end: investigate alerts, findings, anomalies, and security requests; identify root causes; drive remediation; and clearly document outcomes. Participate in Privy’s security on-call rotation, helping respond to incidents, triage alerts, support vulnerability workflows, complete access reviews, and handle security escalations. Build and maintain production-quality tooling that reduces manual work, including alert enrichment, automated triage and routing, remediation workflows, access-review automation, and detection improvements. Lead focused investigations into suspected security events or compromises, gathering evidence methodically and coordinating the appropriate response. Proactively identify recurring sources of operational toil and engineer durable solutions that improve the team’s speed, consistency, and ability to scale. Partner with product and engineering teams to assess security risks, review lower-complexity designs and implementation plans, and make practical security tradeoffs to deliver quickly with quality and soundness. Contribute across Privy’s application, infrastructure, cloud, and product-security surface area, developing broad context while building deeper expertise over time. Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Experience as a security engineer, detection engineer, or similarly hands-on engineer in a technically demanding environment. Strong software-engineering skills in Python, Go, Ruby, or a similar language. You can build maintainable tooling and contribute directly to production fixes, not only one-off scripts. Experience investigating security signals, incidents, vulnerabilities, suspicious activity, or other ambiguous technical problems through to resolution. Familiarity with security operations, incident response, vulnerability management, detection engineering, access reviews, or related operational-security workflows. A strong understanding of web, browser, infrastructure, or cloud security, with the ability to apply that understanding across a broad range of problems. Good judgment under pressure, a methodical approach to investigation, and comfort working independently with agency despite incomplete information. Strong communication and collaboration skills, including the ability to explain technical findings, risks, and recommended actions clearly to clients and internal stakeholders alike. A self-directed approach to work: you notice gaps, make progress through ambiguity, and reliably close the loop. Preferred qualifications Experience with AWS, GCP, or other cloud-security environments. Experience with detection engineering, security automation, incident-response tooling, or remediation pipelines. Bug-bounty experience, offensive-security exposure, or a strong attacker-minded approach to investigation. Experience with IAM, secrets management, secure production access, or secure CI/CD. Background in application security, infrastructure security, cryptography, or privacy engineering. Experience with fintech, payments, blockchain, or another diligence-forward financial product domain. Experience helping shape security operations, incident-response practices, vulnerability-management workflows, or a bug-bounty program.",
-    "url": "https://stripe.com/jobs/search?gh_jid=8073092",
+    "url": "https://stripe.com/jobs/search?gh_jid=8306475",
     "source": "Greenhouse:stripe",
-    "posted_date": "2026-07-30T16:41:25-04:00",
+    "posted_date": "2026-11-04T14:00:09-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
