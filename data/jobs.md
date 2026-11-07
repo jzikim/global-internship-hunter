@@ -243,6 +243,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Agoda | [Partner Programs Coordinator, Strategic Partnerships (10 months Contract) (Bangkok-Based, No Visa Support Provided)](https://job-boards.greenhouse.io/agoda/jobs/8255570) |  | Bangkok | Greenhouse:agoda |
 | 25 | Capco | [Business Analyst (Banking)](https://job-boards.greenhouse.io/capco/jobs/7824039) |  | Poland - Warsaw | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Accounting](https://job-boards.greenhouse.io/capco/jobs/8324778) |  | Poland - Cracow | Greenhouse:capco |
+| 25 | Capco | [Business Analyst - Allegro](https://job-boards.greenhouse.io/capco/jobs/8316853) | United States | US - Houston | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Commercial and Specialty Insurance](https://job-boards.greenhouse.io/capco/jobs/7758001) | United Kingdom | UK - London | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Dallas - Cyber Security - CyberArk/Privileged Access Management](https://job-boards.greenhouse.io/capco/jobs/8095004) | United States | US - Dallas | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Financial Services](https://job-boards.greenhouse.io/capco/jobs/5697864) |  | Italy - Milan | Greenhouse:capco |
@@ -723,6 +724,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Point72 | [Quant Researcher, Power Dispatch Modeling](https://boards.greenhouse.io/point72/jobs/8004302002?gh_jid=8004302002) | United States | Stamford/New York | Greenhouse:point72 |
 | 0 | Point72 | [Quantitative Analyst - CIO Office](https://boards.greenhouse.io/point72/jobs/7297616002?gh_jid=7297616002) | United States | New York | Greenhouse:point72 |
 | 0 | Point72 | [Quantitative Analyst / Software Developer](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) | United States | New York | Greenhouse:point72 |
+| 0 | Point72 | [Quantitative Analyst, Private Credit](https://boards.greenhouse.io/point72/jobs/8917054002?gh_jid=8917054002) | United States | New York, NY | Greenhouse:point72 |
 | 0 | Point72 | [Quantitative Developer](https://boards.greenhouse.io/point72/jobs/7297511002?gh_jid=7297511002) | United States | Chicago | Greenhouse:point72 |
 | 0 | Point72 | [Quantitative Developer](https://boards.greenhouse.io/point72/jobs/8191564002?gh_jid=8191564002) | United Kingdom | London | Greenhouse:point72 |
 | 0 | Point72 | [Quantitative Developer](https://boards.greenhouse.io/point72/jobs/8875666002?gh_jid=8875666002) | United Kingdom | United Kingdom | Greenhouse:point72 |
