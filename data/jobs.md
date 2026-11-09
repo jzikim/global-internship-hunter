@@ -16,6 +16,8 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 75 | Agoda | [\[Summer Internship 2027\] CEG Project Management Intern - Commercial (Non-technical) (Bangkok Based)](https://job-boards.greenhouse.io/agoda/jobs/8335897) |  | Bangkok | Greenhouse:agoda |
 | 75 | Agoda | [\[Summer Internship 2027\] Corporate Strategy Intern](https://job-boards.greenhouse.io/agoda/jobs/8329779) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 75 | Agoda | [\[Summer Internship 2027\] Finance Intern, Marketing Procurement (Bangkok Based)](https://job-boards.greenhouse.io/agoda/jobs/8335901) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 75 | Agoda | [\[Summer Internship 2027\] Supply Analytics Intern](https://job-boards.greenhouse.io/agoda/jobs/8358027) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 75 | Agoda | [\[Summer Internship 2027\] Supply Growth Intern](https://job-boards.greenhouse.io/agoda/jobs/8358031) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 75 | Point72 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | Japan | Japan | Greenhouse:point72 |
 | 75 | Point72 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)](https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002) | Japan | Japan | Greenhouse:point72 |
 | 75 | Point72 | [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | United States | New York, New York, United States, Stamford, Connecticut, United States | Greenhouse:point72 |
@@ -90,7 +92,12 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 35 | Agoda | [\[Summer Internship 2027\] Legal Intern, Employment & Corporate Governance (Bangkok Based)](https://job-boards.greenhouse.io/agoda/jobs/8355617) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 35 | Agoda | [\[Summer Internship 2027\] Legal Operations Intern (Bangkok Based)](https://job-boards.greenhouse.io/agoda/jobs/8335915) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 35 | Agoda | [\[Summer Internship 2027\] People Intern, Learning and Development](https://job-boards.greenhouse.io/agoda/jobs/8305510) |  | Bangkok, Thailand | Greenhouse:agoda |
-| 35 | Agoda | [\[Summer Internship 2027\] People Intern, Sustainability](https://job-boards.greenhouse.io/agoda/jobs/8305517) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 35 | Agoda | [\[Summer Internship 2027\] Supply Intern, B2B](https://job-boards.greenhouse.io/agoda/jobs/8357825) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 35 | Agoda | [\[Summer Internship 2027\] Supply Intern, CMO](https://job-boards.greenhouse.io/agoda/jobs/8358028) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 35 | Agoda | [\[Summer Internship 2027\] Supply Intern, Partner Programs](https://job-boards.greenhouse.io/agoda/jobs/8357826) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 35 | Agoda | [\[Summer Internship 2027\] Supply Intern, RMO](https://job-boards.greenhouse.io/agoda/jobs/8358017) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 35 | Agoda | [\[Summer Internship 2027\] Supply Operations Intern](https://job-boards.greenhouse.io/agoda/jobs/8358032) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 35 | Agoda | [\[Summer Internship 2027\] Sustainability Intern](https://job-boards.greenhouse.io/agoda/jobs/8305517) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 35 | Point72 | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | United States | New York, NY | Greenhouse:point72 |
 | 35 | Point72 | [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) | United States | New York, NY | Greenhouse:point72 |
 | 35 | Point72 | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | United States | New York, NY | Greenhouse:point72 |
@@ -235,7 +242,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Agoda | [Analyst, Marketing Analytics and Strategy (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8190514) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Analyst, Performance Marketing (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8273432) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Associate Analyst, Marketing (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8194690) |  | Bangkok | Greenhouse:agoda |
-| 25 | Agoda | [Business Intelligence Developer, RTA (Bangkok-based, 6-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/7100648) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Commercial Finance Analyst](https://job-boards.greenhouse.io/agoda/jobs/8206854) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 25 | Agoda | [Marketing Analyst (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/5393603) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Marketing Analyst, New Verticals (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/5865562) |  | Bangkok | Greenhouse:agoda |
@@ -248,7 +254,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Capco | [Business Analyst - Dallas - Cyber Security - CyberArk/Privileged Access Management](https://job-boards.greenhouse.io/capco/jobs/8095004) | United States | US - Dallas | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Financial Services](https://job-boards.greenhouse.io/capco/jobs/5697864) |  | Italy - Milan | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Fraud & Financial Crime](https://job-boards.greenhouse.io/capco/jobs/8207585) |  | Belgium - Brussels | Greenhouse:capco |
-| 25 | Capco | [Business Analyst - KYC - Bangalore](https://job-boards.greenhouse.io/capco/jobs/8242542) | India | India - Bengaluru | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - OpenLink - Houston](https://job-boards.greenhouse.io/capco/jobs/8110277) | United States | US - Houston | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Product Control](https://job-boards.greenhouse.io/capco/jobs/8146866) |  | Poland - Cracow | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Retail Energy](https://job-boards.greenhouse.io/capco/jobs/8126141) | United States | US - Washington DC | Greenhouse:capco |
@@ -410,7 +415,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Capco | [Consultor Especialista em Transformação Digital III- Híbrido - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8306194) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 1 | Capco | [Credit Analyst](https://job-boards.greenhouse.io/capco/jobs/7756668) | India | India | Greenhouse:capco |
 | 1 | Capco | [Data Architecture & Governance Consultant – GCP & BigQuery (Polish is mandatory)](https://job-boards.greenhouse.io/capco/jobs/8213346) |  | Poland - Warsaw | Greenhouse:capco |
-| 1 | Capco | [Data Consultant - Mumbai](https://job-boards.greenhouse.io/capco/jobs/8195085) | India | India - Mumbai | Greenhouse:capco |
 | 1 | Capco | [Data Modeler - HSBC](https://job-boards.greenhouse.io/capco/jobs/8324008) | India | India - Bengaluru; India - Pune | Greenhouse:capco |
 | 1 | Capco | [Data Modelling Consultant (Insurance)](https://job-boards.greenhouse.io/capco/jobs/8166811) | Germany | Germany; Germany - Berlin; Germany - Dusseldorf; Germany - Frankfurt am Main; Germany - Munich | Greenhouse:capco |
 | 1 | Capco | [Data Privacy & Information Security Consultant](https://job-boards.greenhouse.io/capco/jobs/8303475) |  | Belgium - Brussels | Greenhouse:capco |
@@ -582,7 +586,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Finance Data Engineer](https://job-boards.greenhouse.io/capco/jobs/8284515) |  | Switzerland - Geneva | Greenhouse:capco |
 | 0 | Capco | [Front-end Developer](https://job-boards.greenhouse.io/capco/jobs/5886767) |  | Italy - Milan | Greenhouse:capco |
 | 0 | Capco | [Front-End Engineer - React (Payments)](https://job-boards.greenhouse.io/capco/jobs/8302890) |  | Poland - Warsaw | Greenhouse:capco |
-| 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8333208) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8336309) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Java & React)](https://job-boards.greenhouse.io/capco/jobs/8300424) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Python/React/Typescript)](https://job-boards.greenhouse.io/capco/jobs/8334485) |  | Poland - Cracow | Greenhouse:capco |
@@ -707,7 +710,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Point72 | [Fundamental Researcher - Canvas](https://boards.greenhouse.io/point72/jobs/4644225002?gh_jid=4644225002) | United States | New York, NY  | Greenhouse:point72 |
 | 0 | Point72 | [Fundamental Researcher, MI-Canvas International](https://boards.greenhouse.io/point72/jobs/8135956002?gh_jid=8135956002) | United Kingdom | London | Greenhouse:point72 |
 | 0 | Point72 | [Fundamental Researcher, Mi-Canvas International](https://boards.greenhouse.io/point72/jobs/8924790002?gh_jid=8924790002) | Japan | Japan | Greenhouse:point72 |
-| 0 | Point72 | [HR Analyst](https://boards.greenhouse.io/point72/jobs/8511590002?gh_jid=8511590002) | India | Bengaluru, India  | Greenhouse:point72 |
 | 0 | Point72 | [HR Business Partner](https://boards.greenhouse.io/point72/jobs/8580591002?gh_jid=8580591002) | United States | New York, NY and Stamford, CT | Greenhouse:point72 |
 | 0 | Point72 | [International Trade Support Analyst](https://boards.greenhouse.io/point72/jobs/8780025002?gh_jid=8780025002) | Hong Kong | Hong Kong | Greenhouse:point72 |
 | 0 | Point72 | [IT Operations Engineer, Application Support](https://boards.greenhouse.io/point72/jobs/8244769002?gh_jid=8244769002) | India | Bengaluru, India  | Greenhouse:point72 |
