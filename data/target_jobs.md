@@ -6,7 +6,6 @@ Target-country options only. Multi-country vacancies count once overall and once
 |------:|---------|------|---------|----------|---------------------|---------------|--------|-----|
 | 95 | Stripe | Data Analyst, Intern | Canada | Toronto | intern | data analyst | Greenhouse:stripe | [Posting](https://stripe.com/jobs/search?gh_jid=8194287) |
 | 92 | Capco | Technical Consulting Intern | Canada | Canada - Toronto | intern | consulting | Greenhouse:capco | [Posting](https://job-boards.greenhouse.io/capco/jobs/8359772) |
-| 92 | Geotab | Business Development Associate | Canada | Burnaby, British Columbia - Canada; Oakville, Ontario - Canada | early-career; internships; co-op | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436626008) |
 | 92 | Geotab | Business Development Associate, Field Service | Canada | Burnaby, British Columbia - Canada; Oakville, Ontario - Canada | early-career; internships; co-op | business development | Greenhouse:geotab | [Posting](https://job-boards.greenhouse.io/geotab/jobs/5436964008) |
 | 92 | Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | Singapore | intern | data analyst; operations | Greenhouse:stripe | [Posting](https://stripe.com/jobs/search?gh_jid=8186442) |
 | 92 | Schonfeld | 2027 Emerging Markets and Delta One Investment Analyst Internship | United Arab Emirates | Dubai, United Arab Emirates | internship | investment | Greenhouse:schonfeld | [Posting](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) |
