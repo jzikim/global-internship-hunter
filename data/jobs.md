@@ -463,6 +463,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Capco | [Regulatory Assurance Analyst](https://job-boards.greenhouse.io/capco/jobs/8176775) | India | India - Bengaluru | Greenhouse:capco |
 | 1 | Capco | [Reporting Analyst](https://job-boards.greenhouse.io/capco/jobs/8152746) | India | India - Mumbai | Greenhouse:capco |
 | 1 | Capco | [Security Engineer](https://job-boards.greenhouse.io/capco/jobs/8333547) | India | India - Bengaluru | Greenhouse:capco |
+| 1 | Capco | [Techno-Functional BA](https://job-boards.greenhouse.io/capco/jobs/8312238) | India | India - Bengaluru | Greenhouse:capco |
 | 1 | Capco | [Test Analyst (Banking)](https://job-boards.greenhouse.io/capco/jobs/8241885) |  | Malaysia - Kuala Lumpur | Greenhouse:capco |
 | 1 | Capco | [Transformation Consultant – Corporate & Institutional Banking and Lending](https://job-boards.greenhouse.io/capco/jobs/8303213) | United Kingdom | UK - London | Greenhouse:capco |
 | 1 | Capco | [UAT Tester - Mumbai](https://job-boards.greenhouse.io/capco/jobs/8152568) | India | India - Mumbai | Greenhouse:capco |
@@ -593,8 +594,8 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Finance Data Engineer](https://job-boards.greenhouse.io/capco/jobs/8284515) |  | Switzerland - Geneva | Greenhouse:capco |
 | 0 | Capco | [Front-end Developer](https://job-boards.greenhouse.io/capco/jobs/5886767) |  | Italy - Milan | Greenhouse:capco |
 | 0 | Capco | [Front-End Engineer - React (Payments)](https://job-boards.greenhouse.io/capco/jobs/8302890) |  | Poland - Warsaw | Greenhouse:capco |
-| 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8333208) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8336309) | India | India - Pune | Greenhouse:capco |
+| 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8354687) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Java & React)](https://job-boards.greenhouse.io/capco/jobs/8300424) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Python/React/Typescript)](https://job-boards.greenhouse.io/capco/jobs/8334485) |  | Poland - Cracow | Greenhouse:capco |
 | 0 | Capco | [GCC Sales Head - Hyderabad](https://job-boards.greenhouse.io/capco/jobs/8143334) | India | India - Hyderabad | Greenhouse:capco |
@@ -603,6 +604,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Integration Developer Pleno - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8267134) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [IT Administrator](https://job-boards.greenhouse.io/capco/jobs/7404914) |  | Malaysia - Kuala Lumpur | Greenhouse:capco |
 | 0 | Capco | [Java Application Support Engineer (Development + Security Remediation)](https://job-boards.greenhouse.io/capco/jobs/8348971) | India | India - Bengaluru; India - Chennai ; India - Gurugram; India - Hyderabad; India - Mumbai; India - Pune | Greenhouse:capco |
+| 0 | Capco | [Java Backend Developer - Vadodara/ Pune](https://job-boards.greenhouse.io/capco/jobs/8230093) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Java Backend Engineer – AI](https://job-boards.greenhouse.io/capco/jobs/8268408) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [Java Developer](https://job-boards.greenhouse.io/capco/jobs/8255708) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Java Python Full Stack Developer - Pune/ Bengaluru](https://job-boards.greenhouse.io/capco/jobs/8074245) | India | India - Bengaluru; India - Pune | Greenhouse:capco |
