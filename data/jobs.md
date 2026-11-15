@@ -269,7 +269,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Capco | [Business Analyst - Fraud & Financial Crime](https://job-boards.greenhouse.io/capco/jobs/8207585) |  | Belgium - Brussels | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - OpenLink - Houston](https://job-boards.greenhouse.io/capco/jobs/8110277) | United States | US - Houston | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Product Control](https://job-boards.greenhouse.io/capco/jobs/8146866) |  | Poland - Cracow | Greenhouse:capco |
-| 25 | Capco | [Business Analyst - Retail Energy](https://job-boards.greenhouse.io/capco/jobs/8126141) | United States | US - Washington DC | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Retail Energy](https://job-boards.greenhouse.io/capco/jobs/8185815) | United States | US - Houston | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - Third Party Risk Management & Risk Remediation](https://job-boards.greenhouse.io/capco/jobs/8239251) |  | Poland - Cracow | Greenhouse:capco |
 | 25 | Capco | [Business Analyst - TPRM](https://job-boards.greenhouse.io/capco/jobs/7957522) |  | Poland - Warsaw | Greenhouse:capco |
