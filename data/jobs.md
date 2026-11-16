@@ -244,7 +244,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 27 | Ninja Van | [Intern Route To Market](https://jobs.lever.co/ninjavan/ad601283-433c-4d04-89f7-2f9dc24c09a8) |  | Shah Alam, Selangor, Malaysia | Lever:ninjavan |
 | 27 | Ninja Van | [Internship Regional Crossborder](https://jobs.lever.co/ninjavan/c6c3013c-09cf-4d36-bc83-8b170d1d737d) |  | Subang Jaya, Selangor, Malaysia | Lever:ninjavan |
 | 27 | Point72 | [2026 Boston Career Forum - 2029 Graduate Opportunities](https://boards.greenhouse.io/point72/jobs/8929646002?gh_jid=8929646002) | Japan | Japan | Greenhouse:point72 |
-| 27 | Point72 | [2027 Point72 Academy Spring Insight Programme – UK](https://boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002) | United Kingdom | London, UK | Greenhouse:point72 |
 | 25 | Adyen | [Enterprise Business Development Representative](https://job-boards.greenhouse.io/adyen/jobs/7645721) |  | Prague | Greenhouse:adyen |
 | 25 | Adyen | [Enterprise Business Development Representative](https://job-boards.greenhouse.io/adyen/jobs/7656959) | Germany | Berlin | Greenhouse:adyen |
 | 25 | Adyen | [Enterprise Business Development Representative](https://job-boards.greenhouse.io/adyen/jobs/8349157) |  | Stockholm | Greenhouse:adyen |
@@ -276,6 +275,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Capco | [Business Analyst – Target Operating Model](https://job-boards.greenhouse.io/capco/jobs/6646827) |  | Poland - Cracow | Greenhouse:capco |
 | 25 | Capco | [Business Analyst – Technology & AI Product Delivery](https://job-boards.greenhouse.io/capco/jobs/8355440) |  | Malaysia - Kuala Lumpur | Greenhouse:capco |
 | 25 | Capco | [Business Analyst, Capital Markets - Glasgow](https://job-boards.greenhouse.io/capco/jobs/7916690) | United Kingdom | UK - Glasgow  | Greenhouse:capco |
+| 25 | Capco | [Business Analyst, Scheduling & Trading (Allegro ETRM)](https://job-boards.greenhouse.io/capco/jobs/8386510) | United States | US - Houston | Greenhouse:capco |
 | 25 | Capco | [Business Change Analyst - Wealth, Investment & Asset Management](https://job-boards.greenhouse.io/capco/jobs/8349267) | United Kingdom | UK - London | Greenhouse:capco |
 | 25 | Capco | [Data Analyst - Data Remediation - Mumbai](https://job-boards.greenhouse.io/capco/jobs/7865935) | India | India - Mumbai | Greenhouse:capco |
 | 25 | Capco | [Data Analyst with German language](https://job-boards.greenhouse.io/capco/jobs/5218045) |  | Czech Republic - Prague | Greenhouse:capco |
@@ -493,7 +493,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Adyen | [People Technology Application Engineer](https://job-boards.greenhouse.io/adyen/jobs/8226137) |  | Amsterdam | Greenhouse:adyen |
 | 0 | Adyen | [Software Engineer (Java)](https://job-boards.greenhouse.io/adyen/jobs/7095304) |  | Sao Jose dos Campos | Greenhouse:adyen |
 | 0 | Agoda | [\[GSD\] People Technology Analyst (Bangkok-based)](https://job-boards.greenhouse.io/agoda/jobs/8203395) |  | Bangkok, Thailand | Greenhouse:agoda |
-| 0 | Agoda | [Associate Talent Sourcer (Pune Based)](https://job-boards.greenhouse.io/agoda/jobs/8357817) | India | Pune, India | Greenhouse:agoda |
+| 0 | Agoda | [Associate Talent Sourcer (Pune Based) - 12 months Contract](https://job-boards.greenhouse.io/agoda/jobs/8357817) | India | Pune, India | Greenhouse:agoda |
 | 0 | Agoda | [Business Owner, Regional Management Office](https://job-boards.greenhouse.io/agoda/jobs/8064440) | Japan | Tokyo, Japan | Greenhouse:agoda |
 | 0 | Agoda | [Global Visa Coordinator (6 months contract)](https://job-boards.greenhouse.io/agoda/jobs/8280619) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Payroll Accounting Analyst (Bangkok-based, Relocation Provided)](https://job-boards.greenhouse.io/agoda/jobs/8236707) |  | Bangkok | Greenhouse:agoda |
@@ -501,7 +501,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Agoda | [People Service Excellence Analyst](https://job-boards.greenhouse.io/agoda/jobs/8225935) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer, Back End (Bangkok-based, 6-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/6883659) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer, DevOps (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/6883260) |  | Bangkok | Greenhouse:agoda |
-| 0 | Agoda | [Support Associate (Gurgaon)](https://job-boards.greenhouse.io/agoda/jobs/7995116) |  | Gurgaon | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate (Pune)](https://job-boards.greenhouse.io/agoda/jobs/7995117) |  | Pune | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - Bahasa Malaysia (Kuala Lumpur)](https://job-boards.greenhouse.io/agoda/jobs/8266667) |  | Kuala Lumpur, Malaysia | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - English & Mandarin (Foshan, China)](https://job-boards.greenhouse.io/agoda/jobs/8248906) |  | Foshan, China | Greenhouse:agoda |
@@ -517,11 +516,9 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | AlphaSights | [Associate, Workplace Experience, Japanese Speaker, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=8384984) | Japan | Tokyo | Greenhouse:alphasights |
 | 0 | AlphaSights | [Insight Day](https://www.alphasights.com/careers/open-roles?gh_jid=8161035) | Hong Kong | Hong Kong | Greenhouse:alphasights |
 | 0 | AlphaSights | [Insight Day Tokyo, Japanese Speaker, 2026](https://www.alphasights.com/careers/open-roles?gh_jid=7451442) | Japan | Tokyo | Greenhouse:alphasights |
-| 0 | AlphaSights | [Insight Day: 2026년 11월 원데이 프로젝트 워크샵, 알파사이츠 서울](https://www.alphasights.com/careers/open-roles?gh_jid=8037696) | South Korea | Seoul | Greenhouse:alphasights |
 | 0 | AlphaSights | [Legal & Compliance, Research Compliance Associate](https://www.alphasights.com/careers/open-roles?gh_jid=8026758) | United States | New York | Greenhouse:alphasights |
 | 0 | AlphaSights | [Mid-level Backend Engineer (Remote) - UK](https://www.alphasights.com/careers/open-roles?gh_jid=8074527) | United Kingdom | London, Remote  | Greenhouse:alphasights |
 | 0 | AlphaSights | [Recruiting Coordinator, Talent Acquisition](https://www.alphasights.com/careers/open-roles?gh_jid=7528758) | Japan | Tokyo | Greenhouse:alphasights |
-| 0 | Capco | [AAA Developer](https://job-boards.greenhouse.io/capco/jobs/8281149) | India | India - Chennai  | Greenhouse:capco |
 | 0 | Capco | [Administrador - Hibrido - Rio de Janeiro / RJ](https://job-boards.greenhouse.io/capco/jobs/8378299) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Aduaneiro \| Híbrido - Macaé/RJ](https://job-boards.greenhouse.io/capco/jobs/8176639) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Advogado - Hibrido](https://job-boards.greenhouse.io/capco/jobs/8378904) |  | Brazil | Greenhouse:capco |
@@ -599,6 +596,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Full Stack Engineer (Java & React)](https://job-boards.greenhouse.io/capco/jobs/8300424) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Python/React/Typescript)](https://job-boards.greenhouse.io/capco/jobs/8334485) |  | Poland - Cracow | Greenhouse:capco |
 | 0 | Capco | [GCC Sales Head - Hyderabad](https://job-boards.greenhouse.io/capco/jobs/8143334) | India | India - Hyderabad | Greenhouse:capco |
+| 0 | Capco | [GenAI/ML Engineer](https://job-boards.greenhouse.io/capco/jobs/7774952) |  | Switzerland - Zurich | Greenhouse:capco |
 | 0 | Capco | [Generative AI Engineer](https://job-boards.greenhouse.io/capco/jobs/5884293) |  | Italy - Milan | Greenhouse:capco |
 | 0 | Capco | [Integration & Database Developer - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8267193) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Integration Developer Pleno - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8267134) |  | Brazil - Sao Paulo | Greenhouse:capco |
@@ -675,7 +673,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Guidepoint | [Coordinator, Client Service](https://job-boards.greenhouse.io/guidepoint/jobs/8554467002) |  | Athina, Αττικη, Greece | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Digital Copy Editor](https://job-boards.greenhouse.io/guidepoint/jobs/8789336002) |  | Shanghai Shi, China | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Healthcare Research Associate, Focus Polls](https://job-boards.greenhouse.io/guidepoint/jobs/8827364002) | India | Mumbai, Maharashtra, India; Pune, Maharashtra, India | Greenhouse:guidepoint |
-| 0 | Guidepoint | [IT Support Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8108124002) |  | Shanghai Shi, China | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Japanese/English Translator](https://job-boards.greenhouse.io/guidepoint/jobs/8939423002) | Japan | 東京都, Japan | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Operations Coordinator, Insights](https://job-boards.greenhouse.io/guidepoint/jobs/8737420002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Research Associate - CEA](https://job-boards.greenhouse.io/guidepoint/jobs/8857669002) | India | Gurugram, Haryana, India | Greenhouse:guidepoint |
