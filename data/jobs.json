@@ -5598,7 +5598,7 @@
     "employment_type": ""
   },
   {
-    "title": "Commercial Finance Analyst",
+    "title": "Commercial Finance Analyst (Relocation NOT provided)",
     "company": "Agoda",
     "location": "Bangkok, Thailand",
     "country": "",
@@ -7491,6 +7491,31 @@
     "employment_type": ""
   },
   {
+    "title": "Data Scientist, FX Quantitative Research",
+    "company": "Stripe",
+    "location": "Toronto",
+    "country": "Canada",
+    "category": "7112 Data Science",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Data Science at Stripe is a vibrant community where data scientists and data analysts learn and grow together. The Treasury Finance Data Science team builds the models, risk frameworks, and decision tools behind how Stripe manages money at global scale: liquidity, funding, counterparty risk, and foreign exchange. Stripe moves funds across 135+ currencies every day. That creates FX exposure from merchant flows, multi-currency balances, and entity funding. In this role, you'll be a thought partner and builder alongside Stripe's FX team. Together you'll develop the quantitative foundation for how Stripe measures, forecasts, and hedges FX exposure. What you'll do You'll be the senior quantitative lead for FX within Treasury Finance Data Science. You'll co-build with Treasury, the FX hedging team, Finance, and Engineering: shaping the research agenda, turning ideas into rigorous models, and building the systems that put those models to work. Data Science owns these systems. They produce the decision-critical outputs and analyses that the FX team and Treasury leadership rely on. This is a hands-on role. You'll design the methodology, write the code, and ship it into production. Responsibilities Partner with the FX team to build and evolve FX risk measurement: exposure aggregation across entities and currencies, VaR / Expected Shortfall, stress testing, and scenario analysis Develop forecasting models for FX exposures and multi-currency cash flows. Quantify forecast uncertainty so it can inform hedge sizing and timing. Co-design hedge optimization and decision frameworks with the FX team that weigh hedge cost, residual risk, P&L volatility, and liquidity constraints Build ML and statistical systems for trading and risk (signal research, anomaly detection on flows, execution and cost analytics), and take them from prototype to production Own the production systems that generate decision-critical FX outputs, partnering with Engineering on reliability, SLAs, monitoring, alerting, and incident response for risk-critical workflows Partner deeply with Treasury Finance stakeholders to turn business questions into quantitative frameworks. Anticipate needs and help shape FX risk strategy rather than reacting to requests. Produce clear, trusted analyses and reporting that inform Treasury and Finance leadership decisions, including leadership-level reporting such as MBRs and QBRs Use AI tools (code assistants, LLM-based agents) to speed up modeling, analysis, and automation, while maintaining rigor, validation, and auditability Raise the technical bar for FX quantitative work within Data Science: methodology standards, model validation, documentation, and mentoring other data scientists Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements BS/BA with 8+ years, MS/MA with 6+ years, or PhD with 3+ years of full-time experience in quantitative finance, risk modeling, quantitative research, or data science Hands-on quantitative experience at a bank, asset manager, hedge fund, trading firm, or similar financial institution, with direct exposure to FX, rates, or market risk Strong foundation in statistics, probability, and time-series modeling, plus working knowledge of risk measures (VaR, Expected Shortfall, stress testing) and hedging instruments (forwards, swaps, options) Proficiency in Python and SQL. You write production-quality code, not just research scripts. Experience taking models or analytical systems from research into production Business acumen and the ability to turn complex analyses into clear, decision-ready insights Ability to clearly communicate results and drive impact with cross-functional partners, including senior non-technical stakeholders Ability to manage multiple projects at once, with strong attention to detail Experience using AI tools to speed up modeling, analysis, and coding Preferred qualifications MS or PhD in a quantitative field (e.g., Quantitative / Mathematical Finance, Financial Engineering, Statistics, Mathematics, Physics, Computer Science, Economics, Operations Research) Applied machine learning experience in trading or risk (e.g., forecasting, execution analytics, signal research, anomaly detection) Experience with corporate treasury or balance-sheet FX: multi-entity exposure management, hedge programs, and treasury concepts such as liquidity, funding, and cash positioning Experience building risk or decision systems with engineering standards: code review, testing, monitoring, and defined SLAs Experience with distributed data tools (e.g., Spark) and workflow orchestration (e.g., Airflow, Flyte) Prior experience at a growth-stage internet, fintech, or payments company Experience creating leadership-level reporting, such as QBRs and MBRs A builder's mindset, with a willingness to question assumptions and conventional wisdom Interest in how data products enable automated and agentic workflows, and an understanding that model and data quality determine the reliability of every downstream decision",
+    "url": "https://stripe.com/jobs/search?gh_jid=8346778",
+    "source": "Greenhouse:stripe",
+    "posted_date": "2026-11-02T13:49:07-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 21,
+    "score_reasons": [
+      "+16 relevant department; role uncertain",
+      "+20 preferred country (no city weighting)",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "UX Researcher",
     "company": "Xendit",
     "location": "Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore",
@@ -7577,29 +7602,6 @@
     "score": 20,
     "score_reasons": [
       "+40 preferred role: business analyst",
-      "+15 business / economics context",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Investment Banking Operations",
-    "company": "Capco",
-    "location": "India - Bengaluru",
-    "country": "India",
-    "category": "Business Consulting",
-    "description": "Job Title: Investment Banking Operations About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. Location - Bangalore Years of Experience - 1-2 Years or 5-8 Years Skill Required : Acknowledge invoices received from the brokers of the Bank. Login invoices received within 24 hours of receiving the invoices. Reconcile the invoices and push for the broker payments in two folds – Front month and backlogs of assigned brokers. Raise issues and discrepancies with brokers and work towards effective resolution of the same. Proactively provide periodic reports to client manages on work status – invoices received or assigned > payments made > unpaid invoices > reasons for unpaid invoices > ETA to closure of unpaid invoices. Manage expectations with broker on invoice clearance and handle broker escalations. Investment Banking Ops experience with Reconciliations, Derivatives, Payables / Receivables, Trade Settlement, Collateral management experience. Maintain invoice tracker and other hygiene items – daily checklists, inbox management, escalation resolution and reporting, share updates periodically with brokers over voice and email conversations. Periodic check with brokers on pending invoices and ensuring no invoice is left \"unattended / not received by Bank\" status. Ensure high standards of discipline and conduct while engaging in interactions with teammates or colleagues or client managers If you are keen to join us, you will be part of an organization that values your contributions, recognizes your potential, and provides ample opportunities for growth. For more information, visit www.capco.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8238991",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-09-29T00:51:38-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 20,
-    "score_reasons": [
-      "+40 preferred role: investment",
       "+15 business / economics context",
       "+0 visa support unclear",
       "-10 internship not confirmed",
@@ -8123,6 +8125,29 @@
     "url": "https://job-boards.greenhouse.io/agoda/jobs/8335941",
     "source": "Greenhouse:agoda",
     "posted_date": "2026-11-06T03:04:33-05:00",
+    "deadline": "",
+    "internship": true,
+    "sponsorship_text": "",
+    "score": 7,
+    "score_reasons": [
+      "+12 internship; exact dates may be unknown",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-25 technical role is a secondary preference"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
+    "company": "Agoda",
+    "location": "Gurgaon",
+    "country": "",
+    "category": "Information Technology",
+    "description": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide. No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us. Internship period: 11 January - 30 June 2027 Interview process: Registration closes: 22 of November 2026 Announce shortlisted for Online coding test: 26 of November 2026 Online coding test: 28 - 29 of November 2026 Announce the shortlist: 2 of December 2026 On-site interview day: To be confirmed - 11 OR 17 of December 2026 Please note that you will need to be able to join the on-site Interview Day; remote or alternative interview options won’t be available for this round. Internship Opportunity : Dive into the World of Tech Magic! Are you the kind of tech enthusiast who loves to see how the pieces of the puzzle fit together? Whether you call yourself a \"full stack\" wizard, a \"back end\" guru, or a specialist in a particular domain, we want to hear from you! We're on the lookout for curious minds who are eager to explore the symphony of systems that power the tech world. No need to be a master of all trades—just bring your passion and a willingness to learn. What You'll Get to Do: Are you the kind of tech enthusiast who loves to see how the pieces of the puzzle fit together? We're on the lookout for curious minds who are eager to explore the symphony of systems that power the tech world. No need to be a master of all trades—just bring your passion and a willingness to learn. What You'll Get to Do: Code Like a Pro: Contribute to a high-quality codebase and work on scalable, fault-tolerant systems and APIs that handle millions of requests. Your code will be part of something big! Play with Cool Tech: Use cutting-edge languages like Scala, Kotlin, ReactJS, and C#, and dive into data technologies like MSSQL, PG, Kafka and Spark. All this while embracing agile development practices. Be a CI/CD Rockstar: Implement state-of-the-art CI/CD and testing techniques to ensure everything runs smoothly with zero downtime. You'll be the hero behind seamless operations! Gain hands-on experience with state-of-the-art AI tools and frameworks, prototype and productionize ML/LLM-driven features and help create an impact on how world travels. Think Big Picture: Consider the entire product lifecycle—from defining product requirements and choosing the right technology to coding standards, agile development, testing, deployment, and ongoing monitoring. You'll be a part of it all! What You'll Need to Succeed: Currently pursuing a Bachelor’s or Master’s Degree in Computer Science or a related field. Familiarity with the fundamentals of Object-oriented and/or Functional programming. A grasp of relational and/or non-relational databases. Proficient English communication skills. A readiness to learn quickly and adapt to new challenges. Be able to join our internship program for 6 months Bonus Points If You Have: Practical experience with Scala, Kotlin, Java, JavaScript, ReactJS, or C#. Exposure to AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn, PySpark) or have completed AI/ML-related coursework or projects. Previous involvement in developing back-end applications and services, with an understanding of the basics of system scaling. Knowledge of data platforms such as MS SQL, Cassandra, or Hadoop, recognizing that different applications have unique data needs. Experience with automated CI/CD systems, a commitment to test-driven development, knowledge of clean software architectures, and a grounding in SOLID principles. Proficiency in core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration, and Puppet for deployment. If you're passionate about technology, eager to learn, and motivated to contribute to innovative projects, we encourage you to apply. We welcome candidates from diverse backgrounds and career stages to join our team. Get ready to solve some awesome problems and make your mark in the tech industry! Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works. Discover more about working at Agoda Agoda Careers https://careersatagoda.com Facebook https://www.facebook.com/agodacareers/ LinkedIn https://www.linkedin.com/company/agoda YouTube https://www.youtube.com/agodalife Equal Opportunity Employer At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics. We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy . Disclaimer We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/6323041",
+    "source": "Greenhouse:agoda",
+    "posted_date": "2024-10-11T00:27:49-04:00",
     "deadline": "",
     "internship": true,
     "sponsorship_text": "",
@@ -9285,30 +9310,6 @@
     "url": "https://job-boards.greenhouse.io/agoda/jobs/8190515",
     "source": "Greenhouse:agoda",
     "posted_date": "2026-09-10T03:17:15-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 1,
-    "score_reasons": [
-      "+16 relevant department; role uncertain",
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "AI & ML Engineer | Banking",
-    "company": "Capco",
-    "location": "China - Hong Kong",
-    "country": "Hong Kong",
-    "category": "Data & Analytics",
-    "description": "Location: Hong Kong | Practice Area: Technology & Engineering | Type: Permanent Build intelligent solutions. Shape the future of AI in financial services. The Role At Capco, a Wipro company, we're transforming financial services through technology, innovation and deep industry expertise. We work with leading financial institutions to solve complex challenges and deliver meaningful change. We're looking for an AI & ML Engineer to join our Hong Kong team, developing innovative, scalable AI solutions that deliver real business value. You'll work closely with business stakeholders, product owners and engineering teams to prototype, build and deploy AI-powered applications. This hands-on role focuses on AI, including Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI and advanced machine learning. You'll also champion responsible AI-enabled engineering practices, using approved AI tools, human oversight and robust evaluation frameworks to deliver secure, reliable and production-ready solutions. What You’ll Do Design & Deliver AI Solutions: Develop, prototype and deploy scalable AI and machine learning applications that address real business challenges, using approved AI-enabled workflows to improve delivery speed and quality. Build Intelligent AI Applications: Develop AI solutions, including LLMs, RAG and Agentic AI workflows, incorporating prompt engineering, retrieval optimisation, tool integration and automation. Optimise AI Performance: Select, develop and fine-tune machine learning models to improve accuracy, efficiency, performance and cost-effectiveness. Embed Responsible AI: Build evaluation frameworks, guardrails and monitoring capabilities to manage AI reliability, hallucinations, security and data privacy, incorporating human-in-the-loop review, auditability and appropriate escalation pathways. Collaborate & Scale: Partner with business, product, data science and engineering teams to translate requirements into practical solutions, supporting deployment, MLOps, continuous improvement and reusable AI components. What We’re Looking For AI & Engineering Experience: Relevant experience in AI/ML engineering, software engineering or related technical roles, with practical experience delivering AI-powered solutions. Python & Software Development: Hands-on Python programming expertise, supported by sound software engineering principles and experience building production-grade applications, APIs and AI/ML pipelines. Applied AI Expertise: Practical experience with LLMs, Generative AI, RAG and Agentic AI frameworks such as LangChain or LangGraph, alongside knowledge of machine learning, model selection, fine-tuning and evaluation. Cloud & Responsible AI: Familiarity with AWS, Azure or Google Cloud, alongside an understanding of AI security, data privacy, responsible AI and production deployment practices, including appropriate human oversight and model validation. Collaboration & Problem-Solving: Effective communication, analytical thinking and stakeholder engagement skills, with a willingness to explore approved AI tools and emerging techniques to improve engineering outcomes. Bonus Points For Experience delivering AI and machine learning solutions within banking, financial services or other regulated environments. Familiarity with MLOps, CI/CD, Docker, Kubernetes and model monitoring. Knowledge of advanced AI techniques, including natural language processing, deep learning, graph machine learning or multimodal AI. Experience developing AI evaluation frameworks, performance optimisation approaches and reusable engineering components. Exposure to AI governance, automated evaluation, human-in-the-loop controls and responsible deployment of Agentic AI solutions. Why Join Capco Deliver high-impact technology solutions for Tier 1 financial institutions. Work in a collaborative, flat, and entrepreneurial consulting culture. Access continuous learning, training, and industry certifications. Be part of a team shaping the future of digital financial services. Help shape the future of digital transformation across FS & Energy. Inclusion at Capco We're committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we'll be happy to help. We value each person's unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8358340",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-11-06T03:45:01-05:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -11028,6 +11029,30 @@
     "employment_type": ""
   },
   {
+    "title": "Data Scientist, FX Quantitative Research",
+    "company": "Stripe",
+    "location": "New York, NY",
+    "country": "United States",
+    "category": "7112 Data Science",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Data Science at Stripe is a vibrant community where data scientists and data analysts learn and grow together. The Treasury Finance Data Science team builds the models, risk frameworks, and decision tools behind how Stripe manages money at global scale: liquidity, funding, counterparty risk, and foreign exchange. Stripe moves funds across 135+ currencies every day. That creates FX exposure from merchant flows, multi-currency balances, and entity funding. In this role, you'll be a thought partner and builder alongside Stripe's FX team. Together you'll develop the quantitative foundation for how Stripe measures, forecasts, and hedges FX exposure. What you'll do You'll be the senior quantitative lead for FX within Treasury Finance Data Science. You'll co-build with Treasury, the FX hedging team, Finance, and Engineering: shaping the research agenda, turning ideas into rigorous models, and building the systems that put those models to work. Data Science owns these systems. They produce the decision-critical outputs and analyses that the FX team and Treasury leadership rely on. This is a hands-on role. You'll design the methodology, write the code, and ship it into production. Responsibilities Partner with the FX team to build and evolve FX risk measurement: exposure aggregation across entities and currencies, VaR / Expected Shortfall, stress testing, and scenario analysis Develop forecasting models for FX exposures and multi-currency cash flows. Quantify forecast uncertainty so it can inform hedge sizing and timing. Co-design hedge optimization and decision frameworks with the FX team that weigh hedge cost, residual risk, P&L volatility, and liquidity constraints Build ML and statistical systems for trading and risk (signal research, anomaly detection on flows, execution and cost analytics), and take them from prototype to production Own the production systems that generate decision-critical FX outputs, partnering with Engineering on reliability, SLAs, monitoring, alerting, and incident response for risk-critical workflows Partner deeply with Treasury Finance stakeholders to turn business questions into quantitative frameworks. Anticipate needs and help shape FX risk strategy rather than reacting to requests. Produce clear, trusted analyses and reporting that inform Treasury and Finance leadership decisions, including leadership-level reporting such as MBRs and QBRs Use AI tools (code assistants, LLM-based agents) to speed up modeling, analysis, and automation, while maintaining rigor, validation, and auditability Raise the technical bar for FX quantitative work within Data Science: methodology standards, model validation, documentation, and mentoring other data scientists Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Location Requirement New York, NY required (50% in office - hybrid) Minimum requirements PhD with 1-3 years, MS or MA with 2-6 years, or BS or BA with 4-8 years of data science or quantitative modeling experience Hands-on quantitative experience at a bank, asset manager, hedge fund, trading firm, or similar financial institution, with direct exposure to FX, rates, or market risk Strong foundation in statistics, probability, and time-series modeling, plus working knowledge of risk measures (VaR, Expected Shortfall, stress testing) and hedging instruments (forwards, swaps, options) Proficiency in Python and SQL. You write production-quality code, not just research scripts. Experience taking models or analytical systems from research into production Business acumen and the ability to turn complex analyses into clear, decision-ready insights Ability to clearly communicate results and drive impact with cross-functional partners, including senior non-technical stakeholders Ability to manage multiple projects at once, with strong attention to detail Experience using AI tools to speed up modeling, analysis, and coding Preferred qualifications Degree in a quantitative field (e.g., Quantitative / Mathematical Finance, Financial Engineering, Statistics, Mathematics, Physics, Computer Science, Economics, Operations Research) Applied machine learning experience in trading or risk (e.g., forecasting, execution analytics, signal research, anomaly detection) Experience with corporate treasury or balance-sheet FX: multi-entity exposure management, hedge programs, and treasury concepts such as liquidity, funding, and cash positioning Experience building risk or decision systems with engineering standards: code review, testing, monitoring, and defined SLAs Experience with distributed data tools (e.g., Spark) and workflow orchestration (e.g., Airflow, Flyte) Prior experience at a growth-stage internet, fintech, or payments company Experience creating leadership-level reporting, such as QBRs and MBRs A builder's mindset, with a willingness to question assumptions and conventional wisdom Interest in how data products enable automated and agentic workflows, and an understanding that model and data quality determine the reliability of every downstream decision",
+    "url": "https://stripe.com/jobs/search?gh_jid=8346831",
+    "source": "Greenhouse:stripe",
+    "posted_date": "2026-11-02T13:54:08-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 1,
+    "score_reasons": [
+      "+16 relevant department; role uncertain",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Designer, Web Presence & Platform",
     "company": "Stripe",
     "location": "US-Remote",
@@ -11268,31 +11293,6 @@
     "employment_type": ""
   },
   {
-    "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
-    "company": "Adyen",
-    "location": "Chicago",
-    "country": "United States",
-    "category": "Development",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. The Role: Docs Experience Engineering Team We are looking for Junior Full-Stack Developers to join our Documentation team in Chicago. Built on the pillars of experience and experimentation, this team is designed to give you ownership over the Adyen developer experience. You will maintain a strict focus on the human element of documentation - implementing front-end UI updates, tackling technical debt, and experimenting with new workflows to directly free up the wider team for other strategic initiatives. What you’ll do: Enhance the Developer Experience: Give the Adyen Docs site a fresh coat of paint, align it with corporate branding, and build interactive, developer-focused elements. Tackle Technical Debt: Streamline our docs-as-code workflows and assist with Grav CMS integrations, clearing overhead so the wider team can move faster. Experiment with Data & AI: You will find new, interesting ways to proactively enhance the user and agent experience. You will also experiment with AI workflows to improve documentation speed. Formula Fit Execution: Champion the Adyen Formula by launching fast and iterating based on real-world feedback. Who you are: Educated & Ready to Build: You have a 4-year Computer Science degree and a solid foundational understanding of full-stack web development, including modern JavaScript, HTML/CSS, and server-side/web technologies. Early in Your Career: You’re looking for your first full-time engineering role, or have 0-1 year of professional experience. AI-Forward, but Grounded: You know how to accelerate your work with AI tools, but you possess the engineering rigor to validate AI outputs, catch algorithmic mistakes, and maintain clean code. Total rewards & compensation The annual base salary range for this role is $120,000.00 - $135,000.00. Compensation is based on factors including qualifications, experience, and location. Total compensation package includes equity (RSUs), 401(k), health, dental, vision, and more. In-office expectations This role is based in our Chicago office. We're an office-first company and expect employees to work in-office at least 3 days a week on average. This approach helps strike a balance between bringing people together for in-person collaboration and learning from each other, while also supporting flexibility. Diversity, Equity, and Inclusion at Adyen We actively seek different perspectives to sharpen our ideas. Our unique culture is a product of our diverse backgrounds and experiences. No matter who you are or where you’re from, you’re welcome to be your true self at Adyen. If you need accommodations or support during the recruitment process to perform at your best, you’ll have the opportunity to let our team know in your application. We encourage people from all backgrounds and abilities to apply. What’s next? Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 business days. Our interview process tends to take about 4 weeks to complete, but may fluctuate depending on the role. If you have specific time constraints, please communicate them with your recruiter, and we’ll do our best to accommodate them where possible. EEO statement Adyen is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status. All your information will be kept confidential according to EEO guidelines. Work Eligibility You must be work authorized in the United States without the need for new visa sponsorship. The company can support visa transfers but will not sponsor individuals for H-1B CAP applications.",
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
-    "source": "Greenhouse:adyen",
-    "posted_date": "2026-09-11T15:24:38-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "Work Eligibility You must be work authorized in the United States without the need for new visa sponsorship. The company can support visa transfers but will not sponsor individuals for H-1B CAP applications.",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 work authorization wording saved; eligibility not assessed",
-      "-25 technical role is a secondary preference",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -40)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "IT Internal Control Officer",
     "company": "Adyen",
     "location": "Mumbai",
@@ -11512,6 +11512,30 @@
     "employment_type": ""
   },
   {
+    "title": "Support Associate (Gurgaon)",
+    "company": "Agoda",
+    "location": "Gurgaon",
+    "country": "",
+    "category": "Customer Experience Group (CEG)",
+    "description": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide. No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us. Our Purpose – Bridging the World Through Travel We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness. We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone. At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great. Get to Know Our Team Agoda’s Customer Support Team understands that travel can be an everchanging environment. That is why we provide in-person, real-time help around the clock and in 16 languages. No matter the issue, we present the best of Agoda’s values to each and every customer with multiple support channels and a strong desire to serve. Certainly doing more than answering phone calls or replying to emails, our specialists actively look for ways to improve our customer’s experience. We quickly adapt to challenges by collaborating with other teams and experimenting on everything we can. This has allowed us to develop new and effective products that produce meaningful results and continue to drive Agoda’s business performance. Our Customer Support Team serves a daily role in contributing to a core strength and service of Agoda with a clear vision and a focus on efficient and satisfying customer support. The Opportunity As a Support Associate, supporting English and Hindi language customer queries, you will: Build strong problem-solving and communication skills that open doors to many future roles Support customers and partners from multiple countries and cultures, gaining truly global experience Join a data-driven, fast-learning team that experiments, improves, and shares feedback openly In This Role, You Will Deliver outstanding service to customer and partners via phone, email, and chat Handle a high volume of inquiries and deliver accurate, timely resolutions Take end-to-end ownership of booking issues (e.g. changes, cancellations, payments, and other customer queries) Work towards achieving individual and team KPIs (e.g. quality, productivity, customer satisfaction, etc.) Develop expertise across multiple Agoda product lines (e.g., Accommodation, Flights, Activities), with training to support different customer segments and services over time Apply Agoda policies and procedures in a fair and consistent way Collaborate with Team Leaders, Managers, and other teams to resolve complex or unusual cases Safeguard customer data and maintain strict confidentiality at all times Work rotational shifts (including mornings, evenings, and nights) to support a 24/7 global operation You may be required to work on public holidays. Enjoy Agoda’s Hybrid work model, i.e. primarily work-from-home, with on-site collaboration days roughly 1 week out of every 8 weeks Core Skills and Competencies Strong customer focus and a genuine desire to help others Excellent spoken and written English & Hindi skills Ability to stay calm, accurate, and professional under pressure Good problem-solving skills, using guidelines and data to make decisions effectively Flexibility to adapt to new tools, processes, and feedback Ability to manage time and priorities in a fast-paced, high-volume environment Reliability, integrity, and a positive, collaborative attitude Nice to Have Prior working experience in customer support, contact center, or service roles Experience in travel, e-commerce, hospitality, or BPO is a plus Experience working with international customers or partners Familiarity with contact center, CRM, or ticketing systems Additional language skills beyond the core required languages for the role if any Why Agoda Competitive compensation with performance-based incentives Annual discretionary performance bonus Health insurance and other locally competitive benefits Agoda travel discounts and special rates on accommodation and related products Work from anywhere for up to 30 days per year Structured training, coaching, and clear performance metrics Opportunities to grow your career within the Customer Experience Group or across Agoda An inclusive, international work environment where your ideas and feedback are valued You can read more about our hiring process in below article: https://careersatagoda.com/blog/how-we-hire-ceg/ #newdelhi #gurgaon #gurugram #CUST #2 #3 #4 #LI-EB1 #entrylevel Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works. Discover more about working at Agoda Agoda Careers https://careersatagoda.com Facebook https://www.facebook.com/agodacareers/ LinkedIn https://www.linkedin.com/company/agoda YouTube https://www.youtube.com/agodalife Equal Opportunity Employer At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics. We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy . Disclaimer We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/7995116",
+    "source": "Greenhouse:agoda",
+    "posted_date": "2026-08-27T06:48:23-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -15)"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Support Associate (Pune)",
     "company": "Agoda",
     "location": "Pune",
@@ -11536,30 +11560,6 @@
     "employment_type": ""
   },
   {
-    "title": "Support Associate - Bahasa Malaysia (Kuala Lumpur)",
-    "company": "Agoda",
-    "location": "Kuala Lumpur, Malaysia",
-    "country": "",
-    "category": "Customer Experience Group (CEG)",
-    "description": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide. No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us. Our Purpose – Bridging the World Through Travel We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness. We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone. At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great. Get to Know Our Team Agoda’s Customer Support Team understands that travel can be an everchanging environment. That is why we provide in-person, real-time help around the clock and in 16 languages. No matter the issue, we present the best of Agoda’s values to each and every customer with multiple support channels and a strong desire to serve. Certainly doing more than answering phone calls or replying to emails, our specialists actively look for ways to improve our customer’s experience. We quickly adapt to challenges by collaborating with other teams and experimenting on everything we can. This has allowed us to develop new and effective products that produce meaningful results and continue to drive Agoda’s business performance. Our Customer Support Team serves a daily role in contributing to a core strength and service of Agoda with a clear vision and a focus on efficient and satisfying customer support. The Opportunity As a Support Associate in Kuala Lumpur , supporting Bahasa Malaysia queries , you will: Build strong problem-solving and communication skills that open doors to many future roles Support customers and partners from multiple countries and cultures, gaining truly global experience Join a data-driven, fast-learning team that experiments, improves, and shares feedback openly In This Role, You Will Deliver outstanding service to guests and partners via phone, email, and chat Handle a high volume of inquiries and deliver accurate , timely resolutions Take end-to-end ownership of booking issues ( e.g. changes, cancellations, payments, and other customer queries ) Work towards a chiev ing individual and team KPIs ( e.g. quality, productivity, customer satisfaction, etc. ) Develop expertise across multiple Agoda product lines (e.g., Accommodation, Flights, Activities), with training to support different customer segments and services over time Apply Agoda policies and procedures in a fair and consistent way Collaborate with Team Leaders, Managers, and other teams to resolve complex or unusual cases Safeguard customer data and maintain strict confidentiality at all times Work r otat ional shifts (including mornings, evenings, and nights) to support a 24/7 global operation You may be required to work on public holidays. Enjoy Agoda’s Hybrid work model, i.e. primarily work-from-home, with on-site collaboration days roughly 1 week out of every 8 weeks Core Skills and Competencies Strong customer focus and a genuine desire to help others Excellent spoken and written English skills Ability to stay calm, accurate , and professional under pressure Good problem-solving skills, using guidelines and data to make decisions effectively Flexibility to adapt to new tools, processes, and feedback Ability to manage time and priorities in a fast-paced, high-volume environment Reliability, integrity, and a positive, collaborative attitude Nice to Have Prior working e xperience in customer support, contact center, or service roles Experience in travel, e-commerce, hospitality, or BPO is a plus Experience working with international customers or partners Familiarity with contact center, CRM, or ticketing systems Additional language skills beyond the core required languages for the role if any Why Agoda Competitive compensation with performance-based incentives Annual discretionary performance bonus Health insurance and other locally competitive benefits Agoda travel discounts and special rates on accommodation and related products Work from anywhere for up to 30 days per year Structured training, coaching, and clear performance metrics Opportunities to grow your career within the Customer Experience Group or across Agoda An inclusive, international work environment where your ideas and feedback are valued You can read more about our hiring process in below article: https://careersatagoda.com/blog/how-we-hire-ceg/ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works. Discover more about working at Agoda Agoda Careers https://careersatagoda.com Facebook https://www.facebook.com/agodacareers/ LinkedIn https://www.linkedin.com/company/agoda YouTube https://www.youtube.com/agodalife Equal Opportunity Employer At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics. We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy . Disclaimer We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.",
-    "url": "https://job-boards.greenhouse.io/agoda/jobs/8266667",
-    "source": "Greenhouse:agoda",
-    "posted_date": "2026-10-09T04:52:10-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -15)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Support Associate - English & Mandarin (Foshan, China)",
     "company": "Agoda",
     "location": "Foshan, China",
@@ -11569,30 +11569,6 @@
     "url": "https://job-boards.greenhouse.io/agoda/jobs/8248906",
     "source": "Greenhouse:agoda",
     "posted_date": "2026-10-02T06:35:54-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -15)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Support Associate - English (Kuala Lumpur)",
-    "company": "Agoda",
-    "location": "Kuala Lumpur",
-    "country": "",
-    "category": "Customer Experience Group (CEG)",
-    "description": "About Agoda At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide. No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us. Our Purpose – Bridging the World Through Travel We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness. We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone. At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great. Get to Know Our Team Agoda’s Customer Support Team understands that travel can be an everchanging environment. That is why we provide in-person, real-time help around the clock and in 16 languages. No matter the issue, we present the best of Agoda’s values to each and every customer with multiple support channels and a strong desire to serve. Certainly doing more than answering phone calls or replying to emails, our specialists actively look for ways to improve our customer’s experience. We quickly adapt to challenges by collaborating with other teams and experimenting on everything we can. This has allowed us to develop new and effective products that produce meaningful results and continue to drive Agoda’s business performance. Our Customer Support Team serves a daily role in contributing to a core strength and service of Agoda with a clear vision and a focus on efficient and satisfying customer support. The Opportunity As a Support Associate in Kuala Lumpur , supporting English queries , you will: Build strong problem-solving and communication skills that open doors to many future roles Support customers and partners from multiple countries and cultures, gaining truly global experience Join a data-driven, fast-learning team that experiments, improves, and shares feedback openly In This Role, You Will Deliver outstanding service to guests and partners via phone, email, and chat Handle a high volume of inquiries and deliver accurate , timely resolutions Take end-to-end ownership of booking issues ( e.g. changes, cancellations, payments, and other customer queries ) Work towards a chiev ing individual and team KPIs ( e.g. quality, productivity, customer satisfaction, etc. ) Develop expertise across multiple Agoda product lines (e.g., Accommodation, Flights, Activities), with training to support different customer segments and services over time Apply Agoda policies and procedures in a fair and consistent way Collaborate with Team Leaders, Managers, and other teams to resolve complex or unusual cases Safeguard customer data and maintain strict confidentiality at all times Work r otat ional shifts (including mornings, evenings, and nights) to support a 24/7 global operation You may be required to work on public holidays. Enjoy Agoda’s Hybrid work model, i.e. primarily work-from-home, with on-site collaboration days roughly 1 week out of every 8 weeks Core Skills and Competencies Strong customer focus and a genuine desire to help others Excellent spoken and written English skills Ability to stay calm, accurate , and professional under pressure Good problem-solving skills, using guidelines and data to make decisions effectively Flexibility to adapt to new tools, processes, and feedback Ability to manage time and priorities in a fast-paced, high-volume environment Reliability, integrity, and a positive, collaborative attitude Nice to Have Prior working e xperience in customer support, contact center, or service roles Experience in travel, e-commerce, hospitality, or BPO is a plus Experience working with international customers or partners Familiarity with contact center, CRM, or ticketing systems Additional language skills beyond the core required languages for the role if any Why Agoda Competitive compensation with performance-based incentives Annual discretionary performance bonus Health insurance and other locally competitive benefits Agoda travel discounts and special rates on accommodation and related products Work from anywhere for up to 30 days per year Structured training, coaching, and clear performance metrics Opportunities to grow your career within the Customer Experience Group or across Agoda An inclusive, international work environment where your ideas and feedback are valued You can read more about our hiring process in below article: https://careersatagoda.com/blog/how-we-hire-ceg/ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works. Discover more about working at Agoda Agoda Careers https://careersatagoda.com Facebook https://www.facebook.com/agodacareers/ LinkedIn https://www.linkedin.com/company/agoda YouTube https://www.youtube.com/agodalife Equal Opportunity Employer At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics. We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy . Disclaimer We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.",
-    "url": "https://job-boards.greenhouse.io/agoda/jobs/8118822",
-    "source": "Greenhouse:agoda",
-    "posted_date": "2026-08-14T06:08:41-04:00",
     "deadline": "",
     "internship": false,
     "sponsorship_text": "",
@@ -12056,6 +12032,30 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -19)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "AI & ML Engineer | Banking",
+    "company": "Capco",
+    "location": "China - Hong Kong",
+    "country": "Hong Kong",
+    "category": "Tech & Engineering",
+    "description": "Location: Hong Kong | Practice Area: Technology & Engineering | Type: Permanent Build intelligent solutions. Shape the future of AI in financial services. The Role At Capco, a Wipro company, we're transforming financial services through technology, innovation and deep industry expertise. We work with leading financial institutions to solve complex challenges and deliver meaningful change. We're looking for an AI & ML Engineer to join our Hong Kong team, developing innovative, scalable AI solutions that deliver real business value. You'll work closely with business stakeholders, product owners and engineering teams to prototype, build and deploy AI-powered applications. This hands-on role focuses on AI, including Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI and advanced machine learning. You'll also champion responsible AI-enabled engineering practices, using approved AI tools, human oversight and robust evaluation frameworks to deliver secure, reliable and production-ready solutions. What You’ll Do Design & Deliver AI Solutions: Develop, prototype and deploy scalable AI and machine learning applications that address real business challenges, using approved AI-enabled workflows to improve delivery speed and quality. Build Intelligent AI Applications: Develop AI solutions, including LLMs, RAG and Agentic AI workflows, incorporating prompt engineering, retrieval optimisation, tool integration and automation. Optimise AI Performance: Select, develop and fine-tune machine learning models to improve accuracy, efficiency, performance and cost-effectiveness. Embed Responsible AI: Build evaluation frameworks, guardrails and monitoring capabilities to manage AI reliability, hallucinations, security and data privacy, incorporating human-in-the-loop review, auditability and appropriate escalation pathways. Collaborate & Scale: Partner with business, product, data science and engineering teams to translate requirements into practical solutions, supporting deployment, MLOps, continuous improvement and reusable AI components. What We’re Looking For AI & Engineering Experience: Relevant experience in AI/ML engineering, software engineering or related technical roles, with practical experience delivering AI-powered solutions. Python & Software Development: Hands-on Python programming expertise, supported by sound software engineering principles and experience building production-grade applications, APIs and AI/ML pipelines. Applied AI Expertise: Practical experience with LLMs, Generative AI, RAG and Agentic AI frameworks such as LangChain or LangGraph, alongside knowledge of machine learning, model selection, fine-tuning and evaluation. Cloud & Responsible AI: Familiarity with AWS, Azure or Google Cloud, alongside an understanding of AI security, data privacy, responsible AI and production deployment practices, including appropriate human oversight and model validation. Collaboration & Problem-Solving: Effective communication, analytical thinking and stakeholder engagement skills, with a willingness to explore approved AI tools and emerging techniques to improve engineering outcomes. Bonus Points For Experience delivering AI and machine learning solutions within banking, financial services or other regulated environments. Familiarity with MLOps, CI/CD, Docker, Kubernetes and model monitoring. Knowledge of advanced AI techniques, including natural language processing, deep learning, graph machine learning or multimodal AI. Experience developing AI evaluation frameworks, performance optimisation approaches and reusable engineering components. Exposure to AI governance, automated evaluation, human-in-the-loop controls and responsible deployment of Agentic AI solutions. Why Join Capco Deliver high-impact technology solutions for Tier 1 financial institutions. Work in a collaborative, flat, and entrepreneurial consulting culture. Access continuous learning, training, and industry certifications. Be part of a team shaping the future of digital financial services. Help shape the future of digital transformation across FS & Energy. Inclusion at Capco We're committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we'll be happy to help. We value each person's unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8358340",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-11-06T03:45:01-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -15)"
     ],
     "employment_type": ""
   },
@@ -13773,30 +13773,6 @@
     "employment_type": ""
   },
   {
-    "title": "Java Application Support Engineer (Development + Security Remediation)",
-    "company": "Capco",
-    "location": "India - Bengaluru; India - Chennai ; India - Gurugram; India - Hyderabad; India - Mumbai; India - Pune",
-    "country": "India",
-    "category": "Tech & Engineering",
-    "description": "Job Title: Java Application Support Engineer (Development + Security Remediation) About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. Job Title: Java (Security Remediation & Release Management) Location: Pune/ Bengaluru/ Mumbai/ Hyderabad/ Gurugram/ Chennai (Hybrid - 2 days a week from office) Experience: Min 4yrs in Java development Role Description Key Responsibilities Java Development & Technical Fundamentals Demonstrate sound knowledge of Core Java, algorithms, and software engineering fundamentals. Develop and maintain application features and enhancements independently. Understand existing application, dependencies, and code flows. Work with CI/CD pipelines and understand build, deployment, and release processes. Quickly learn new technologies, frameworks, and application components as required. AI-Assisted Development & Code Review Effectively leverage AI-powered development tools, including Claude and AI skills, to support coding, debugging, testing, and security remediation. Understand what AI-generated code or automation is doing rather than accepting outputs without verification. Review AI-generated code for correctness, maintainability, security, and alignment with requirements. Identify potential risks, limitations, and gaps in AI-generated solutions. Clearly justify technical decisions and explain why proposed changes are necessary. Apply engineering judgment and remain accountable for all AI-assisted deliverables. Security Vulnerability Remediation Identify, analyze, and remediate security vulnerabilities in Java applications. Implement security fixes, dependency updates, and patches. Assess the impact of security changes on existing application functionality. Coordinate with relevant teams to validate remediation and obtain required approvals. Ensure security fixes are adequately tested before production deployment. Testing, Verification & Validation Independently design and execute test cases for application changes and new features. Validate both happy-path and negative scenarios, including edge cases and failure conditions. Demonstrate creativity and analytical thinking in identifying scenarios beyond standard test cases. Assess the impact of changes on existing functionality. Verify and validate AI-generated code and security fixes. Make informed recommendations on whether a change is ready for production. Production Releases & Deployment Ownership Independently coordinate and support production releases. Understand deployment procedures, release dependencies, and CI/CD workflows. Conduct release-readiness assessments covering testing, security, approvals, and operational risks. Clearly articulate why a release is ready for production, supported by evidence rather than assumptions. Obtain necessary stakeholder and change-management approvals. Identify potential failure scenarios and ensure appropriate mitigation and rollback plans are in place. Support post-deployment verification, validation, and issue resolution. Take ownership of release activities and ensure appropriate handover to US-based teams or data centre operations. Production Support & Cross-Team Coordination Participate in a monthly production support or release roster. Coordinate effectively with development, testing, security, infrastructure, and US-based teams. Understand US data centre handover procedures and operational dependencies. Provide clear documentation, verification results, and deployment status updates. Troubleshoot production issues and support timely resolution. Maintain accountability for assigned tasks through completion. Required Technical Skills Skill Area Expectation Core Java Good working knowledge Algorithms & Problem-Solving Sound fundamentals CI/CD Understanding of build and deployment pipelines Security Remediation Ability to analyze and fix Java vulnerabilities AI-Assisted Development Practical ability to use AI tools effectively AI Code Review Ability to independently assess and validate AI-generated code Testing Test-case design, negative testing, regression testing, verification and validation Production Releases Ability to coordinate and independently support releases Feature Development Ability to deliver minor enhancements Change Management Risk assessment, documentation, stakeholder coordination, and approvals If you are keen to join us, you will be part of an organization that values your contributions, recognizes your potential, and provides ample opportunities for growth. For more information, visit www.capco.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",
-    "url": "https://job-boards.greenhouse.io/capco/jobs/8348971",
-    "source": "Greenhouse:capco",
-    "posted_date": "2026-11-03T02:19:44-05:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -15)"
-    ],
-    "employment_type": ""
-  },
-  {
     "title": "Java Backend Developer - Vadodara/ Pune",
     "company": "Capco",
     "location": "India - Pune",
@@ -14371,6 +14347,30 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -45)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "React Engineer",
+    "company": "Capco",
+    "location": "India - Pune",
+    "country": "India",
+    "category": "Tech & Engineering",
+    "description": "About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount. With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. MAKE AN IMPACT Required Skills Strong hands-on experience developing production applications with React and TypeScript. Strong understanding of functional components, hooks, composition and reusable component design. Strong TypeScript fundamentals, including interfaces/types, generics, narrowing and discriminated unions. Experience with application state management and server/API state. Experience with routing, forms, input validation and error handling. Experience designing responsive and accessible web interfaces. Experience consuming REST APIs and integrating frontend applications with backend services. Experience developing data-intensive UIs, including complex tables, filters and interactive visualizations. Understanding of frontend authentication and authorization patterns, particularly OIDC/OAuth2. Experience writing frontend unit/component tests using frameworks such as Vitest/Jest and React Testing Library. Experience with browser-based E2E testing using Playwright, Cypress or equivalent. Strong debugging and frontend performance-analysis skills. Good knowledge of Git, CI/CD and modern frontend build tooling. Experience collaborating with backend engineers, UX, QA and business stakeholders. Preferred / Project-Specific Skills React 19, Vite 7, React Router 7. oidc-client-ts / react-oidc-context. AG Grid Enterprise. Bootstrap 5 / react-bootstrap. Azure, Docker. Spring Boot API integrations. SCSS/Sass.",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8326879",
+    "source": "Greenhouse:capco",
+    "posted_date": "2026-10-27T05:59:09-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -15)"
     ],
     "employment_type": ""
   },
@@ -15899,6 +15899,29 @@
     "employment_type": ""
   },
   {
+    "title": "Deputy Chief Information Security Officer (CISO), US",
+    "company": "OKX",
+    "location": "New York, United States; San Jose, California, United States",
+    "country": "United States",
+    "category": "Engineering",
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. About the opportunity We're looking for a security leader for the Americas who's equally comfortable in front of a regulator, inside a risk assessment, or reviewing a piece of technical architecture as part of a lean team. You'll start as Deputy CISO, Americas, with a path to taking on the full Regional CISO role as you build track record in the seat. How quickly that happens is up to you. This isn't a role for someone who wants to operate purely at policy level, nor for a deep specialist engineer who wants to be configuring tools. It's for someone who can move between both worlds: fluent enough in the technical detail to challenge the Engineers or spot a gap in an architecture review, but credible enough in governance to own a regulatory conversation or a board pack. This is a lean team, so we're not looking for someone to sit back and build a big team under them, this is a direct delivery role. More than anything, we want someone hungry to learn, genuinely curious, and comfortable solving problems they haven't solved before — that matters more to us than ticking every experience box. What you'll be doing Leading on audit defence, risk assessments, and technical architecture reviews across the Americas estate — this is a working role, not an oversight one. Own the Americas security risk and compliance programme: policy, controls, risk register, regulatory engagement, and reporting. Manage the US GRC lead directly, and work closely with the US SecOps team lead on operational risk and incident response. Build relationships with Legal, Compliance, Risk and Internal Audit, and represent security in Americas leadership forums. Prepare for and take an increasing share of regulator and licensing engagement, building toward owning it outright. Spot what's missing before it becomes a problem, raise an issue, build an action plan and drive it through to delivery. What we look for A security professional with solid GRC and risk grounding, ideally from a regulated industry — TradFi (bank, broker-dealer, payments) or regulated crypto is a strong plus, though direct crypto experience isn't required. Enough technical depth to hold your own in an architecture or risk conversation with highly technical engineers — you don't need to be the most technical person in the room, but you can't be lost in it either. A track record of genuine curiosity and self-directed learning over pure years-of-experience — we'd rather hire the sharp problem-solver who's two years light on paper than the person coasting on a long CV. Confident, clear communication with executives, auditors and regulators alike. Comfortable with ambiguity. Happy to work as part of a lean team and within an outsourcing model to central Group affiliates. Nice to have Direct exposure to NYDFS, SEC, FinCEN or similar regulators. Prior experience in a role explicitly building toward a CISO or equivalent leadership seat. Digital assets or crypto industry familiarity. Perks & Benefits Competitive total compensation package L&D programs and Education subsidy for employees' growth and development Various team building programs and company events Wellness and meal allowances Comprehensive healthcare schemes for employees and dependents More that we love to tell you along the process! OKX Statement: OKX is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physical or mental disability, or protected veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. The salary range for this position is $250,444 to $375,666. The salary offered depends on a variety of factors, including job-related knowledge, skills, experience, and market location. In addition to the salary, a performance bonus and long-term incentives may be provided as part of the compensation package, as well as a full range of medical, financial, and/or other benefits, dependent on the position offered. Applicants should apply via OKX internal or external careers site. #LI-SK1 #LI-HYBRID Notice: All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX 's Candidate Privacy Notice .",
+    "url": "https://job-boards.greenhouse.io/okx/jobs/7813400003",
+    "source": "Greenhouse:okx",
+    "posted_date": "2026-07-22T21:58:01-04:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+15 business / economics context",
+      "+0 visa support unclear",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -20)"
+    ],
+    "employment_type": ""
+  },
+  {
     "title": "Deputy Money Laundering Reporting Officer - Malta",
     "company": "OKX",
     "location": "Sliema, Malta",
@@ -16039,6 +16062,32 @@
       "+0 visa support unclear",
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "Software Engineer, Card",
+    "company": "OKX",
+    "location": "San Jose, California, United States",
+    "country": "United States",
+    "category": "AI-Native Product & Engineering Center",
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more. About the Opportunity The OKX Card Team builds the payment infrastructure connecting digital assets to global commerce. Partnering with major card networks like Visa and Mastercard, we power the OKX crypto card platform. Our team handles the full card lifecycle and payment stack—from instant issuance and real-time transaction authorization (Auth) to settlement, ledger management, and card growth engines. We also actively embrace AI-assisted development to build fast, scale cleanly, and maximize engineering velocity. What You’ll Be Doing Core Card Services: Develop and maintain reliable backend microservices in Java for card issuing, authorization pipelines, and settlement clearing. Workflow Orchestration: Utilize Temporal to manage complex, multi-step transaction lifecycles and resilient distributed state machines. Data & Ledgers: Design and optimize SQL schemas and queries to ensure exactness and speed across high-concurrency transaction ledgers. AI-Enhanced Velocity: Integrate modern AI development tools into your daily workflow to speed up coding, unit testing, and problem-solving. Growth & Features: Deliver features for promotional campaigns, rewards, and card lifecycle management to support user growth. Collaborate directly with Mandarin-speaking partners, vendors, and clients to manage daily communications, gather project requirements, and resolve operational issues. What We Look For In You Technical Core: 1–3 years of backend engineering experience proficient in Java (Spring Boot) and relational databases via SQL. Workflow Management: Direct experience or solid understanding of distributed workflow tools like Temporal (or Cadence). Card & Fintech Domain : Strong background in Fintech with a solid grasp of card transaction mechanics (Visa/Mastercard networks, Auth, clearing, and issuing workflows). AI Tooling Mindset : Proactive in using AI development tools (e.g., Copilot, AI assistants) to boost output and maintain high code quality. Soft Skills : Highly self-driven, quick learner, and excited to build secure financial products. Nice to Have Experience working directly with Card Issuing processors or Payment Service Providers (PSPs). Broad understanding of Web3 concepts or crypto-to-fiat conversion flows. Exposure to cloud-native stacks (Docker, Kubernetes, AWS/GCP). Professional working proficiency in both English and Mandarin (verbal and written) to effectively communicate with Mandarin-speaking stakeholders and review Chinese-language business documents. Perks & Benefits Competitive total compensation package L&D programs and Education subsidy for employees' growth and development Various team building programs and company events Wellness and meal allowances Comprehensive healthcare schemes for employees and dependants More that we love to tell you along the process! The base salary range for this position is $133,752 to $200,628. The salary offered depends on a variety of factors, including job-related knowledge, skills, experience, and market location. In addition to the salary, a performance bonus and long-term incentives may be provided as part of the compensation package, as well as a full range of medical, financial, and/or other benefits, dependent on the position offered. Applicants should apply via OKX internal or external careers site. OKX is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physical or mental disability, or protected veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider employment-qualified applicants with arrest and conviction records. #LI-HYBRID #LI-ED1 Notice: All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX 's Candidate Privacy Notice .",
+    "url": "https://job-boards.greenhouse.io/okx/jobs/8209722003",
+    "source": "Greenhouse:okx",
+    "posted_date": "2026-11-19T17:00:52-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "Partnering with major card networks like Visa and Mastercard, we power the OKX crypto card platform. Card & Fintech Domain : Strong background in Fintech with a solid grasp of card transaction mechanics (Visa/Mastercard networks, Auth, clearing, and issuing workflows).",
+    "score": 0,
+    "score_reasons": [
+      "+16 relevant department; role uncertain",
+      "+15 business / economics context",
+      "+5 data / analytics skills",
+      "+0 work authorization wording saved; eligibility not assessed",
+      "-25 technical role is a secondary preference",
+      "-10 internship not confirmed",
+      "-25 no clear student / entry-level signal",
+      "Score clamped to 0 (raw -24)"
     ],
     "employment_type": ""
   },
@@ -19724,31 +19773,6 @@
   {
     "title": "Software Engineer",
     "company": "Stripe",
-    "location": "Seattle, WA",
-    "country": "United States",
-    "category": "Global Operations",
-    "description": "Who we are About Stripe Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. What you’ll do Responsibilities Conducting technical interviews; Creating software, tooling and distributed systems for automating and managing data center network hardware and compute stacks; Creating and operating shared infrastructure for Stripe’s Cardholder data environment; Deployment tooling; SOX compliance audit prep interviews, and remediations; PCI compliance audit prep, interviews, and remediations; Project management; Mentoring junior engineers; On-call responsibilities. Who you are Minimum requirements Must have a Bachelor's degree or foreign equivalent in Computer Science, Software Engineering, or related field, plus two (2) years of Software Development experience. Position also requires the following: 2 years of experience with AWS cloud infrastructure and Terraform infrastructure automation; 2 years of experience with reliability, scalability, and distributed systems principles; 1 year of experience in Go and Ansible programming languages; 1 year of experience in Puppet host configuration; 1 year of experience in Ruby programming language; 1 year of experience in Python programming language; 1 year of experience in mentorship and leadership of junior software engineers; 1 year of experience performing 24/7 on call rotations to support high-availability software systems; 1 year of experience with monitoring and logging tools; 1 year of experience with computer network concepts; 1 year of experience in the knowledge of Linux operating system and subsystems; 1 year of experience with cloud and application security best practices; and 1 year of experience with PCI compliance monitoring, audit processes, and evidence collection. Salary: $190,400.00 - $285,600.00/yr This salary range represents the base salary range for the role and any sales commissions/sales bonuses targets, if applicable, would be in addition to the base salary. 40 hrs/week 50% remote work permitted Multiple Positions Available. Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends. WA67 #LI-DNI",
-    "url": "https://stripe.com/jobs/search?gh_jid=8267736",
-    "source": "Greenhouse:stripe",
-    "posted_date": "2026-10-09T12:47:42-04:00",
-    "deadline": "",
-    "internship": false,
-    "sponsorship_text": "",
-    "score": 0,
-    "score_reasons": [
-      "+15 business / economics context",
-      "+5 data / analytics skills",
-      "+0 visa support unclear",
-      "-25 technical role is a secondary preference",
-      "-10 internship not confirmed",
-      "-25 no clear student / entry-level signal",
-      "Score clamped to 0 (raw -40)"
-    ],
-    "employment_type": ""
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Stripe",
     "location": "Taiwan",
     "country": "",
     "category": "8512 Terminal - Eng",
@@ -20039,6 +20063,31 @@
       "-10 internship not confirmed",
       "-25 no clear student / entry-level signal",
       "Score clamped to 0 (raw -15)"
+    ],
+    "employment_type": ""
+  },
+  {
+    "title": "Staff Software Engineer, Mobile Development Productivity",
+    "company": "Stripe",
+    "location": "na",
+    "country": "",
+    "category": "8126 Developer Infrastructure",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Mobile Development Productivity team makes building, testing, and releasing Stripe’s mobile applications and device-integrated software fast, reliable, and secure. The team owns the mobile development platform end to end, including development environments, simulators and emulators, continuous integration, automated testing, builds, and releases. We support engineers working across iOS, Android, React Native, Kotlin Multiplatform, mobile SDKs, and device-integrated software. Our customers include engineers working on Stripe Dashboard Mobile, Link, Stripe’s mobile SDKs, and Terminal. We enable mobile engineers to use AI agents throughout the development process, including writing code, running tests, and validating changes across mobile platforms. Our work reduces manual release effort, improves test coverage, and makes mobile development faster and more reliable. What you’ll do You will improve the platform that Stripe engineers use to build mobile applications and device-integrated software. You will draw on your experience building mobile applications to understand where development is slow or unreliable, then build tools and systems that improve the experience across teams and platforms. You will also help make AI agents effective participants in mobile development. This includes giving agents access to realistic development environments, simulators and emulators, test frameworks, and the feedback they need to validate changes. You will work closely with mobile product teams and infrastructure teams, and you will operate the systems you build. Responsibilities Build mobile development environments and workflows that enable engineers and AI agents to develop, test, and validate changes remotely Improve the speed, reliability, and usability of development workflows and continuous integration across iOS, Android, React Native, and other device-integrated platforms Develop automated testing infrastructure for unit, integration, end-to-end, network snapshot, and visual regression testing Automate secure build and release processes for mobile applications, SDKs, and device software, reducing reliance on developer laptops and manual operations Integrate code-authoring, review, and validation tools into mobile development workflows and repositories Partner with mobile product and infrastructure teams to identify recurring development bottlenecks and build reusable solutions Operate the systems the team owns, participate in on-call support, and improve their reliability using measures of developer productivity, build and test performance, and release health Who you are We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements 10+ years of professional software engineering experience, not including internships or co-ops Experience building and maintaining mobile applications for iOS, Android, or a cross-platform mobile framework Experience writing reliable, maintainable code and tests in a collaborative software engineering environment Ability to diagnose problems across application code, development tools, and build or test systems Ability to work with engineers across teams to understand their needs and deliver practical improvements Interest in learning unfamiliar parts of the mobile development lifecycle, including development environments, continuous integration, testing, builds, releases, and production operations Experience leading large, complex projects with multiple engineers across teams and organizations, explaining technical tradeoffs, building alignment with partners and leaders, and mentoring engineers in an environment where technologies and priorities change quickly Experience mentoring engineers, and helping the team use AI to build and understand systems faster while keeping quality and reliability hig Preferred qualifications Experience building developer infrastructure, developer tools, continuous integration systems, or automated testing frameworks Experience with Swift, Kotlin, React Native, Kotlin Multiplatform, or mobile SDK development",
+    "url": "https://stripe.com/jobs/search?gh_jid=8404115",
+    "source": "Greenhouse:stripe",
+    "posted_date": "2026-11-19T19:45:58-05:00",
+    "deadline": "",
+    "internship": false,
+    "sponsorship_text": "",
+    "score": 0,
+    "score_reasons": [
+      "+12 student / early-career signal: internships",
+      "+15 business / economics context",
+      "+0 visa support unclear",
+      "-25 technical role is a secondary preference",
+      "-30 senior/manager role",
+      "-25 requires 10+ years experience (source wording; verify)",
+      "Score clamped to 0 (raw -53)"
     ],
     "employment_type": ""
   },

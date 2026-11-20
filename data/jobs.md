@@ -256,7 +256,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Agoda | [Analyst, Marketing Analytics and Strategy (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8190514) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Analyst, Performance Marketing (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8273432) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Associate Analyst, Marketing (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8194690) |  | Bangkok | Greenhouse:agoda |
-| 25 | Agoda | [Commercial Finance Analyst](https://job-boards.greenhouse.io/agoda/jobs/8206854) |  | Bangkok, Thailand | Greenhouse:agoda |
+| 25 | Agoda | [Commercial Finance Analyst (Relocation NOT provided)](https://job-boards.greenhouse.io/agoda/jobs/8206854) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 25 | Agoda | [Marketing Analyst (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/5393603) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Marketing Analyst, New Verticals (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/5865562) |  | Bangkok | Greenhouse:agoda |
 | 25 | Agoda | [Marketing Data Analyst (Bangkok Based, Relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/6219574) |  | Bangkok | Greenhouse:agoda |
@@ -335,11 +335,11 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 21 | OKX | [Ad Creative Strategist (AIGC Creative Producer)](https://job-boards.greenhouse.io/okx/jobs/8032284003) | Singapore | Singapore, Singapore | Greenhouse:okx |
 | 21 | OKX | [Design System Designer, OKDS](https://job-boards.greenhouse.io/okx/jobs/6246532003) | Singapore | Singapore, Singapore | Greenhouse:okx |
 | 21 | Stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=5895430) | Canada | Toronto | Greenhouse:stripe |
+| 21 | Stripe | [Data Scientist, FX Quantitative Research](https://stripe.com/jobs/search?gh_jid=8346778) | Canada | Toronto | Greenhouse:stripe |
 | 21 | Xendit | [UX Researcher](https://job-boards.greenhouse.io/xendit/jobs/7992382003) | Singapore | Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore | Greenhouse:xendit |
 | 20 | Capco | [Business Analyst* – Capital Markets (Middle & Back Office Operations)](https://job-boards.greenhouse.io/capco/jobs/8355144) | Germany | Germany - Frankfurt am Main | Greenhouse:capco |
 | 20 | Capco | [Business Analyst* – Capital Markets (Middle & Back Office Operations)](https://job-boards.greenhouse.io/capco/jobs/8355178) | Germany | Germany - Munich | Greenhouse:capco |
 | 20 | Capco | [Business Analyst* – Capital Markets (Middle & Back Office Operations)](https://job-boards.greenhouse.io/capco/jobs/8355182) | Germany | Germany - Dusseldorf | Greenhouse:capco |
-| 20 | Capco | [Investment Banking Operations](https://job-boards.greenhouse.io/capco/jobs/8238991) | India | India - Bengaluru | Greenhouse:capco |
 | 20 | Guidepoint | [Business Development Associate - Corporate](https://job-boards.greenhouse.io/guidepoint/jobs/8505930002) | Japan | 東京都, Japan | Greenhouse:guidepoint |
 | 20 | Guidepoint | [Client Service Associate, Consulting](https://job-boards.greenhouse.io/guidepoint/jobs/8006691002) |  | Shanghai Shi, China | Greenhouse:guidepoint |
 | 17 | Lalamove | [Senior Associate, Platform Growth and Operations](https://jobs.lever.co/lalamove/ace66d4b-546f-4853-814a-544e4fc71f68) | Hong Kong | Hong Kong SAR | Lever:lalamove |
@@ -363,6 +363,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 7 | Agoda | [\[Cooperative Internship 2027\] Data Platform Intern, Devops](https://job-boards.greenhouse.io/agoda/jobs/8358246) |  | Bangkok based | Greenhouse:agoda |
 | 7 | Agoda | [\[Cooperative Internship 2027\] Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8358252) |  | Bangkok based | Greenhouse:agoda |
 | 7 | Agoda | [\[Cooperative Internship 2027\] Infrastructure Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335941) |  | Bangkok | Greenhouse:agoda |
+| 7 | Agoda | [Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office](https://job-boards.greenhouse.io/agoda/jobs/6323041) |  | Gurgaon | Greenhouse:agoda |
 | 7 | Guidepoint | [Analyst, Insights (Campus)](https://job-boards.greenhouse.io/guidepoint/jobs/8946985002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
 | 7 | Stripe | [Software Engineer, Supportability Decisions](https://stripe.com/jobs/search?gh_jid=8335426) | Ireland | Dublin | Greenhouse:stripe |
 | 5 | Adyen | [Compliance Officer - Financial & Data Integrity Programs](https://job-boards.greenhouse.io/adyen/jobs/8055561) | Singapore | Singapore | Greenhouse:adyen |
@@ -413,7 +414,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 2 | Stripe | [Software Engineer, New Grad - Frontend](https://stripe.com/jobs/search?gh_jid=8130927) |  | Barcelona | Greenhouse:stripe |
 | 2 | Stripe | [Software Engineer, Stripe Tax](https://stripe.com/jobs/search?gh_jid=8076626) | Ireland | Dublin, Ireland | Greenhouse:stripe |
 | 1 | Agoda | [Analyst, Pricing (Bangkok Based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8190515) |  | Bangkok | Greenhouse:agoda |
-| 1 | Capco | [AI & ML Engineer \| Banking](https://job-boards.greenhouse.io/capco/jobs/8358340) | Hong Kong | China - Hong Kong | Greenhouse:capco |
 | 1 | Capco | [Aladdin platform consultant](https://job-boards.greenhouse.io/capco/jobs/8001028) | United Kingdom | UK - London | Greenhouse:capco |
 | 1 | Capco | [Analista de SMS com foco em Controle e Monitoração de Processos / Home Office](https://job-boards.greenhouse.io/capco/jobs/8403071) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 1 | Capco | [Analista de Suprimentos \| Rio de Janeiro - Híbrido](https://job-boards.greenhouse.io/capco/jobs/8359062) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
@@ -485,6 +485,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Point72 | [Fund Reporting Analyst](https://boards.greenhouse.io/point72/jobs/8780031002?gh_jid=8780031002) |  | Warsaw | Greenhouse:point72 |
 | 1 | Schonfeld | [Strategist - Equity Risk](https://job-boards.greenhouse.io/schonfeld/jobs/7541293) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 1 | Stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=5601879) |  | N/A | Greenhouse:stripe |
+| 1 | Stripe | [Data Scientist, FX Quantitative Research](https://stripe.com/jobs/search?gh_jid=8346831) | United States | New York, NY | Greenhouse:stripe |
 | 1 | Stripe | [Designer, Web Presence & Platform](https://stripe.com/jobs/search?gh_jid=8130913) | United States | US-Remote | Greenhouse:stripe |
 | 1 | Stripe | [EMEA Demand Generation, Platforms](https://stripe.com/jobs/search?gh_jid=8209626) | United Kingdom | London | Greenhouse:stripe |
 | 1 | Stripe | [FX Trading & Risk Management](https://stripe.com/jobs/search?gh_jid=8206733) | United States | New York | Greenhouse:stripe |
@@ -495,7 +496,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Adyen | [Collections Analyst](https://job-boards.greenhouse.io/adyen/jobs/8301681) | United States | Chicago | Greenhouse:adyen |
 | 0 | Adyen | [Financial Risk Analyst](https://job-boards.greenhouse.io/adyen/jobs/7842667) |  | São Paulo | Greenhouse:adyen |
 | 0 | Adyen | [FinCrime Investigator](https://job-boards.greenhouse.io/adyen/jobs/8358902) |  | Amsterdam | Greenhouse:adyen |
-| 0 | Adyen | [Full-Stack Developer (Junior) - Docs Experience Engineering Team](https://job-boards.greenhouse.io/adyen/jobs/8068230) | United States | Chicago | Greenhouse:adyen |
 | 0 | Adyen | [IT Internal Control Officer](https://job-boards.greenhouse.io/adyen/jobs/7537535) | India | Mumbai | Greenhouse:adyen |
 | 0 | Adyen | [People Technology Application Engineer](https://job-boards.greenhouse.io/adyen/jobs/8226137) |  | Amsterdam | Greenhouse:adyen |
 | 0 | Adyen | [Software Engineer (Full-Stack)](https://job-boards.greenhouse.io/adyen/jobs/8105757) |  | Amsterdam | Greenhouse:adyen |
@@ -505,10 +505,9 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Agoda | [People Help Desk Analyst](https://job-boards.greenhouse.io/agoda/jobs/8210580) |  | Bangkok, Thailand | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer - Infrastructure Platform (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/8260757) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Software Developer, DevOps (Bangkok-based, 10-month Contract)](https://job-boards.greenhouse.io/agoda/jobs/6883260) |  | Bangkok | Greenhouse:agoda |
+| 0 | Agoda | [Support Associate (Gurgaon)](https://job-boards.greenhouse.io/agoda/jobs/7995116) |  | Gurgaon | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate (Pune)](https://job-boards.greenhouse.io/agoda/jobs/7995117) |  | Pune | Greenhouse:agoda |
-| 0 | Agoda | [Support Associate - Bahasa Malaysia (Kuala Lumpur)](https://job-boards.greenhouse.io/agoda/jobs/8266667) |  | Kuala Lumpur, Malaysia | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - English & Mandarin (Foshan, China)](https://job-boards.greenhouse.io/agoda/jobs/8248906) |  | Foshan, China | Greenhouse:agoda |
-| 0 | Agoda | [Support Associate - English (Kuala Lumpur)](https://job-boards.greenhouse.io/agoda/jobs/8118822) |  | Kuala Lumpur | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - Thai (Bangkok)](https://job-boards.greenhouse.io/agoda/jobs/8288433) |  | Bangkok (One Bangkok) | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate - Vietnamese Speaking (Based in Bangkok with relocation support)](https://job-boards.greenhouse.io/agoda/jobs/8168798) |  | Bangkok | Greenhouse:agoda |
 | 0 | Agoda | [Support Associate- 24/7 Japanese (Bangkok, requires relocation to Bangkok)](https://job-boards.greenhouse.io/agoda/jobs/8398477) |  | Bangkok | Greenhouse:agoda |
@@ -528,6 +527,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Administrador - Hibrido - Rio de Janeiro / RJ](https://job-boards.greenhouse.io/capco/jobs/8378299) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Aduaneiro \| Híbrido - Macaé/RJ](https://job-boards.greenhouse.io/capco/jobs/8176639) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Advogado - Remoto](https://job-boards.greenhouse.io/capco/jobs/8378904) |  | Brazil | Greenhouse:capco |
+| 0 | Capco | [AI & ML Engineer \| Banking](https://job-boards.greenhouse.io/capco/jobs/8358340) | Hong Kong | China - Hong Kong | Greenhouse:capco |
 | 0 | Capco | [AI Engineer](https://job-boards.greenhouse.io/capco/jobs/8146628) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [AI Engineer](https://job-boards.greenhouse.io/capco/jobs/8305375) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [AI Engineer - COM INGLÊS](https://job-boards.greenhouse.io/capco/jobs/8179972) |  | Brazil - Sao Paulo | Greenhouse:capco |
@@ -601,7 +601,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Integration & Database Developer - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8267193) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Integration Developer Pleno - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8267134) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [IT Administrator](https://job-boards.greenhouse.io/capco/jobs/7404914) |  | Malaysia - Kuala Lumpur | Greenhouse:capco |
-| 0 | Capco | [Java Application Support Engineer (Development + Security Remediation)](https://job-boards.greenhouse.io/capco/jobs/8348971) | India | India - Bengaluru; India - Chennai ; India - Gurugram; India - Hyderabad; India - Mumbai; India - Pune | Greenhouse:capco |
 | 0 | Capco | [Java Backend Developer - Vadodara/ Pune](https://job-boards.greenhouse.io/capco/jobs/8230093) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Java Backend Developer with Kubernetes - Vadodara](https://job-boards.greenhouse.io/capco/jobs/8300371) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Java Backend Engineer – AI](https://job-boards.greenhouse.io/capco/jobs/8268408) | Canada | Canada - Toronto | Greenhouse:capco |
@@ -626,6 +625,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [PowerApps](https://job-boards.greenhouse.io/capco/jobs/8377135) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Programme Management Consultant (Polish is mandatory)](https://job-boards.greenhouse.io/capco/jobs/8213429) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [QA Engineer – Equity Trading Systems](https://job-boards.greenhouse.io/capco/jobs/8226060) | India | India - Bengaluru | Greenhouse:capco |
+| 0 | Capco | [React Engineer](https://job-boards.greenhouse.io/capco/jobs/8326879) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Salesforce Integration Developer - COM INGLÊS - Remoto](https://job-boards.greenhouse.io/capco/jobs/8265701) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Security Risk Consultant (Middle East)](https://job-boards.greenhouse.io/capco/jobs/8337133) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Security/ Threat & Risk Consultant (Qatar location)](https://job-boards.greenhouse.io/capco/jobs/8273843) |  | Poland - Warsaw | Greenhouse:capco |
@@ -691,12 +691,14 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | OKX | [Business Assistant 业务助理](https://job-boards.greenhouse.io/okx/jobs/7648699003) | Singapore | Singapore, Singapore | Greenhouse:okx |
 | 0 | OKX | [Compliance Analyst](https://job-boards.greenhouse.io/okx/jobs/8039617003) | United States | San Jose, California, United States | Greenhouse:okx |
 | 0 | OKX | [Compliance Analyst, Market Surveillance](https://job-boards.greenhouse.io/okx/jobs/8039601003) | United States | New York, United States | Greenhouse:okx |
+| 0 | OKX | [Deputy Chief Information Security Officer (CISO), US](https://job-boards.greenhouse.io/okx/jobs/7813400003) | United States | New York, United States; San Jose, California, United States | Greenhouse:okx |
 | 0 | OKX | [Deputy Money Laundering Reporting Officer - Malta](https://job-boards.greenhouse.io/okx/jobs/7996961003) |  | Sliema, Malta | Greenhouse:okx |
 | 0 | OKX | [DevOps / Site Reliability Engineer](https://job-boards.greenhouse.io/okx/jobs/7767872003) | Singapore | Singapore, Singapore | Greenhouse:okx |
 | 0 | OKX | [Institutional Relationship Management](https://job-boards.greenhouse.io/okx/jobs/7737042003) |  | Remote Roles - APAC | Greenhouse:okx |
 | 0 | OKX | [IT Support Engineer](https://job-boards.greenhouse.io/okx/jobs/7989745003) |  | Kuala Lumpur, Malaysia | Greenhouse:okx |
 | 0 | OKX | [Quantitative Trader (D1 Liquidity)](https://job-boards.greenhouse.io/okx/jobs/7990868003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
 | 0 | OKX | [Rust Developer, Exchange OS Trading Engine](https://job-boards.greenhouse.io/okx/jobs/8014194003) | Singapore; Hong Kong | Hong Kong, Hong Kong SAR; Singapore, Singapore | Greenhouse:okx |
+| 0 | OKX | [Software Engineer, Card](https://job-boards.greenhouse.io/okx/jobs/8209722003) | United States | San Jose, California, United States | Greenhouse:okx |
 | 0 | OKX | [Software Engineer, Mobile](https://job-boards.greenhouse.io/okx/jobs/8004167003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
 | 0 | OKX | [Software Engineer, Mobile (Android)](https://job-boards.greenhouse.io/okx/jobs/8045415003) | Singapore | Singapore, Singapore | Greenhouse:okx |
 | 0 | OKX | [Software Engineer, Mobile (iOS)](https://job-boards.greenhouse.io/okx/jobs/8005095003) | Singapore | Singapore, Singapore | Greenhouse:okx |
@@ -850,7 +852,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Sanctions, Operations Associate(CDMX)](https://stripe.com/jobs/search?gh_jid=8017084) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [SDC Recruiter](https://stripe.com/jobs/search?gh_jid=8237526) | India | Bengaluru | Greenhouse:stripe |
 | 0 | Stripe | [Security Engineer, Privy](https://stripe.com/jobs/search?gh_jid=8306475) |  | NYC-Privy | Greenhouse:stripe |
-| 0 | Stripe | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8267736) | United States | Seattle, WA | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8318509) |  | Taiwan | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) | India | Bangalore | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, High Availability and Disaster Recovery](https://stripe.com/jobs/search?gh_jid=8197135) | United States | Seattle, WA | Greenhouse:stripe |
@@ -863,6 +864,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Software Engineer, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=8175656) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Software Engineer, Vulnerability Management](https://stripe.com/jobs/search?gh_jid=8384567) |  | na | Greenhouse:stripe |
 | 0 | Stripe | [Software Quality Assurance Engineer](https://stripe.com/jobs/search?gh_jid=8153331) |  | Taipei,Taiwan | Greenhouse:stripe |
+| 0 | Stripe | [Staff Software Engineer, Mobile Development Productivity](https://stripe.com/jobs/search?gh_jid=8404115) |  | na | Greenhouse:stripe |
 | 0 | Stripe | [Technical Operations Engineer](https://stripe.com/jobs/search?gh_jid=8325807) | United States | South San Francisco, CA | Greenhouse:stripe |
 | 0 | Stripe | [Technical Operations Engineer, Revenue](https://stripe.com/jobs/search?gh_jid=8379544) | United States | US | Greenhouse:stripe |
 | 0 | Stripe | [Technical Recruiter (Fixed Term Contract)](https://stripe.com/jobs/search?gh_jid=8154525) |  | SF, SEA, NYC, CHI, ATL | Greenhouse:stripe |
