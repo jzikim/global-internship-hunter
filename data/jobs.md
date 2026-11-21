@@ -477,7 +477,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Capco | [Transformation Consultant – Corporate & Institutional Banking and Lending](https://job-boards.greenhouse.io/capco/jobs/8303213) | United Kingdom | UK - London | Greenhouse:capco |
 | 1 | Capco | [UAT Tester - Mumbai](https://job-boards.greenhouse.io/capco/jobs/8152568) | India | India - Mumbai | Greenhouse:capco |
 | 1 | Guidepoint | [Account Receivables Clerk](https://job-boards.greenhouse.io/guidepoint/jobs/8561061002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
-| 1 | Guidepoint | [Client Service Coordinator](https://job-boards.greenhouse.io/guidepoint/jobs/8868896002) | United States | Phoenix, Arizona, United States | Greenhouse:guidepoint |
 | 1 | OKX | [Ad Creative Strategist (AIGC Creative Producer)](https://job-boards.greenhouse.io/okx/jobs/8032296003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
 | 1 | OKX | [Design System Designer, OKDS](https://job-boards.greenhouse.io/okx/jobs/7992250003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
 | 1 | OKX | [Quantitative Trader, Cash OTC](https://job-boards.greenhouse.io/okx/jobs/7714574003) | Hong Kong | Hong Kong, Hong Kong SAR | Greenhouse:okx |
@@ -486,7 +485,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Schonfeld | [Strategist - Equity Risk](https://job-boards.greenhouse.io/schonfeld/jobs/7541293) | United Kingdom | London, England, United Kingdom | Greenhouse:schonfeld |
 | 1 | Stripe | [Data Scientist](https://stripe.com/jobs/search?gh_jid=5601879) |  | N/A | Greenhouse:stripe |
 | 1 | Stripe | [Data Scientist, FX Quantitative Research](https://stripe.com/jobs/search?gh_jid=8346831) | United States | New York, NY | Greenhouse:stripe |
-| 1 | Stripe | [Designer, Web Presence & Platform](https://stripe.com/jobs/search?gh_jid=8130913) | United States | US-Remote | Greenhouse:stripe |
 | 1 | Stripe | [EMEA Demand Generation, Platforms](https://stripe.com/jobs/search?gh_jid=8209626) | United Kingdom | London | Greenhouse:stripe |
 | 1 | Stripe | [FX Trading & Risk Management](https://stripe.com/jobs/search?gh_jid=8206733) | United States | New York | Greenhouse:stripe |
 | 1 | Stripe | [Social Media, Customer Support Associate](https://stripe.com/jobs/search?gh_jid=7962437) | India | Bengaluru | Greenhouse:stripe |
@@ -563,6 +561,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [DevOps Engineer](https://job-boards.greenhouse.io/capco/jobs/8401849) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [DvP Orchestration Engineer](https://job-boards.greenhouse.io/capco/jobs/8256184) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Dynamics 365 (7-9yrs)](https://job-boards.greenhouse.io/capco/jobs/8131947) | India | India - Bengaluru | Greenhouse:capco |
+| 0 | Capco | [Développeur logiciel backend](https://job-boards.greenhouse.io/capco/jobs/8407365) | Canada | Canada - Montreal | Greenhouse:capco |
 | 0 | Capco | [Engenharia ambiental - Araucária - PR](https://job-boards.greenhouse.io/capco/jobs/8352702) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenharia ambiental/Geólogo - Araucária - PR](https://job-boards.greenhouse.io/capco/jobs/8352723) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenharia ambiental/Geólogo - Betim - MG](https://job-boards.greenhouse.io/capco/jobs/8352725) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
@@ -595,7 +594,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8336309) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Java & React)](https://job-boards.greenhouse.io/capco/jobs/8300424) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Full Stack Engineer (Python/React/Typescript)](https://job-boards.greenhouse.io/capco/jobs/8334485) |  | Poland - Cracow | Greenhouse:capco |
-| 0 | Capco | [Full-Stack Software Developers](https://job-boards.greenhouse.io/capco/jobs/8383351) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [GCC Sales Head - Hyderabad](https://job-boards.greenhouse.io/capco/jobs/8143334) | India | India - Hyderabad | Greenhouse:capco |
 | 0 | Capco | [GenAI/ML Engineer](https://job-boards.greenhouse.io/capco/jobs/7774952) |  | Switzerland - Zurich | Greenhouse:capco |
 | 0 | Capco | [Generative AI Engineer](https://job-boards.greenhouse.io/capco/jobs/5884293) |  | Italy - Milan | Greenhouse:capco |
@@ -635,6 +633,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Software Engineer](https://job-boards.greenhouse.io/capco/jobs/8160588) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [Software Engineer - Avaloq](https://job-boards.greenhouse.io/capco/jobs/8232609) |  | Poland - Cracow | Greenhouse:capco |
 | 0 | Capco | [Software Engineer - Avaloq](https://job-boards.greenhouse.io/capco/jobs/8232610) |  | Poland - Warsaw | Greenhouse:capco |
+| 0 | Capco | [Software Engineer, Implementation & Support](https://job-boards.greenhouse.io/capco/jobs/8384329) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [SQL Server Developer](https://job-boards.greenhouse.io/capco/jobs/8401847) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Tech Referral- Dummy ID](https://job-boards.greenhouse.io/capco/jobs/8395777) | India | India | Greenhouse:capco |
 | 0 | Capco | [Technical Recruiter - Energy Practice (Contract)](https://job-boards.greenhouse.io/capco/jobs/8401902) | United States | US - Dallas | Greenhouse:capco |
