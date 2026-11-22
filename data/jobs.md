@@ -362,7 +362,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 7 | Agoda | [\[Cooperative Internship 2027\] Data Platform Intern, Devops](https://job-boards.greenhouse.io/agoda/jobs/8358246) |  | Bangkok based | Greenhouse:agoda |
 | 7 | Agoda | [\[Cooperative Internship 2027\] Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8358252) |  | Bangkok based | Greenhouse:agoda |
 | 7 | Agoda | [\[Cooperative Internship 2027\] Infrastructure Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335941) |  | Bangkok | Greenhouse:agoda |
-| 7 | Agoda | [Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office](https://job-boards.greenhouse.io/agoda/jobs/6323041) |  | Gurgaon | Greenhouse:agoda |
 | 7 | Guidepoint | [Analyst, Insights (Campus)](https://job-boards.greenhouse.io/guidepoint/jobs/8946985002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
 | 5 | Adyen | [Compliance Officer - Financial & Data Integrity Programs](https://job-boards.greenhouse.io/adyen/jobs/8055561) | Singapore | Singapore | Greenhouse:adyen |
 | 5 | Adyen | [Technical Support Engineer](https://job-boards.greenhouse.io/adyen/jobs/8352219) | Singapore | Singapore | Greenhouse:adyen |
