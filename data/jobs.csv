@@ -51,7 +51,7 @@
 55,Schonfeld,2027 Enterprise Data Intern,"Singapore, Central, Singapore",Singapore,2026-11-11T14:02:22-05:00,,Greenhouse:schonfeld,https://job-boards.greenhouse.io/schonfeld/jobs/8356741
 55,Stripe,"PhD Data Scientist, Intern",Toronto,Canada,2026-10-01T11:05:33-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8194285
 52,Capco,Talent Acquisition Partner - Technical,Canada - Toronto,Canada,2026-11-20T08:32:44-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8405727
-52,Geotab,Global Operations Intern,"Singapore City, Singapore - Singapore",Singapore,2026-08-21T07:12:58-04:00,,Greenhouse:geotab,https://job-boards.greenhouse.io/geotab/jobs/5382729008
+52,Point72,2027 Asia Economist Intern,Singapore,Singapore,2026-11-24T04:31:28-05:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8959709002?gh_jid=8959709002
 52,Point72,2027 Economist Intern,Singapore,Singapore,2026-11-06T10:43:19-05:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002
 52,Stripe,"Integration Reliability Engineer Intern, Technical Operations",Singapore,Singapore,2026-09-22T15:33:06-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8186367
 51,Agoda,[Summer Internship 2027] Thailand Government Affairs Intern,"Bangkok, Thailand",,2026-11-06T02:30:34-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8357802
@@ -140,6 +140,7 @@
 32,Ninja Van,Intern - Retail Network Management,"Subang Jaya, Selangor, Malaysia",,2026-11-17T06:54:41.359000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/c0b2b24f-d19d-44ef-b12e-2961009c4aa5
 32,Ninja Van,Intern Admin & Ops Support - Last Mile,"Shah Alam, Selangor, Malaysia",,2026-11-17T07:15:29.260000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/47684a1a-3bb9-46ac-a8a5-72770afd373c
 32,Ninja Van,Intern Freight Customs Coordinator,"Shah Alam, Selangor, Malaysia",,2025-11-14T01:18:23.436000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/bfaf5a47-6f18-4c1d-9545-919c26bc949f
+32,Ninja Van,Intern Middle Mile - Freight Customs Coordinator,"Shah Alam, Selangor, Malaysia",,2026-11-24T07:43:28.192000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/d3d11c98-bbd3-42aa-ac2d-51dba0077891
 32,Ninja Van,"Intern, Admin Transport Management","Shah Alam, Selangor, Malaysia",,2025-09-12T06:58:47.358000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/da7af4ee-d401-4bd1-bdf1-fed6b23d6bdc
 32,Ninja Van,"Intern, Automation (Warehouse)","Shah Alam, Selangor, Malaysia",,2024-01-26T02:14:40.792000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/ad6f5641-e233-472c-9e7d-38827d34d232
 32,Ninja Van,"Intern, Human Resources","Subang Jaya, Selangor, Malaysia",,2022-07-21T10:15:41.271000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/a1ceb3b6-4ebf-4620-a5df-39a029d8ea24
@@ -238,7 +239,6 @@
 27,Ninja Van,Intern Route To Market,"Shah Alam, Selangor, Malaysia",,2025-11-14T01:13:33.172000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/ad601283-433c-4d04-89f7-2f9dc24c09a8
 27,Ninja Van,Internship Regional Crossborder,"Subang Jaya, Selangor, Malaysia",,2026-01-08T08:47:33.150000+00:00,,Lever:ninjavan,https://jobs.lever.co/ninjavan/c6c3013c-09cf-4d36-bc83-8b170d1d737d
 27,Point72,2026 Boston Career Forum - 2029 Graduate Opportunities,Japan,Japan,2026-11-12T19:28:26-05:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8929646002?gh_jid=8929646002
-25,Adyen,Data Analyst II - Finance and Commercial,Amsterdam,,2026-10-29T11:03:36-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8334113
 25,Adyen,Enterprise Business Development Representative,Prague,,2026-02-25T10:44:35-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7645721
 25,Adyen,Enterprise Business Development Representative,Berlin,Germany,2026-05-27T09:37:21-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7656959
 25,Adyen,Enterprise Business Development Representative,Stockholm,,2026-11-03T07:23:40-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8349157
@@ -384,11 +384,9 @@
 5,Stripe,"Software Engineer, Intern (Summer)","San Francisco, Seattle, New York City",United States,2026-08-31T18:20:45-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8128745
 5,Stripe,Technical Recruiter (Fixed Term Contract),Singapore,Singapore,2026-08-26T06:04:46-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8142856
 5,Stripe,"Technical Support Engineer, Metronome",Singapore,Singapore,2026-09-17T12:36:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8171220
-5,Wealthsimple,Mortgage Broker (Independent Contractor),Remote (Canada); Remote,Canada,2026-11-09T16:36:57.206+00:00,,Ashby:wealthsimple,https://jobs.ashbyhq.com/wealthsimple/0e6d37e8-f942-44bc-b968-34c5f983411f
 2,Agoda,"Account Onboarding Specialist - Tokyo, Japan (6 Month Contract)","Tokyo, Japan",Japan,2026-01-12T21:32:15-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7532659
 2,Agoda,"Account Specialist - Tokyo, Japan (6 Month Contract)","Tokyo, Japan",Japan,2026-01-12T21:32:13-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7483441
 2,Agoda,"Partner Onboarding Specialist - Tokyo, Japan (6 Month Contract)","Tokyo, Japan",Japan,2026-01-12T21:32:11-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7532656
-2,Guidepoint,"Associate, Senior Talent Acquisition","Manchester, England, United Kingdom",United Kingdom,2026-08-19T06:50:38-04:00,All applicants must have the right to work in the UK.,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8729516002
 2,Point72,Academy Senior Recruiter,"New York, NY",United States,2025-11-07T16:52:31-05:00,,Greenhouse:point72,https://boards.greenhouse.io/point72/jobs/8250290002?gh_jid=8250290002
 2,Stripe,"Mobile Engineer, Treasury",United Kingdom,United Kingdom,2026-06-03T13:34:19-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7978915
 2,Stripe,"Software Engineer, Early Career — Immediate Start","San Francisco, Seattle, New York",United States,2026-09-17T19:22:32-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8212508
@@ -435,7 +433,6 @@
 1,Capco,GenAI Engineer,Czech Republic - Brno,,2025-05-19T07:15:43-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/6896887
 1,Capco,ICT Risk Analyst,Italy - Milan,,2026-03-18T06:22:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7731298
 1,Capco,Java Developer,Italy - Milan,,2024-04-08T03:47:48-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/5886720
-1,Capco,KDB Developer,India - Bengaluru,India,2026-08-24T09:19:11-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8144934
 1,Capco,Knowledge Graph & Semantics Consultant,UK - London,United Kingdom,2026-10-06T10:07:45-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8258685
 1,Capco,Kondor+ Front Office Functional Consultant,Poland - Warsaw,,2026-10-01T10:32:33-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8245803
 1,Capco,"Kondor+ Integration, Data & Database Consultant",Poland - Warsaw,,2026-10-01T11:00:32-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8245893
@@ -478,11 +475,13 @@
 1,Xendit,FinOps Recons Associate,"Bangkok, Thailand; India; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines",India,2026-10-20T04:18:58-04:00,,Greenhouse:xendit,https://job-boards.greenhouse.io/xendit/jobs/8034310003
 0,Adyen,Collections Analyst,Chicago,United States,2026-10-22T15:32:28-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8301681
 0,Adyen,Financial Risk Analyst,São Paulo,,2026-04-22T11:01:24-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7842667
+0,Adyen,FinCrime Investigator,Amsterdam,,2026-11-13T08:40:37-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8358902
 0,Adyen,IT Internal Control Officer,Mumbai,India,2026-02-11T02:02:16-05:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7537535
 0,Adyen,People Technology Application Engineer,Amsterdam,,2026-09-29T10:41:23-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8226137
 0,Adyen,Software Engineer (Full-Stack),Amsterdam,,2026-10-09T08:15:10-04:00,,Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/8105757
 0,Adyen,Software Engineer (Java),Sao Jose dos Campos,,2025-08-01T12:14:31-04:00,"As a Senior Java Developer in Payments You'll have the opportunity to: Work in a platform which process tens of millions payments per day Be involved in solutions to provide payments solution to the world's leading companies such as: Facebook, Uber, Spotify, Dafiti, 99Taxis, Rappi and many more Integrate to mostly used payment methods in the world, ex.: Visa and Mastercard, but not limiting to those What you’ll do: Design, implement, test and monitor new features Identify and improve parts of the platform to make it more robust and scalable Collaborate across teams and time zones to make things happen, review code and be open to feedback Communicating with stakeholders and merchants and monitoring the impact of new features Who you are: High skilled with Java.",Greenhouse:adyen,https://job-boards.greenhouse.io/adyen/jobs/7095304
 0,Agoda,[GSD] AI Tools Support Engineer (Bangkok Based),"Bangkok, Thailand",,2026-11-18T04:37:22-05:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8398486
+0,Agoda,Agoda Tech - Software Engineering & Engineering Management roles (Sushmi),"Bangkok, Gurgaon, Singapore",Singapore,2026-03-20T01:00:06-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/7737436
 0,Agoda,"Payroll Accounting Analyst (Bangkok-based, Relocation Provided)",Bangkok,,2026-09-29T22:37:37-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8236707
 0,Agoda,People Help Desk Analyst,"Bangkok, Thailand",,2026-09-17T23:09:49-04:00,,Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8210580
 0,Agoda,"Project Associate, Partner Excellence, Customer Experience Group (Based in Bangkok, Thailand | Relocation Provided)",Bangkok,,2026-11-22T21:44:44-05:00,"What we offer Competitive compensation package (relocation support and visa support provided for successful overseas candidates) Exciting, high‑impact career opportunity with a major global OTA, including potential moves between teams and global locations.",Greenhouse:agoda,https://job-boards.greenhouse.io/agoda/jobs/8410454
@@ -598,7 +597,6 @@
 0,Capco,PDLC/SDLC Expert – GenAI H/F,France - Paris,,2026-10-09T06:11:03-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8266755
 0,Capco,Platform & DevOps Engineer,India - Bengaluru,India,2026-11-23T00:00:04-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8405591
 0,Capco,PM - Conversation Banking,India,India,2026-05-26T08:59:20-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/7904023
-0,Capco,PM/PMO- Banking/ Financial services Domain,India - Mumbai,India,2026-07-07T04:32:27-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8046173
 0,Capco,PMO - Remediation,India - Bengaluru,India,2026-11-23T13:49:06-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8410973
 0,Capco,PowerApps,India - Bengaluru,India,2026-11-11T02:25:54-05:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8377135
 0,Capco,Programme Management Consultant (Polish is mandatory),Poland - Warsaw,,2026-09-18T09:57:30-04:00,,Greenhouse:capco,https://job-boards.greenhouse.io/capco/jobs/8213429
@@ -659,6 +657,7 @@
 0,Guidepoint,Strategic Research Associate,"Mumbai, Maharashtra, India",India,2026-11-20T09:23:50-05:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8836481002
 0,Guidepoint,Strategic Research Associate,"Shanghai Shi, China",,2026-11-16T15:15:22-05:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8905578002
 0,Guidepoint,Travel & Expense Assistant,"Mumbai, Maharashtra, India",India,2026-11-09T09:07:31-05:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8934674002
+0,Guidepoint,US Credit Research Analyst,"Mumbai, Maharashtra, India; Pune, Maharashtra, India",India,2026-11-23T22:47:41-05:00,,Greenhouse:guidepoint,https://job-boards.greenhouse.io/guidepoint/jobs/8959578002
 0,Lalamove,Driver Operations Associate (Partnership Management | 6-month contract),Kuala Lumpur,,2026-08-05T07:49:06.019000+00:00,,Lever:lalamove,https://jobs.lever.co/lalamove/5d24098b-55e5-43c2-a86e-ab9bf141ccfc
 0,Lalamove,Driver Operations Associate (Partnership Management | 6-month contract),Penang,,2026-09-25T06:38:39.642000+00:00,"Build relationships with car clubs, automotive communities and event organisers to identify suitable events, gatherings and sponsorship or partnership opportunities.",Lever:lalamove,https://jobs.lever.co/lalamove/95a0b972-186f-4bfe-838d-cb456b357997
 0,Lalamove,Driver Operations Associate (Partnership Management | 6-month contract),Johor Bahru,,2026-09-23T08:45:32.033000+00:00,"Build relationships with car clubs, automotive communities and event organisers to identify suitable events, gatherings and sponsorship or partnership opportunities.",Lever:lalamove,https://jobs.lever.co/lalamove/9b310ea4-eb43-43a3-aa29-728212b384bc
@@ -790,7 +789,7 @@
 0,Stripe,Design Recruiter,"Chicago, Atlanta, US-Remote, Toro",United States,2026-09-24T13:13:48-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8163193
 0,Stripe,Equity and Reporting Accounting,"San Francisco, Seattle ",United States,2026-09-30T18:18:52-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8240148
 0,Stripe,"Forward Deployed Engineer, Privy",New York Privy HQ,United States,2025-09-08T12:12:36-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7230452
-0,Stripe,"Fraud Operations Analyst, Bridge (CDMX)",Mexico City,,2026-10-27T22:30:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8168550
+0,Stripe,"Fraud Operations Associate, Bridge (CDMX)",Mexico City,,2026-10-27T22:30:21-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8168550
 0,Stripe,"Frontend Engineer, UI Platform",Barcelona,,2026-10-27T05:21:13-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8226890
 0,Stripe,"Full Stack Engineer, Bridge","San Francisco, NYC",United States,2026-08-20T19:35:00-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8142764
 0,Stripe,"Full Stack Engineer, Developer & End User Experience Platform",N/A,,2025-04-03T16:35:43-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=6567104
@@ -801,7 +800,6 @@
 0,Stripe,Global People Operations - Systems Administrator,Bengaluru,India,2026-09-29T05:00:02-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8227570
 0,Stripe,GTM Recruiter (Fixed Term),"Chicago, Atlanta, US-Remote, Toro",United States,2026-09-23T22:48:20-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8016504
 0,Stripe,"GTM Recruiter, OpenRouter (Fixed Term)","SF, NYC, CHI, US-Remote",United States,2026-11-20T11:38:55-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8404131
-0,Stripe,Indirect Tax Systems Specialst,"Seattle, San Francisco, Chicago, New York, Remote",United States,2026-11-23T13:37:34-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=7997359
 0,Stripe,Integration Engineer,"Mexico City, MX",,2026-10-08T13:12:58-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8203966
 0,Stripe,Integration Engineer,Dublin,Ireland,2026-10-20T10:18:32-04:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8267102
 0,Stripe,Integration Engineer,Amsterdam,,2026-11-20T11:02:37-05:00,,Greenhouse:stripe,https://stripe.com/jobs/search?gh_jid=8405596
