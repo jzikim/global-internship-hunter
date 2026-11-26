@@ -218,6 +218,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 27 | AlphaSights | [US/Asia Transfer Associate, Client Service (Mandarin Speaker), 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909605) | United States | New York | Greenhouse:alphasights |
 | 27 | AlphaSights | [Werkstudent*in Talent Acquisition (m/w/d) Schwerpunkt Campus Recruitment](https://www.alphasights.com/careers/open-roles?gh_jid=8372236) |  | Hamburg | Greenhouse:alphasights |
 | 27 | Capco | [ATP - Prod support](https://job-boards.greenhouse.io/capco/jobs/8398484) | India | India - Bengaluru | Greenhouse:capco |
+| 27 | Capco | [Full Stack Developer (Angular & Java )](https://job-boards.greenhouse.io/capco/jobs/8419547) | Canada | Canada - Toronto | Greenhouse:capco |
 | 27 | Guidepoint | [Associate, Client Service](https://job-boards.greenhouse.io/guidepoint/jobs/7586789002) |  | Athina, Αττικη, Greece | Greenhouse:guidepoint |
 | 27 | Guidepoint | [Associate, Client Service](https://job-boards.greenhouse.io/guidepoint/jobs/8675857002) | United Kingdom | Manchester, England, United Kingdom | Greenhouse:guidepoint |
 | 27 | Guidepoint | [Associate, Client Service (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8899741002) | United Kingdom | Manchester, England, United Kingdom | Greenhouse:guidepoint |
@@ -295,7 +296,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 25 | Crypto.com | [Trading Analytics Developer, Quantitative Trading](https://jobs.lever.co/crypto/0c856e71-a38e-444d-9265-c24d4d49a413) | United Kingdom | London | Lever:crypto |
 | 25 | Crypto.com | [Trading Analytics Developer, Quantitative Trading](https://jobs.lever.co/crypto/2b22d4ce-69f2-497e-bdf4-57c80fc1268a) | Hong Kong | Hong Kong | Lever:crypto |
 | 25 | Crypto.com | [Trading Analytics Developer, Quantitative Trading](https://jobs.lever.co/crypto/bd4c7626-c095-452a-a865-7cfe5214485b) | United States | Chicago,IL; Los Angeles; New York | Lever:crypto |
-| 25 | Geotab | [Business Development Representative - DACH](https://job-boards.greenhouse.io/geotab/jobs/5230683008) | Germany | Berlin, Germany - Germany | Greenhouse:geotab |
 | 25 | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | United States | New York, New York, United States | Greenhouse:guidepoint |
 | 25 | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8903527002) | United States | Boston, Massachusetts, United States | Greenhouse:guidepoint |
 | 25 | Guidepoint | [Data Analyst - Revenue Operations & Reporting](https://job-boards.greenhouse.io/guidepoint/jobs/8932703002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
@@ -396,7 +396,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 2 | Agoda | [Account Specialist - Tokyo, Japan (6 Month Contract)](https://job-boards.greenhouse.io/agoda/jobs/7483441) | Japan | Tokyo, Japan | Greenhouse:agoda |
 | 2 | Agoda | [Partner Onboarding Specialist - Tokyo, Japan (6 Month Contract)](https://job-boards.greenhouse.io/agoda/jobs/7532656) | Japan | Tokyo, Japan | Greenhouse:agoda |
 | 2 | Point72 | [Academy Senior Recruiter](https://boards.greenhouse.io/point72/jobs/8250290002?gh_jid=8250290002) | United States | New York, NY | Greenhouse:point72 |
-| 2 | Stripe | [Mobile Engineer, Treasury](https://stripe.com/jobs/search?gh_jid=7978915) | United Kingdom | United Kingdom | Greenhouse:stripe |
 | 2 | Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) |  | Bucharest | Greenhouse:stripe |
 | 2 | Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | United Kingdom | London | Greenhouse:stripe |
 | 2 | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | United States | San Francisco, Seattle, New York | Greenhouse:stripe |
@@ -410,7 +409,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Capco | [Aladdin platform consultant](https://job-boards.greenhouse.io/capco/jobs/8001028) | United Kingdom | UK - London | Greenhouse:capco |
 | 1 | Capco | [Analista de Operações Pleno - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8412507) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 1 | Capco | [Analista de Operações Sênior - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8414629) |  | Brazil - Sao Paulo | Greenhouse:capco |
-| 1 | Capco | [Analista de Operações Sênior - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8414924) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 1 | Capco | [Analista de SMS com foco em Controle e Monitoração de Processos / Home Office](https://job-boards.greenhouse.io/capco/jobs/8403071) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 1 | Capco | [Analista de Suprimentos \| Rio de Janeiro - Híbrido](https://job-boards.greenhouse.io/capco/jobs/8359062) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 1 | Capco | [Automation Engineer](https://job-boards.greenhouse.io/capco/jobs/8333222) | India | India - Bengaluru; India - Pune | Greenhouse:capco |
@@ -433,10 +431,11 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Capco | [Data Scientist](https://job-boards.greenhouse.io/capco/jobs/8333152) | India | India - Bengaluru; India - Pune | Greenhouse:capco |
 | 1 | Capco | [Data Validation-Liquidity](https://job-boards.greenhouse.io/capco/jobs/8161037) | India | India | Greenhouse:capco |
 | 1 | Capco | [Delivery BA](https://job-boards.greenhouse.io/capco/jobs/8398561) | India | India - Bengaluru; India - Chennai  | Greenhouse:capco |
-| 1 | Capco | [Engenheiro de Dados - Remoto](https://job-boards.greenhouse.io/capco/jobs/8383595) |  | Brazil - Sao Paulo | Greenhouse:capco |
-| 1 | Capco | [Engenheiro de Operações Pleno- Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8415069) |  | Brazil - Sao Paulo | Greenhouse:capco |
+| 1 | Capco | [Engenheiro de Operações Pleno - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8415040) |  | Brazil - Sao Paulo | Greenhouse:capco |
+| 1 | Capco | [Engenheiro de Operações Sênior - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8414924) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
+| 1 | Capco | [Engenheiro de Planejamento - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8414816) |  | Brazil | Greenhouse:capco |
 | 1 | Capco | [Engenheiro de Planejamento - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8415083) |  | Brazil - Sao Paulo | Greenhouse:capco |
-| 1 | Capco | [Engenheiro de Planejamento Pleno - Híbrido - Santos-SP](https://job-boards.greenhouse.io/capco/jobs/8415006) |  | Brazil - Sao Paulo | Greenhouse:capco |
+| 1 | Capco | [Engenheiro de Planejamento Pleno - Híbrido - Santos/SP](https://job-boards.greenhouse.io/capco/jobs/8415006) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 1 | Capco | [Financial Analyst (F4 Analyst)](https://job-boards.greenhouse.io/capco/jobs/8401585) | India | India | Greenhouse:capco |
 | 1 | Capco | [GCB 5-PMO](https://job-boards.greenhouse.io/capco/jobs/8025218) | India | India | Greenhouse:capco |
 | 1 | Capco | [GenAI Engineer](https://job-boards.greenhouse.io/capco/jobs/6896886) |  | Czech Republic - Prague | Greenhouse:capco |
@@ -486,8 +485,8 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 1 | Xendit | [Financial Operations Associate](https://job-boards.greenhouse.io/xendit/jobs/8034311003) |  | Bangkok, Thailand | Greenhouse:xendit |
 | 1 | Xendit | [FinOps Recons Associate](https://job-boards.greenhouse.io/xendit/jobs/8034310003) | India | Bangkok, Thailand; India; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines | Greenhouse:xendit |
 | 0 | Adyen | [Collections Analyst](https://job-boards.greenhouse.io/adyen/jobs/8301681) | United States | Chicago | Greenhouse:adyen |
+| 0 | Adyen | [Financial Crime Analyst](https://job-boards.greenhouse.io/adyen/jobs/8214603) |  | São Paulo | Greenhouse:adyen |
 | 0 | Adyen | [Financial Risk Analyst](https://job-boards.greenhouse.io/adyen/jobs/7842667) |  | São Paulo | Greenhouse:adyen |
-| 0 | Adyen | [FinCrime Analyst](https://job-boards.greenhouse.io/adyen/jobs/8300919) |  | Madrid | Greenhouse:adyen |
 | 0 | Adyen | [IT Internal Control Officer](https://job-boards.greenhouse.io/adyen/jobs/7537535) | India | Mumbai | Greenhouse:adyen |
 | 0 | Adyen | [People Technology Application Engineer](https://job-boards.greenhouse.io/adyen/jobs/8226137) |  | Amsterdam | Greenhouse:adyen |
 | 0 | Adyen | [Salesforce Developer](https://job-boards.greenhouse.io/adyen/jobs/8355381) |  | Amsterdam | Greenhouse:adyen |
@@ -537,16 +536,18 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Asset Servicing - Remoto - COM Inglês](https://job-boards.greenhouse.io/capco/jobs/8224410) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Assistente de Gestão Administrativa \| Rio de Janeiro - Híbrido](https://job-boards.greenhouse.io/capco/jobs/8383081) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Assistente de Planejamento e Operações - Híbrido/ São Paulo](https://job-boards.greenhouse.io/capco/jobs/7776215) |  | Brazil - Sao Paulo | Greenhouse:capco |
+| 0 | Capco | [Backend Developer - Java/Spring Boot](https://job-boards.greenhouse.io/capco/jobs/8418203) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [Backend Engineer](https://job-boards.greenhouse.io/capco/jobs/8345835) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Banco de Talentos - Cubatão](https://job-boards.greenhouse.io/capco/jobs/7956604) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [Biólogo - Presencial - Seropédica - RJ](https://job-boards.greenhouse.io/capco/jobs/8352475) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Consultor Especialista em Conformidade III- Híbrido - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8325091) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
-| 0 | Capco | [Consultor Especialista em Gestão e Liderança - Híbrido/Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8378251) |  | Brazil | Greenhouse:capco |
+| 0 | Capco | [Consultor Especialista em Gestão e Liderança - Híbrido/Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8160382) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Consultor Especialista em Processos I- Híbrido - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8306071) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Consultor Especialista em Projetos I - Rio de Janeiro/RJ \| Hibrído](https://job-boards.greenhouse.io/capco/jobs/8350047) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Data Engineer](https://job-boards.greenhouse.io/capco/jobs/8333351) | India | India - Pune | Greenhouse:capco |
 | 0 | Capco | [Data Engineer](https://job-boards.greenhouse.io/capco/jobs/8348966) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Data Engineer H/F](https://job-boards.greenhouse.io/capco/jobs/8229981) |  | France - Paris | Greenhouse:capco |
+| 0 | Capco | [Data Engineer with Databricks](https://job-boards.greenhouse.io/capco/jobs/8419107) | India | India - Bengaluru; India - Chennai ; India - Gurugram; India - Hyderabad; India - Mumbai; India - Pune | Greenhouse:capco |
 | 0 | Capco | [Data Loss Protection Consultant (Qatar location)](https://job-boards.greenhouse.io/capco/jobs/8273850) |  | Poland - Warsaw | Greenhouse:capco |
 | 0 | Capco | [Desenhista Projetista - Híbrido - Santos/SP](https://job-boards.greenhouse.io/capco/jobs/8383042) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [DevOps Engineer](https://job-boards.greenhouse.io/capco/jobs/8401849) | India | India - Bengaluru | Greenhouse:capco |
@@ -558,7 +559,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Engenharia ambiental/Geólogo - Betim - MG](https://job-boards.greenhouse.io/capco/jobs/8352725) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenharia ambiental/Geólogo - Canoas-RS](https://job-boards.greenhouse.io/capco/jobs/8352715) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenharia ambiental/Geólogo - Juiz de Fora/MG](https://job-boards.greenhouse.io/capco/jobs/8352731) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
-| 0 | Capco | [Engenharia ambiental/Geólogo - Tres Lagoas/MG](https://job-boards.greenhouse.io/capco/jobs/8352735) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheira ambiental/Tecnólogo em processos gerenciais c/ especialização - Araucária - PR](https://job-boards.greenhouse.io/capco/jobs/8352573) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiria Ambiental - Betim - MG](https://job-boards.greenhouse.io/capco/jobs/8352481) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Conformidade - Foco em Licenciamento Ambiental, ênfase em áreas contaminadas - Presencial - Cubatão - SP](https://job-boards.greenhouse.io/capco/jobs/7215549) |  | Brazil | Greenhouse:capco |
@@ -569,17 +569,19 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Engenheiro de Projetos Sênior - Híbrido - Santos/SP](https://job-boards.greenhouse.io/capco/jobs/7699184) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Projetos Sênior - Híbrido - Santos/SP e Rio de Janeiro/RJ](https://job-boards.greenhouse.io/capco/jobs/8055499) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Segurança do Trabalho - Home Office com Embarque Eventual](https://job-boards.greenhouse.io/capco/jobs/8303400) |  | Brazil | Greenhouse:capco |
+| 0 | Capco | [Engenheiro de Segurança do Trabalho - Presencial](https://job-boards.greenhouse.io/capco/jobs/8419232) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Segurança do Trabalho - Presencial - Itaboraí/RJ](https://job-boards.greenhouse.io/capco/jobs/8392910) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro de Segurança do Trabalho - Presencial - Rio de Janeiro](https://job-boards.greenhouse.io/capco/jobs/8226460) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Engenheiro Fiscal - Offshore - 14x14](https://job-boards.greenhouse.io/capco/jobs/8209132) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
+| 0 | Capco | [Engenheiro Fiscal - Presencial - Macaé/RJ](https://job-boards.greenhouse.io/capco/jobs/8417635) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Engenheiro Mecânico - Hibrido](https://job-boards.greenhouse.io/capco/jobs/8417179) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Engenheiro Químico - Presencial](https://job-boards.greenhouse.io/capco/jobs/8414557) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
-| 0 | Capco | [Especialista Adobe CDP (AEP) – Sênior](https://job-boards.greenhouse.io/capco/jobs/8383654) |  | Brazil - Sao Paulo | Greenhouse:capco |
 | 0 | Capco | [ETL Tester](https://job-boards.greenhouse.io/capco/jobs/8401856) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [ETRM Developer](https://job-boards.greenhouse.io/capco/jobs/8239678) | United States | US - Houston | Greenhouse:capco |
 | 0 | Capco | [FDE AI Engineer](https://job-boards.greenhouse.io/capco/jobs/8118888) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Feira de Empregabildiade - Macaé](https://job-boards.greenhouse.io/capco/jobs/8154961) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Front-end Developer](https://job-boards.greenhouse.io/capco/jobs/5886767) |  | Italy - Milan | Greenhouse:capco |
+| 0 | Capco | [Frontend Developer - React/Node.js](https://job-boards.greenhouse.io/capco/jobs/8418222) | Canada | Canada - Toronto | Greenhouse:capco |
 | 0 | Capco | [Full Stack - .Net, Angular](https://job-boards.greenhouse.io/capco/jobs/8413643) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8333208) | India | India - Bengaluru | Greenhouse:capco |
 | 0 | Capco | [Full Stack Developer](https://job-boards.greenhouse.io/capco/jobs/8336309) | India | India - Pune | Greenhouse:capco |
@@ -646,7 +648,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Capco | [Técnico de Segurança do Trabalho - Turno - Macaé](https://job-boards.greenhouse.io/capco/jobs/8243733) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Técnico de Segurança do Trabalho \| Remoto](https://job-boards.greenhouse.io/capco/jobs/8414216) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Técnico em Administração - Presencial](https://job-boards.greenhouse.io/capco/jobs/8400370) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
-| 0 | Capco | [Técnico em segurança do trabalho - Presencial](https://job-boards.greenhouse.io/capco/jobs/8414252) |  | Brazil | Greenhouse:capco |
+| 0 | Capco | [Técnico em segurança do trabalho - Presencial](https://job-boards.greenhouse.io/capco/jobs/8419183) |  | Brazil | Greenhouse:capco |
 | 0 | Capco | [Técnico em Segurança do Trabalho onshore - Presencial Catu/BA](https://job-boards.greenhouse.io/capco/jobs/8262011) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Técnico em Segurança do Trabalho onshore - Presencial Macaé](https://job-boards.greenhouse.io/capco/jobs/8261965) |  | Brazil - Rio de Janeiro | Greenhouse:capco |
 | 0 | Capco | [Técnico em Segurança do Trabalho \| São José dos Campos/SP - Presencial](https://job-boards.greenhouse.io/capco/jobs/8318542) |  | Brazil | Greenhouse:capco |
@@ -662,8 +664,8 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Guidepoint | [GRC Analyst](https://job-boards.greenhouse.io/guidepoint/jobs/8956066002) | India | Mumbai, Maharashtra, India; Pune, Maharashtra, India | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Healthcare Research Associate, Focus Polls](https://job-boards.greenhouse.io/guidepoint/jobs/8827364002) | India | Mumbai, Maharashtra, India; Pune, Maharashtra, India | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Japanese/English Translator](https://job-boards.greenhouse.io/guidepoint/jobs/8939423002) | Japan | 東京都, Japan | Greenhouse:guidepoint |
+| 0 | Guidepoint | [Strategic Research Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8023431002) | India | Gurugram, Haryana, India | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Strategic Research Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8349319002) | Japan | 東京都, Japan | Greenhouse:guidepoint |
-| 0 | Guidepoint | [Strategic Research Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8836481002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Strategic Research Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8905578002) |  | Shanghai Shi, China | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Strategic Research Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8946792002) | South Korea | Seoul, Seoul, South Korea | Greenhouse:guidepoint |
 | 0 | Guidepoint | [Travel & Expense Assistant](https://job-boards.greenhouse.io/guidepoint/jobs/8934674002) | India | Mumbai, Maharashtra, India | Greenhouse:guidepoint |
@@ -800,7 +802,7 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Design Recruiter](https://stripe.com/jobs/search?gh_jid=8163193) | United States | Chicago, Atlanta, US-Remote, Toro | Greenhouse:stripe |
 | 0 | Stripe | [Equity and Reporting Accounting](https://stripe.com/jobs/search?gh_jid=8240148) | United States | San Francisco, Seattle  | Greenhouse:stripe |
 | 0 | Stripe | [Forward Deployed Engineer, Privy](https://stripe.com/jobs/search?gh_jid=7230452) | United States | New York Privy HQ | Greenhouse:stripe |
-| 0 | Stripe | [Fraud Operations Associate, Bridge (CDMX)](https://stripe.com/jobs/search?gh_jid=8168550) |  | Mexico City | Greenhouse:stripe |
+| 0 | Stripe | [Fraud Operations Associate (CDMX)](https://stripe.com/jobs/search?gh_jid=8168550) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [Frontend Engineer, UI Platform](https://stripe.com/jobs/search?gh_jid=8226890) |  | Barcelona | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Bridge](https://stripe.com/jobs/search?gh_jid=8142764) | United States | San Francisco, NYC | Greenhouse:stripe |
 | 0 | Stripe | [Full Stack Engineer, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=6567104) |  | N/A | Greenhouse:stripe |
@@ -829,7 +831,6 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Operations Insights, Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8417785) | United States | South San Francisco, CA | Greenhouse:stripe |
 | 0 | Stripe | [Payments Performance Strategist](https://stripe.com/jobs/search?gh_jid=8405746) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Payments Performance Strategist](https://stripe.com/jobs/search?gh_jid=8405752) | United Kingdom | London | Greenhouse:stripe |
-| 0 | Stripe | [People Operations Associate (Centralized Operations)](https://stripe.com/jobs/search?gh_jid=8049722) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [People Systems Administrator](https://stripe.com/jobs/search?gh_jid=8227572) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [Processing Cost Analyst](https://stripe.com/jobs/search?gh_jid=8324207) | India | IN-Bengaluru | Greenhouse:stripe |
 | 0 | Stripe | [Recruiting Coordinator](https://stripe.com/jobs/search?gh_jid=8301264) | Singapore | Singapore | Greenhouse:stripe |
@@ -838,8 +839,10 @@ Ranked public postings. Verify dates and eligibility in the original posting.
 | 0 | Stripe | [Recruiting Scheduler (SF)](https://stripe.com/jobs/search?gh_jid=8231145) |  | SF | Greenhouse:stripe |
 | 0 | Stripe | [Risk Operations Associate, Bridge UPO](https://stripe.com/jobs/search?gh_jid=8315962) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [Sales Development Representative](https://stripe.com/jobs/search?gh_jid=8048266) | Ireland | Dublin | Greenhouse:stripe |
+| 0 | Stripe | [Sales Development Representative (Dutch Fluency)](https://stripe.com/jobs/search?gh_jid=8414067) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Sales Development Representative (German fluency)](https://stripe.com/jobs/search?gh_jid=6570259) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Sales Development Representative (Polish Fluency)](https://stripe.com/jobs/search?gh_jid=8265128) | Ireland | Dublin | Greenhouse:stripe |
+| 0 | Stripe | [Sales Development Representative (Swedish Fluency)](https://stripe.com/jobs/search?gh_jid=8419418) | Ireland | Dublin | Greenhouse:stripe |
 | 0 | Stripe | [Sales Development Representative, Japan](https://stripe.com/jobs/search?gh_jid=8148731) | Japan | Tokyo | Greenhouse:stripe |
 | 0 | Stripe | [Sanctions, Operations Associate(CDMX)](https://stripe.com/jobs/search?gh_jid=8017084) |  | Mexico City | Greenhouse:stripe |
 | 0 | Stripe | [SDC Recruiter](https://stripe.com/jobs/search?gh_jid=8237526) | India | Bengaluru | Greenhouse:stripe |
